@@ -12,6 +12,19 @@ function init() {
         strokeLineWidthSelector,
         pointsCounter, canvas, ctx;
 
+    var
+        image = document.createElement('img'),
+        imageBox = document.createElement('div'),
+        imageHeader = document.createElement('span'),
+        loadButton = document.createElement('input'),
+        removeButton = document.createElement('input'),
+        galleryBox = document.getElementById('gallery');
+
+    applyButtonAttributes(loadButton, 'Load');
+    applyButtonAttributes(removeButton, 'Remove');
+
+    loadGallery();
+
     // Get colors
     defaultColor = '#000000';
 
@@ -38,27 +51,26 @@ function init() {
     canvas = document.getElementById("drawTriangle");
     ctx = canvas.getContext("2d");
 
-    var imageBox = document.createElement('div');
-    var imageHeader = document.createElement('span');
-    var image = document.createElement('img');
-    var loadButton = document.createElement('input');
-    var removeButton = document.createElement('input');
-    var galleryBox = document.getElementById('gallery');
-
-    applyButtonAttributes(loadButton, 'Load');
-    applyButtonAttributes(removeButton, 'Remove');
-
-    loadGallery();
-
     pointsCounter = 0;
     canvas.addEventListener('click', function (event) {
+        var coordinates = getMouseCoordinates();
+        draw(coordinates[0], coordinates[1]);
+    });
+
+    function loadGallery() {
+        for (var key in localStorage) {
+            addToGallery(key);
+        }
+    }
+
+    function getMouseCoordinates(){
         var x, y, margins = 20;
 
         x = event.clientX + document.body.scrollLeft + document.documentElement.scrollLeft - margins;
         y = event.clientY + document.body.scrollTop + document.documentElement.scrollTop - margins;
 
-        draw(x, y);
-    });
+        return [x, y];
+    }
 
     function draw(x, y) {
         pointsCounter += 1;
@@ -89,22 +101,17 @@ function init() {
 
     var saveBtn = document.getElementById('saveBtn');
     saveBtn.addEventListener('click', function () {
-        var fileName = prompt('Enter file name to save your art shedevr: ', 'untitled');
-        var confirmedName = false;
-        // TODO: check if image already exists in Local Storage
+        var fileName, fileID, confirmedName = false;
+        fileName = prompt('Enter file name to save your art shedevr: ', 'untitled');
+        fileID = fileName.toString().replace(' ', '_');
         if (fileName !== null && fileName.length > 0) {
             if (localStorage.getItem(fileName) === null) {
                 addToLocalStorage(fileName);
-                addToGallery(fileName/*, localStorage.length + 1*/ );
-            }
-            if (localStorage.key(fileName) === fileName) {
-                console.log(localStorage.key(fileName));
-                console.log(fileName);
+                addToGallery(fileName);
+            } else {
                 confirmedName = confirm('Local storage already contains image with name "' + fileName + '". Replace the previous image?');
                 if (confirmedName) {
-                    removeFromLocalStorage(fileName);
-                    removeFromGallery(fileName);
-
+                    removeImage(fileName, fileID);
                     addToLocalStorage(fileName);
                     addToGallery(fileName);
                 } else {
@@ -125,26 +132,21 @@ function init() {
         galleryBox.removeChild(imageBoxToRemove);
     }
 
-    function loadGallery() {
-        var index = 0;
-        for (var key in localStorage) {
-            addToGallery(key, index);
-            index += 1;
-        }
-    }
+    function addToGallery(key) {
+        var currentImageBox, currentHeader,
+            img, loadBtn, removeBtn;
 
-    function addToGallery(key, id) {
-        var currentImageBox = imageBox.cloneNode(true);
+        currentImageBox = imageBox.cloneNode(true);
         currentImageBox.classList.add('imageBox');
-        currentImageBox.id = id;
+        currentImageBox.id = key.toString().replace(' ', '_');
 
-        var currentHeader = imageHeader.cloneNode(true);
+        currentHeader = imageHeader.cloneNode(true);
         currentHeader.innerHTML = key + '<br>';
 
-        var img = image.cloneNode(true);
+        img = image.cloneNode(true);
         img.src = localStorage.getItem(key);
 
-        var loadBtn = loadButton.cloneNode(true);
+        loadBtn = loadButton.cloneNode(true);
         loadBtn.addEventListener('click', function () {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
             var img = new Image();
@@ -152,7 +154,7 @@ function init() {
             ctx.drawImage(img, 0, 0);
         });
 
-        var removeBtn = removeButton.cloneNode(true);
+        removeBtn = removeButton.cloneNode(true);
         removeBtn.addEventListener('click', function () {
             removeImage(key, currentImageBox.id);
         });
@@ -174,6 +176,6 @@ function init() {
 
 onload = init;
 
-// TODO: Optimize - And work via parent element
-// TODO: Optimize - createDocumentFragment() - append everything to it and return the whole fragment
+// TODO: Hint - work via parent element
+// TODO: Optimize suggest - createDocumentFragment() - append everything to it and return the whole fragment
 // TODO: Refactoring - separate drawing logic and storage logic
