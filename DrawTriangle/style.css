@@ -1,27 +1,33 @@
-html, body, #wrapper, #drawArea, #storage, #gallery, canvas, form, input{
+html, body, div, span, canvas, form, input {
     margin: 0;
     padding: 0;
 }
-#wrapper{
+
+#wrapper {
     width: 900px;
 }
-#drawArea{
+
+#drawArea {
     width: 600px;
     margin-left: 20px;
     float: left;
 }
-canvas{
+
+canvas {
     margin-top: 20px;
     border: 1px solid black;
 }
-canvas:hover{
+
+canvas:hover {
     cursor: crosshair;
 }
-form{
+
+form {
     display: inline-block;
     text-align: center;
 }
-input, button{
+
+input, button {
     margin-top: 5px;
     margin-right: 10px;
     margin-left: 10px;
@@ -29,18 +35,18 @@ input, button{
     display: inline;
 }
 
-#lineWidth{
+#lineWidth {
     max-width: 50px;
 }
 
-#storage{
-    margin-top:10px;
+#storage {
+    margin-top: 10px;
     text-align: center;
     float: right;
     margin-right: 30px;
 }
 
-#gallery{
+#gallery {
     margin-top: 10px;
     margin-bottom: 10px;
     width: 220px;
@@ -49,22 +55,43 @@ input, button{
     overflow: scroll;
 }
 
-.imageBox{
-    padding: 10px;
+.imageBox {
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.imageBox:hover {
+    background-color: #efefef;
 }
 
 img {
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: 100%;
     border: 1px solid black;
+    background-color: white;
 }
 
-.textBtn{
-    text-decoration: underline;
+.textBtn {
     cursor: pointer;
-    border:none;
+    border: none;
     background: none;
+    margin: 0;
+    padding: 10px;
+    min-width: 90px;
 }
-.textBtn:hover{
+
+.textBtn:hover {
     color: darkslateblue;
+    text-decoration: underline;
+    background-color: #e3e5e3;
+    border-radius: 5px;
+}
+
+.button-row {
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid black;
 }

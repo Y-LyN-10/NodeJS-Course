@@ -15,11 +15,13 @@ function init() {
     var
         image = document.createElement('img'),
         imageBox = document.createElement('div'),
-        imageHeader = document.createElement('span'),
+        buttonRow = document.createElement('div'),
+        imageHeader = document.createElement('div'),
         loadButton = document.createElement('input'),
         removeButton = document.createElement('input'),
         galleryBox = document.getElementById('gallery');
 
+    applyButtonRowAttributes(buttonRow);
     applyButtonAttributes(loadButton, 'Load');
     applyButtonAttributes(removeButton, 'Remove');
 
@@ -63,7 +65,7 @@ function init() {
         }
     }
 
-    function getMouseCoordinates(){
+    function getMouseCoordinates() {
         var x, y, margins = 20;
 
         x = event.clientX + document.body.scrollLeft + document.documentElement.scrollLeft - margins;
@@ -96,12 +98,13 @@ function init() {
     // Clear canvas
     clearBtn = document.getElementById('clearBtn');
     clearBtn.addEventListener('click', function () {
-        ctx.clearRect(0, 0, 600, 400);
+        ctx.clearRect(0, 0, canvas.width, canvas.height);
     });
 
     var saveBtn = document.getElementById('saveBtn');
     saveBtn.addEventListener('click', function () {
         var fileName, fileID, confirmedName = false;
+
         fileName = prompt('Enter file name to save your art shedevr: ', 'untitled');
         fileID = fileName.toString().replace(' ', '_');
         if (fileName !== null && fileName.length > 0) {
@@ -125,26 +128,21 @@ function init() {
         localStorage.setItem(key, canvas.toDataURL());
     }
 
-    // Remove from local storage and from gallery
-    function removeImage(key, id) {
-        localStorage.removeItem(key);
-        var imageBoxToRemove = document.getElementById(id);
-        galleryBox.removeChild(imageBoxToRemove);
-    }
-
     function addToGallery(key) {
-        var currentImageBox, currentHeader,
-            img, loadBtn, removeBtn;
+        var currentImageBox, currentHeader, img,
+            currentBtnRow, loadBtn, removeBtn;
 
         currentImageBox = imageBox.cloneNode(true);
         currentImageBox.classList.add('imageBox');
         currentImageBox.id = key.toString().replace(' ', '_');
 
         currentHeader = imageHeader.cloneNode(true);
-        currentHeader.innerHTML = key + '<br>';
+        currentHeader.innerHTML = key;
 
         img = image.cloneNode(true);
         img.src = localStorage.getItem(key);
+
+        currentBtnRow = buttonRow.cloneNode(true);
 
         loadBtn = loadButton.cloneNode(true);
         loadBtn.addEventListener('click', function () {
@@ -159,11 +157,24 @@ function init() {
             removeImage(key, currentImageBox.id);
         });
 
+        currentBtnRow.appendChild(loadBtn);
+        currentBtnRow.appendChild(removeBtn);
+
         currentImageBox.appendChild(currentHeader);
         currentImageBox.appendChild(img);
-        currentImageBox.appendChild(loadBtn);
-        currentImageBox.appendChild(removeBtn);
+        currentImageBox.appendChild(currentBtnRow);
         galleryBox.appendChild(currentImageBox);
+    }
+
+    // Remove from local storage and from gallery too
+    function removeImage(key, id) {
+        localStorage.removeItem(key);
+        var imageBoxToRemove = document.getElementById(id);
+        galleryBox.removeChild(imageBoxToRemove);
+    }
+
+    function applyButtonRowAttributes(buttonRow) {
+        buttonRow.classList.add('button-row');
     }
 
     function applyButtonAttributes(textButton, value) {
@@ -176,6 +187,4 @@ function init() {
 
 onload = init;
 
-// TODO: Hint - work via parent element
-// TODO: Optimize suggest - createDocumentFragment() - append everything to it and return the whole fragment
 // TODO: Refactoring - separate drawing logic and storage logic
