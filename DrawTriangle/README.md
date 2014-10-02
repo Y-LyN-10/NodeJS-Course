@@ -5,3 +5,4 @@ Drawing Triangles on Canvas
 
 #### Result: <a href="http://meandmy.softuni-friends.org/drawtriangles">Live Demo</a>
 
+<img src="https://raw.githubusercontent.com/Y-LyN-10/TasksToApply-NodeJS-Course/master/DrawTriangle/preview-final-v.3.4.png" width="768" height="421">
