@@ -9,5 +9,10 @@
   "age": "0.3 bilion",
   "horns": "1",
   "probability": "0.1e-50000"
+ },
+ "narwal": {
+  "mamal": "true",
+  "horns": "0",
+  "huge_teeth": "1"
  }
 }

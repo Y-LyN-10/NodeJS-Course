@@ -16,11 +16,12 @@ function testWithFile(fileName, expected) {
       console.error('Return code ' + code);
     } else {
       result = require('./' + fileName.replace(/.ini$/, '.json'));
+//      console.log(result, expected);
       expect(result).to.deep.eq(expected);
     }
   });
 }
-
+//
 testWithFile('config.ini', {
   "panda": {
     "name": "Stamat",
