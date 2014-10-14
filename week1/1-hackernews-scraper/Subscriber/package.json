@@ -1,0 +1,19 @@
+{
+  "name": "Hackernews-Scraper",
+  "version": "1.0.0",
+  "description": "We want to build a larger system that does something more interesting and complex this time.",
+  "main": "subscriber.js",
+  "dependencies": {
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "generate-key": "^0.0.6",
+    "node-persist": "0.0.2",
+    "nodemon": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
