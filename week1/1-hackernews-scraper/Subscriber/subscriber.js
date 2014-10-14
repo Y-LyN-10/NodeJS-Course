@@ -47,3 +47,6 @@ app.get('/listSubscribers', function(req, res) {
 });
 
 app.listen(3000);
+
+// TODO: ... res.json
+// TODO: ... on subscription return ID, not only 'OK'
