@@ -1,50 +1,41 @@
-var fs = require('fs');
-var os = require('os');
-var http = require('https');
+var fs = require('fs'),
+    os = require('os'),
+    http = require('https'),
+    path = require('path'),
+    filePath = process.argv[2];
 
-var path = process.argv[2];
-
-convertController(path);
-
-function convertController(path) {
-    if (path !== undefined) {
-        var fileName = getFileName(path);
-        var parsedObj;
-
-        if (endsWith(path, '.ini')) {
-            if (path.substring(0, 4) === 'http') {
-                parseIniFromURL(path, function(result) {
-                    saveFileToFS(fileName + '.json', result);
-                });
-            }
-            else {
-                parseIniFromFS(path, function (result) {
-                    saveFileToFS(fileName + '.json', result);
-                });
-            }
-        }
-        else if (endsWith(path, '.json')) {
-            if (path.substring(0, 4) === 'http') {
-                parseJsonFromURL(path, function (result) {
-                    saveFileToFS(fileName + '.ini', result);
-                });
-            }
-            else {
-                parseJsonFromFS(path, function (result) {
-                    saveFileToFS(fileName + '.ini', result);
-                });
-            }
-        }
-    }
-
-    function endsWith(str, suffix) {
-        return str.indexOf(suffix, str.length - suffix.length) !== -1;
-    }
+if (filePath !== undefined) {
+    convertController(filePath);
+} else {
+    throw new Error('Wrong path');
 }
 
-function getFileName(path) {
-    var urlParts = path.split(/[//.\\]/);
-    return urlParts[urlParts.length - 2];
+function convertController(filePath) {
+    var fileName = path.basename(filePath, ('.ini' || '.json'));
+    var isIni = path.basename(filePath, '.ini');
+    var isJson = path.basename(filePath, '.json');
+    var isUrl = filePath.substring(0, 4) === 'http';
+    var parsedObj;
+
+    if (isUrl && isIni) {
+        parseIniFromURL(filePath, function (result) {
+            saveFileToFS(fileName + '.json', result);
+        });
+    } else if (isUrl && isJson) {
+        parseJsonFromURL(filePath, function (result) {
+            saveFileToFS(fileName + '.ini', result);
+        });
+    } else if (!isUrl && isIni) {
+        parseIniFromFS(filePath, function (result) {
+            saveFileToFS(fileName + '.json', result);
+        });
+    } else if (!isUrl && isJson) {
+        parseJsonFromFS(filePath, function (result) {
+            saveFileToFS(fileName + '.ini', result);
+        });
+    } else {
+        throw new Error('Invalid file format');
+    }
 }
 
 function saveFileToFS(fileName, content) {
@@ -105,7 +96,7 @@ function parseIniToJSON(data) {
             // it's invalid and we do nothing with it
         }
         else if (line.indexOf('[') > -1) {
-            var objName = line.match(/[^\[\]+]/g).join('').replace(/ /g,'');
+            var objName = line.match(/[^\[\]+]/g).join('').replace(/ /g, '');
             json[objName] = {};
             nameOfObject = objName;
         }
