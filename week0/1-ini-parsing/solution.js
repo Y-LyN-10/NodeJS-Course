@@ -7,13 +7,13 @@ var fs = require('fs'),
 if (filePath !== undefined) {
     convertController(filePath);
 } else {
-    throw new Error('Wrong path');
+    console.log('Wrong path');
 }
 
 function convertController(filePath) {
     var fileName = path.basename(filePath, ('.ini' || '.json'));
-    var isIni = path.basename(filePath, '.ini');
-    var isJson = path.basename(filePath, '.json');
+    var isIni = path.extname(filePath) === '.ini';
+    var isJson = path.extname(filePath) ==='.json';
     var isUrl = filePath.substring(0, 4) === 'http';
     var parsedObj;
 
@@ -34,7 +34,7 @@ function convertController(filePath) {
             saveFileToFS(fileName + '.ini', result);
         });
     } else {
-        throw new Error('Invalid file format');
+        console.log('Invalid file format');
     }
 }
 
