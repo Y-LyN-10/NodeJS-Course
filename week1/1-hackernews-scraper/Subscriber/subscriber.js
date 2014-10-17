@@ -11,6 +11,10 @@ var express = require ('express'),
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 
+app.get('/', function(req, res) {
+    res.send('Welcome!');
+});
+
 app.post('/subscribe', function(req, res) {
     var email = req.body.email;
     var keywords = req.body.keywords.split(/[^a-zA-Z0-9]/).filter(Boolean);
@@ -22,7 +26,7 @@ app.post('/subscribe', function(req, res) {
 
     subscribers[subscriberID] = subscriber;
     saveSubscribersList();
-    res.sendStatus(200);
+    res.json(subscriberID);
 });
 
 app.post('/unsubscribe', function(req, res) {
@@ -43,10 +47,7 @@ function saveSubscribersList() {
 }
 
 app.get('/listSubscribers', function(req, res) {
-    res.send(subscribers);
+    res.json(subscribers);
 });
 
 app.listen(3000);
-
-// TODO: ... res.json
-// TODO: ... on subscription return ID, not only 'OK'
