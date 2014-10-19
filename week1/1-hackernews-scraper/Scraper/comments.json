@@ -1,10 +1,58 @@
 {
- "8475891": {
-  "by": "nicholassmith",
-  "id": 8475891,
-  "parent": 8475742,
-  "text": "With the Nax cards there&#x27;s always a weakness, Blizzard introduced them to change the meta but they made sure people could still enjoy the game without forking over too much capital. I&#x27;ve only done the first two dungeons, but I&#x27;ve always held my own against those playing the cards from it.",
-  "time": 1413655880,
+ "8477453": {
+  "by": "nkurz",
+  "id": 8477453,
+  "parent": 8477398,
+  "text": "I posted this before I looked up the timings.  Some of the historically slow instructions like BT are now fast. I was hoping these might be among them, but unfortunately these are not.<p>For Haswell, Agner (<a href=\"http://www.agner.org/optimize/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.agner.org&#x2F;optimize&#x2F;</a>) says:<p>AAA 2 uops, Latency 4\nAAS 2 uops, Latency 6\nAAD 3 uops, Latency 4\nAAM 8 uops, Latency 21",
+  "time": 1413701582,
+  "type": "comment"
+ },
+ "8477457": {
+  "by": "icebraining",
+  "id": 8477457,
+  "parent": 8476745,
+  "text": "<a href=\"http://www.legislation.gov.uk/ukpga/2003/21/section/127\" rel=\"nofollow\">http:&#x2F;&#x2F;www.legislation.gov.uk&#x2F;ukpga&#x2F;2003&#x2F;21&#x2F;section&#x2F;127</a>",
+  "time": 1413701713,
+  "type": "comment"
+ },
+ "8477458": {
+  "by": "avmich",
+  "id": 8477458,
+  "parent": 8477273,
+  "text": "In J there are two special ways to combine functions which are written using special syntax. Namely,<p>1) when you want to calculate f(y, g(y)) , you write (f g) y - this is &quot;hook&quot; of one argument (monadic, in J terms)<p>2) when you want to calculate f(x, g(y)) , you write x (f g) y - this is &quot;hook&quot; of two arguments (dyadic)<p>3) when you want to calculate f(g(y), h(y)) , you write (g f h) y - this is monadic &quot;fork&quot;<p>4) when you need f(g(x, y), h(x, y)) , you use x (g f h) y - dyadic fork<p>5) when you have a train - say, (a b c d e) x - longer than 3 elements, then you consider rightmost 3 functions (functions are called verbs in J) as a single fork - say, f - and then consider (a b f) x . So (a b c d e) x is<p>b(a(x), d(c(x), e(x)))<p>If the train length is even, the last operation becomes hook - so x (a b c d) y is<p>a(x, c(b(x, y), d(x, y)))<p>You can express any computation as a sufficiently complex train.",
+  "time": 1413701735,
+  "type": "comment"
+ },
+ "8477459": {
+  "by": "WalterBright",
+  "id": 8477459,
+  "parent": 8476799,
+  "text": "I can&#x27;t even read my own handwriting.",
+  "time": 1413701754,
+  "type": "comment"
+ },
+ "8477461": {
+  "by": "stepstep",
+  "id": 8477461,
+  "parent": 8477124,
+  "text": "I love it. :) Small suggestion: make the cursor slide against walls rather than getting stuck (at least it gets stuck on walls for me in Chrome).",
+  "time": 1413701776,
+  "type": "comment"
+ },
+ "8477464": {
+  "by": "icebraining",
+  "id": 8477464,
+  "parent": 8476751,
+  "text": "Oh, well, as long as the overreaching articles have been the law for a long time, it&#x27;s alright then.",
+  "time": 1413701863,
+  "type": "comment"
+ },
+ "8477465": {
+  "by": "morgante",
+  "id": 8477465,
+  "parent": 8477360,
+  "text": "You can draw by holding ctrl.",
+  "time": 1413701874,
   "type": "comment"
  }
 }

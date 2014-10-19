@@ -4,6 +4,7 @@ var express = require('express'),
     bodyParser = require('body-parser'),
     request = require('request'),
     articles = require('./articles.json'),
+    comments = require('./comments.json'),
     fs = require('fs'),
     os = require('os'),
 //    Q = require('q'),
@@ -50,7 +51,7 @@ function getMaxItem() {
             if(resultsObj > maxItem){
                 for (var i = maxItem+1; i <= resultsObj; i+=1) {
                     getArticle(i);
-                    console.log('New item with ID: ' + i);
+//                    console.log('New item with ID: ' + i);
                 }
                 maxItem = resultsObj;
             }
@@ -65,31 +66,31 @@ function getArticle(itemID) {
         }
 
         item = JSON.parse(item);
-        var objItem = {};
-        objItem[itemID] = item;
-
-        saveItemToFS(itemID, objItem);
+        saveItemToFS(itemID, item);
     });
 }
 
 function saveItemToFS(id, item) {
-    var saveData = JSON.stringify(item, os.EOL, ' ');
-    if(item[id].type === 'story'){
+    if(item.type === 'story'){
+        articles[id] = item;
+        var saveData = JSON.stringify(articles, os.EOL, ' ');
         fs.writeFile('./articles.json', saveData, 'utf8', function (err) {
             if (err) {
                 throw err;
             }
         });
-        console.log('saved article');
-    } else if(item[id].type === 'comment'){
+        console.log('saved article with ID: ' + id +' and title: ' + item.title);
+    } else if(item.type === 'comment'){
+        comments[id] = item;
+        var saveData = JSON.stringify(comments, os.EOL, ' ');
         fs.writeFile('./comments.json', saveData, 'utf8', function (err) {
             if (err) {
                 throw err;
             }
         });
-        console.log('saved comment');
+        console.log('saved comment with ID: ' + id);
     } else {
-        console.log('unrecognized item');
+        console.log('unrecognized item: ');
         console.log(item);
     }
 }
