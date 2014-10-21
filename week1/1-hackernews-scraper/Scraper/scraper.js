@@ -65,8 +65,13 @@ function getArticle(itemID) {
             console.log(err);
         }
 
-        item = JSON.parse(item);
-        saveItemToFS(itemID, item);
+        if(item !== null){
+            item = JSON.parse(item);
+            saveItemToFS(itemID, item);
+        } else {
+            // It happened to me once
+            console.log('There was something, but it\'s null - maybe deleted? xD');
+        }
     });
 }
 
@@ -79,7 +84,7 @@ function saveItemToFS(id, item) {
                 throw err;
             }
         });
-        console.log('saved article with ID: ' + id +' and title: ' + item.title);
+        console.log('saved article with ID: ' + id +' | Title: ' + item.title);
     } else if(item.type === 'comment'){
         comments[id] = item;
         var saveData = JSON.stringify(comments, os.EOL, ' ');
@@ -94,8 +99,5 @@ function saveItemToFS(id, item) {
         console.log(item);
     }
 }
-
-// TODO: 2. Save all new articles in the file system
-// - Get all articles by ID in the range from lastMaxItem to maxItem
 
 app.listen(3001);
