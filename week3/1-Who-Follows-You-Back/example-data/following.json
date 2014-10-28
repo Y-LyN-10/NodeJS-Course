@@ -1,0 +1,26 @@
+{
+	"skanev": {
+		"paulca": ["technoweenie", "topfunky", "jchris", "hoverbird"], 
+		"Mange":["teddyzetterlund", "skanev", "lasse",	"acrookston"], 
+		"cjse":["jnicklas"], 
+		"tenderlove":["wycats","evanphx","technoweenie","Caged","topfunky"]
+		},
+	"mpeshev": {
+
+		},
+	"RadoRado": {
+		"skanev": ["paulca", "Mange", "cjse", "tenderlove"],
+		"nb": ["tpope", "jonmagic", "tenderlove", "briandoll"],
+		"marvellouz": ["charlenopires", "skanev", "emou", "rhcarvalho"],
+		"bbatsov": ["purcell", "nicferrier", "edzhelyov", "tsvetomilam"]
+		},
+	"iordan93": {},
+	"Teodor92": {},
+	"ivaylokenov": {},
+	"vladislav-karamfilov": {},
+	"Dsmilyanov": {},
+	"KristianMariyanov": {},
+	"YanaSlavcheva": {},
+	"borislavml":{},
+	"xakepru":{}
+}
