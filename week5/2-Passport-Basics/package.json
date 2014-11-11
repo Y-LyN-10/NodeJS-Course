@@ -1,0 +1,22 @@
+{
+  "name": "Passport-Basics",
+  "version": "1.0.0",
+  "description": "Passport learning exercise",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Y-Lyn-10",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "generate-key": "0.0.6",
+    "mongo": "^0.1.0",
+    "mongodb": "^1.4.19",
+    "nodemon": "^1.2.1",
+    "passport": "^0.2.1",
+    "passport-local": "^1.0.0",
+    "path": "^0.4.9"
+  }
+}
