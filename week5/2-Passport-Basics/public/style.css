@@ -1,0 +1,25 @@
+html, body, main, div, form, label, input{
+	margin: 0;
+	padding: 0;
+}
+
+main{
+	height: 150px;
+	background-color: #eeeeee;
+}
+
+h3{
+	margin-left: 20px;
+	text-transform: uppercase;
+}
+
+.login{
+	padding: 20px;
+	width: 200px;
+}
+
+input[type='submit']{
+	margin-top:10px;
+	padding:2px;
+	width: 60px;
+}
