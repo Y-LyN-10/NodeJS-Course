@@ -1,0 +1,23 @@
+{
+  "name": "Scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scraper.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "async-waterfall": "^0.1.5",
+    "body-parser": "^1.9.0",
+    "express": "^4.9.7",
+    "nodemon": "^1.2.1",
+    "promise": "^6.0.1",
+    "promises": "^0.2.5",
+    "q": "^1.1.1",
+    "request": "^2.45.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

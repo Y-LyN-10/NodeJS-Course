@@ -1,0 +1,138 @@
+{
+ "8611836": {
+  "by": "guscost",
+  "id": 8611836,
+  "parent": 8611597,
+  "text": "While it seems perhaps uncharacteristic of a space agency to make engineering decisions based on politics, if I had to guess I&#x27;d imagine that the team was well aware of the PR effect of the power supply chosen for their lander. I would also guess that the same issue was considered at NASA while planning the Mars Exploration Rover (solar) and Curiosity (RTG) missions. Are you claiming that this did not factor into their decision at all?",
+  "time": 1416065552,
+  "type": "comment"
+ },
+ "8611837": {
+  "by": "userbinator",
+  "id": 8611837,
+  "parent": 8611371,
+  "text": "Until I see an award-winning 4k&#x2F;64k demo written in one of these ultra-high-level languages, I stand by my opinion that C is more efficient.",
+  "time": 1416065573,
+  "type": "comment"
+ },
+ "8611842": {
+  "by": "toddmatthews",
+  "id": 8611842,
+  "parent": 8611394,
+  "text": "pound for pound,  solar power is much cheaper. you cant disregard the weight considerations of a thermoelectric generator",
+  "time": 1416065710,
+  "type": "comment"
+ },
+ "8611843": {
+  "by": "Dewie",
+  "id": 8611843,
+  "parent": 8611332,
+  "text": "I won&#x27;t echo this sentiment, but; why use C for writing a <i>compiler</i>? It seems that languages in the ML family, among others, are nicer for that kind of domain.<p>I guess it at least has its uses if you want your compiler to be really fast.",
+  "time": 1416065717,
+  "type": "comment"
+ },
+ "8611844": {
+  "by": "kbutler",
+  "id": 8611844,
+  "parent": 8610472,
+  "text": "<a href=\"http://www.press.uchicago.edu/Misc/Chicago/284158_townes.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.press.uchicago.edu&#x2F;Misc&#x2F;Chicago&#x2F;284158_townes.htm...</a><p>1960.<p>When the first laser appeared, scientists and engineers were not really prepared for it. Many people said to me—partly as a joke but also as a challenge—that the laser was &quot;a solution looking for a problem.&quot;",
+  "time": 1416065723,
+  "type": "comment"
+ },
+ "8611845": {
+  "by": "bjz_",
+  "id": 8611845,
+  "parent": 8611753,
+  "text": "Associated types mainly: <a href=\"https://github.com/rust-lang/rust/issues/17307\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rust&#x2F;issues&#x2F;17307</a>",
+  "time": 1416065738,
+  "type": "comment"
+ },
+ "8611846": {
+  "by": "natch",
+  "id": 8611846,
+  "parent": 8611811,
+  "text": "Um, no. This isn&#x27;t easy to do, except in movies. Glass doesn&#x27;t have the CPU power to do it, so you&#x27;d have to rely on cloud power; do you really think everybody wants all their key strokes sent to Google? And language models aren&#x27;t that much help with terminal commands. And even humans can&#x27;t do this; you&#x27;re expecting Glass to be smarter than a human... not impossible, but think about what processing power and memory it has on board, both constrained by battery. And your head would have to be in an incredibly awkward position. So many reasons, no.",
+  "time": 1416065742,
+  "type": "comment"
+ },
+ "8611847": {
+  "by": "dllthomas",
+  "id": 8611847,
+  "parent": 8611136,
+  "text": "certainly possible",
+  "time": 1416065805,
+  "type": "comment"
+ },
+ "8611848": {
+  "by": "throwaway_yy2Di",
+  "id": 8611848,
+  "parent": 8611676,
+  "text": "1.7 kg, I think:<p><pre><code>    Unit                        Mass (kg)\n    \n    Thermal Control System      3.9\n    ...MLI                      ...2.7\n    \n    Power System                12\n    ...Electronics              ...2.0\n    ...Batteries                ...8.5\n    ...Solar Generator          ...1.7\n\n    Sum [Lander]                97.9\n\n    Sum [incl. Orbiter units]   111.0\n</code></pre>\nExcerpt from table 1, page 208:<p><a href=\"http://link.springer.com/article/10.1007/s11214-006-9138-2\" rel=\"nofollow\">http:&#x2F;&#x2F;link.springer.com&#x2F;article&#x2F;10.1007&#x2F;s11214-006-9138-2</a><p>open-access PDF:<p><a href=\"http://www.researchgate.net/publication/257664668_The_Rosetta_Lander_(Philae)_Investigations/links/02bfe50e5ecb0f3078000000\" rel=\"nofollow\">http:&#x2F;&#x2F;www.researchgate.net&#x2F;publication&#x2F;257664668_The_Rosett...</a>",
+  "time": 1416065829,
+  "type": "comment"
+ },
+ "8611849": {
+  "by": "programminggeek",
+  "id": 8611849,
+  "parent": 8608891,
+  "text": "I think Lincoln, NE is far more hipster than Des Moines.",
+  "time": 1416065851,
+  "type": "comment"
+ },
+ "8611850": {
+  "by": "jwcooper",
+  "id": 8611850,
+  "parent": 8611821,
+  "text": "Here is an article that breaks down a baking steel vs a baking stone. The steel comes out on top, mostly due to the thermal properties of steel:\n<a href=\"http://slice.seriouseats.com/archives/2012/09/the-pizza-lab-the-baking-steel-delivers.html\" rel=\"nofollow\">http:&#x2F;&#x2F;slice.seriouseats.com&#x2F;archives&#x2F;2012&#x2F;09&#x2F;the-pizza-lab-...</a>",
+  "time": 1416065891,
+  "type": "comment"
+ },
+ "8611852": {
+  "by": "ikawe",
+  "id": 8611852,
+  "parent": 8611813,
+  "text": "This article is targeting people who want to do a really serious job of creating that non-stick layer - and good for them. But I would forgive you if you were too lazy to follow their instructions (I probably am).<p>But a rudimentary seasoning is really easy:<p>Wipe some oil over the pan. Use as [high temp oil] as possible, but whatever you have will work. Wipe off any access with a paper towel. Put it in your oven at 230(C)&#x2F;450(F) for at least 30 minutes. (careful it will smoke a bit).<p>I couldn&#x27;t recommend using it at all without some base layer of seasoning. It&#x27;s really easy to do and lasts quite a while, even if you don&#x27;t follow the articles really thorough methodology.<p>source: me - frying with cast-irons twice a day for 10 years<p>[high temp oil] aka those with the highest &quot;smoke point&quot;\n<a href=\"http://en.wikipedia.org/wiki/Cooking_oil#Types_of_oils_and_their_characteristics\" rel=\"nofollow\">http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Cooking_oil#Types_of_oils_and_t...</a>",
+  "time": 1416065901,
+  "type": "comment"
+ },
+ "8611853": {
+  "by": "enziobodoni",
+  "id": 8611853,
+  "parent": 8609936,
+  "text": "This reminds me a bit of when Sarah Palin derided worm research (C elegans), ignorant of the fact that such research was the backbone of genetics and neurobiology research.",
+  "time": 1416065905,
+  "type": "comment"
+ },
+ "8611860": {
+  "by": "maxerickson",
+  "id": 8611860,
+  "parent": 8611852,
+  "text": "Much of the point of the article is that smoke point is a less useful guide than the composition of the oil.<p>If you don&#x27;t want to use flax seed oil, just use canola oil.",
+  "time": 1416066135,
+  "type": "comment"
+ },
+ "8611878": {
+  "by": "ensignavenger",
+  "id": 8611878,
+  "parent": 8611694,
+  "text": "My wife&#x27;s grandmother recently gave her a cast iron skillet that was allegedly owned by her grandmother!  Awesome cookware :)",
+  "time": 1416066633,
+  "type": "comment"
+ },
+ "8611879": {
+  "by": "rsync",
+  "id": 8611879,
+  "parent": 8611793,
+  "text": "I think Minneapolis should be on that list.  I don&#x27;t live there anymore, having moved to the SFBA.<p>I don&#x27;t live in an urban area, but if I did I think it would be MPLS.",
+  "time": 1416066689,
+  "type": "comment"
+ },
+ "8611880": {
+  "by": "foobarian",
+  "id": 8611880,
+  "parent": 8611468,
+  "text": "I recently got a pan like this: <a href=\"http://www.kohls.com/product/prd-1305988/country-cabin-10-in-cast-iron-skillet.jsp\" rel=\"nofollow\">http:&#x2F;&#x2F;www.kohls.com&#x2F;product&#x2F;prd-1305988&#x2F;country-cabin-10-in...</a> which turned out to be super-coarse.  I ended up polishing it with an angle grinder and fine sandpaper, then seasoning the resulting smooth surface.<p>I haven&#x27;t seen more high end antique pans first hand, but my understanding is that they were factory-polished, and that this step is somewhat costly.",
+  "time": 1416066704,
+  "type": "comment"
+ }
+}
