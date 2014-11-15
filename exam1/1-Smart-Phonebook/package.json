@@ -1,0 +1,19 @@
+{
+  "name": "1-Smart-Phonebook",
+  "version": "1.0.0",
+  "description": "We are going to create a simple web application that keeps phone numbers and names together.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "mongodb": "^1.4.19",
+    "multer": "^0.1.6",
+    "request": "^2.48.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
