@@ -10,61 +10,77 @@ var express = require('express'),
     os = require('os'),
     app = express();
 
-var maxItemUrl = 'https://hacker-news.firebaseio.com/v0/maxitem.json',
-    itemsUrl = 'https://hacker-news.firebaseio.com/v0/item/';
+var MAX_ITEM_URL = 'https://hacker-news.firebaseio.com/v0/maxitem.json',
+    ITEMS_URL = 'https://hacker-news.firebaseio.com/v0/item/',
+    JSON_EXT = '.json';
 
-var maxItem, lastSavedItem;
+var seconds = 60 * 2000;
+var lastSavedItem;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
 
-setTimeout(function() {
-	getLastSavedItem()
-    	.then(getMaxItem)
-        .then(getNewItemIDs)
-        .then(getContent)
-        .fail(function(error) {
-            console.log("Failed");
-            console.log(error);
-        })
-        .done(function() {
-            console.log('done');
-        });
- }, 60 * 1000);
+loop(seconds);
+
+function loop(seconds){
+    console.log('waiting for the timeout');
+    setTimeout(function() {
+    	getLastSavedItem()
+        	.then(getMaxItem)
+            .then(getNewItemIDs)
+            .then(getContent)
+            .then(saveItemsToFS)
+            .fail(function(error) {
+                console.log("Failed");
+                console.log(error);
+            })
+            .done(function() {
+                console.log('done');
+                loop(seconds);
+            });
+     }, seconds);
+}
 
 function getLastSavedItem() {
 	var defered = Q.defer();
+    var items = ['articles', 'comments'];
 
-    fs.readFile('articles.json', 'utf8', function (err, data) {
-        if (err) {
-            return defered.reject(error);
-        }
+    items.forEach(function(fileName, index) {
+        var maxFoundItem;
+        fs.readFile(fileName + JSON_EXT, 'utf8', function(err, data) {
+            if (err) { return defered.reject(error); }
 
-        var objData = JSON.parse(data);
-        var idArray = [];
+            var objData = JSON.parse(data);
+            var idArray = [];
 
-    	Object.getOwnPropertyNames(objData).forEach(function (property) {
-            idArray.push(property);	
-    	});
-        
-        lastSavedItem = idArray[idArray.length-1];
-        
-        // Advise: return (maxItem - n) here to get only last n articles
-        defered.resolve(lastSavedItem);
+            Object.getOwnPropertyNames(objData).forEach(function(property) { idArray.push(property);});
+            maxFoundItem = Math.max.apply(Math, idArray);
+            
+            lastSavedItem = lastSavedItem > maxFoundItem ? lastSavedItem : maxFoundItem;
 
+            if (index === items.length - 1) {
+                console.log('Last saved item is: ' + lastSavedItem);
+
+                // Advise: return (maxItem - n) here to get only last n articles
+                defered.resolve();
+            }
+
+        });
     });
-    return defered.promise;
-};
 
-function getMaxItem(lastSaved) {
+    return defered.promise;
+}
+
+function getMaxItem() {
     var defered = Q.defer();
 
-    request.get(maxItemUrl, function(error, response, body) {
+    request.get(MAX_ITEM_URL, function(error, response, body) {
         if (!error && response.statusCode === 200) {
-            maxItem = JSON.parse(body);
-            defered.resolve([maxItem, lastSaved]);
+            var maxItem = JSON.parse(body);
+            console.log('Max item is: ' + maxItem);
+            defered.resolve(maxItem);
         } else {
             defered.reject(error);
         }
@@ -73,20 +89,20 @@ function getMaxItem(lastSaved) {
     return defered.promise;
 };
 
-function getNewItemIDs(ids) {
+function getNewItemIDs(maxItem) {
     var defered = Q.defer();
     var newItemIDs = [];
-    var maxItem = Number(ids[0]);
-    var lastSavedItem = Number(ids[1]);
     
     if (maxItem > lastSavedItem) {
-        for (var i = lastSavedItem + 1; i <= maxItem; i += 1) {
+        var i = lastSavedItem + 1;
+        for (i; i <= maxItem; i += 1) {
             newItemIDs.push(i);
-            console.log('New item with ID: ' + i);
         }
 
-        lastSavedItem = maxItem;
+        console.log('New items with IDs: ' + newItemIDs);
         defered.resolve(newItemIDs);
+    } else {
+        defered.resolve(maxItem);
     }
 
     return defered.promise;
@@ -94,18 +110,21 @@ function getNewItemIDs(ids) {
 
 function getContent(itemIDs) {
     var defered = Q.defer();
+    var newData = {};
 
-    itemIDs.forEach(function(itemID){
-        var requestUrl = itemsUrl + itemID + '.json';
+    itemIDs.forEach(function(itemID, index){
+        var requestUrl = ITEMS_URL + itemID + JSON_EXT;
         request.get(requestUrl, function(error, response, body) {
             if (!error && response.statusCode === 200) {
                 var item = JSON.parse(body);
-                saveItemToFileSystem(itemID, item);
-                console.log('Saved items with ID\'s: ' + itemID);
+                newData[itemID] = item;
 
-                defered.resolve(item);
+                if (index === itemIDs.length-1) {
+                    console.log('All new items are scraped successfully');
+                    defered.resolve(newData);
+                }
             } else {
-                defered.reject(error);
+                return defered.reject(error);
             }
         });
     });
@@ -113,29 +132,44 @@ function getContent(itemIDs) {
     return defered.promise;
 };
 
-function saveItemToFileSystem(id, item) {
-    if(item.type === 'story'){
-        articles[id] = item;
+function saveItemsToFS(data) {
+    var defered = Q.defer();
+
+    for (var key in data) {
+        var item = data[key];
+
+        if(item.type === 'story'){
+        articles[key] = item;
+        
         var saveData = JSON.stringify(articles, os.EOL, ' ');
         fs.writeFile('./articles.json', saveData, 'utf8', function (err) {
             if (err) {
-                throw err;
+                return defered.reject(error);
             }
         });
-        console.log('saved article with ID: ' + id +' | Title: ' + item.title);
-    } else if(item.type === 'comment'){
-        comments[id] = item;
-        var saveData = JSON.stringify(comments, os.EOL, ' ');
-        fs.writeFile('./comments.json', saveData, 'utf8', function (err) {
-            if (err) {
-                throw err;
-            }
-        });
-        console.log('saved comment with ID: ' + id);
-    } else {
-        console.log('unrecognized item: ');
-        console.log(item);
+
+        console.log('Saved to file system article with ID: ' + key +' | Title: ' + item.title);
+                
+        } else if(item.type === 'comment'){
+            comments[key] = item;
+            var saveData = JSON.stringify(comments, os.EOL, ' ');
+            
+            fs.writeFile('./comments.json', saveData, 'utf8', function (err) {
+                if (err) {
+                    return defered.reject(error);
+                }
+            });
+            
+            console.log('saved comment with ID: ' + key);
+        } else {
+            console.log('unrecognized item: ');
+            console.log(item);
+        }
     }
+    
+    lastSavedItem = key;
+    defered.resolve('All new items are saved.');
+    return defered.promise;
 }
 
 
