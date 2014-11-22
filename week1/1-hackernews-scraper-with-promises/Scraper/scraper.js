@@ -50,8 +50,6 @@ function getLastSavedItem() {
     	});
         
         lastSavedItem = idArray[idArray.length-1];
-        console.log('get last saved item');
-        console.log(lastSavedItem);
         
         // Advise: return (maxItem - n) here to get only last n articles
         defered.resolve(lastSavedItem);
@@ -62,8 +60,6 @@ function getLastSavedItem() {
 
 function getMaxItem(lastSaved) {
     var defered = Q.defer();
-    console.log('get max item');
-    console.log(lastSaved);
 
     request.get(maxItemUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
@@ -82,10 +78,6 @@ function getNewItemIDs(ids) {
     var newItemIDs = [];
     var maxItem = Number(ids[0]);
     var lastSavedItem = Number(ids[1]);
-
-    console.log('get new items id-s function');
-    console.log(maxItem);
-    console.log(lastSavedItem);
     
     if (maxItem > lastSavedItem) {
         for (var i = lastSavedItem + 1; i <= maxItem; i += 1) {
@@ -105,7 +97,6 @@ function getContent(itemIDs) {
 
     itemIDs.forEach(function(itemID){
         var requestUrl = itemsUrl + itemID + '.json';
-        console.log(requestUrl);
         request.get(requestUrl, function(error, response, body) {
             if (!error && response.statusCode === 200) {
                 var item = JSON.parse(body);

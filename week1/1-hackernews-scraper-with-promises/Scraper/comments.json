@@ -18167,5 +18167,71 @@
   "text": "This is the latest in a long line of such things, including the LOGO turtle, Big Trak¹ and Lego Mindstorms, to name but a few examples.  It always seems to be a great idea, and certainly some people enjoy them in the intended fashion, but they never seem to take off in the way the creators envision.  Maybe it is a question of cost, in which case this is the way forward – ever smaller, cheaper things.<p>① <a href=\"https://en.wikipedia.org/wiki/Big_Trak\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Big_Trak</a>",
   "time": 1416652483,
   "type": "comment"
+ },
+ "8645286": {
+  "by": "fruneau",
+  "id": 8645286,
+  "parent": 8642900,
+  "text": "Extensions are how new features come to an established language... C11 standard mostly standardised stuff that was already supported as extension by most compilers. Most of the time, extensions are created because features are missing from the language (alignement requirement for example), compiler could do a better job at optimising the code with better hints (noreturn, restrict, strict-aliasing, ...), or we could simply make the job of the developper a bit simpler&#x2F;safer (nested functions, _Generic, blocks, ...).<p>IMHO, the main benefit lost by using bleeding-edge extensions is portability, which may or may not be an issue.",
+  "time": 1416652603,
+  "type": "comment"
+ },
+ "8645289": {
+  "by": "quickwebhack",
+  "id": 8645289,
+  "parent": 8644822,
+  "text": "quickwebhack@gmail.com\nU Need Any Help ?\n<i>University grades changing \n</i>Bank accounts hack \n<i>Twitters hack \n</i>email accounts hack \n<i>Grade Changes hack \n</i>Website crashed hack \n<i>server crashed hack \n</i>Retrieval of lost file&#x2F;documents \n<i>Erase criminal records hack \n</i>Databases hack \n<i>Sales of Dumps cards of all kinds \n</i>Untraceable Ip \n<i>Individual computers hack \n</i>Websites hack \n<i>Facebook hack \n</i>Control devices remotely hack \n<i>Burner Numbers hack \n</i>Verified Paypal Accounts hack \n<i>Any social media account hack \n</i>Android &amp; iPhone Hack \n<i>Word Press Blogs hack \n</i>Text message interception hack \n*email interception hack\n- See more at:\nquickwebhack@gmail.com",
+  "time": 1416652738,
+  "type": "comment"
+ },
+ "8645290": {
+  "by": "quickwebhack",
+  "dead": true,
+  "id": 8645290,
+  "parent": 8644822,
+  "text": "quickwebhack@gmail.com\nU Need Any Help ?\n<i>University grades changing \n</i>Bank accounts hack \n<i>Twitters hack \n</i>email accounts hack \n<i>Grade Changes hack \n</i>Website crashed hack \n<i>server crashed hack \n</i>Retrieval of lost file&#x2F;documents \n<i>Erase criminal records hack \n</i>Databases hack \n<i>Sales of Dumps cards of all kinds \n</i>Untraceable Ip \n<i>Individual computers hack \n</i>Websites hack \n<i>Facebook hack \n</i>Control devices remotely hack \n<i>Burner Numbers hack \n</i>Verified Paypal Accounts hack \n<i>Any social media account hack \n</i>Android &amp; iPhone Hack \n<i>Word Press Blogs hack \n</i>Text message interception hack \n*email interception hack\n- See more at:\nquickwebhack@gmail.com",
+  "time": 1416652749,
+  "type": "comment"
+ },
+ "8645293": {
+  "by": "Tangokat",
+  "id": 8645293,
+  "parent": 8645068,
+  "text": "If you want to see what battles are like you should watch this: <a href=\"https://www.youtube.com/watch?v=AdfFnTt2UT0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=AdfFnTt2UT0</a><p>It is a new trailer CCP (makers of Eve) made with real player communication.",
+  "time": 1416652870,
+  "type": "comment"
+ },
+ "8645294": {
+  "by": "mahouse",
+  "id": 8645294,
+  "parent": 8645223,
+  "text": "You are very right with thinking that some people take WoW leadership in raids, etc. as a job. That&#x27;s something I overlooked.",
+  "time": 1416652926,
+  "type": "comment"
+ },
+ "8645295": {
+  "by": "acqq",
+  "id": 8645295,
+  "parent": 8645087,
+  "text": "Relatively inaccurate, even if colourful. The original work:<p><a href=\"http://arxiv.org/abs/physics/0606246\" rel=\"nofollow\">http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;physics&#x2F;0606246</a>",
+  "time": 1416652928,
+  "type": "comment"
+ },
+ "8645296": {
+  "by": "dasil003",
+  "id": 8645296,
+  "parent": 8645117,
+  "text": "He never said it was cheap and accessible, what he said was that it was <i>decentralized</i>.  In other words, no one could stop you from doing any of those things, the fact that it was harder to get online is beside the point.  The vast majority of services were running open protocols, and there were really no gatekeepers except for DNS I suppose, but even that is a decentralized protocol even if the registry is centralized by necessity.",
+  "time": 1416653055,
+  "type": "comment"
+ },
+ "8645297": {
+  "by": "assente",
+  "dead": true,
+  "id": 8645297,
+  "parent": 8645188,
+  "text": "Is fun that a lot of Linux systemd haters are going to move toward FreeBSD which is moving to a systemd-like init :D<p>FreeBSD is just like Linux but on late of 5 years<p>Google for &quot;Freebsd vs Linux 2014 performance and features&quot;",
+  "time": 1416653064,
+  "type": "comment"
  }
 }
