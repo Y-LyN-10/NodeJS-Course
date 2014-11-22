@@ -13,55 +13,62 @@ var express = require('express'),
 var maxItemUrl = 'https://hacker-news.firebaseio.com/v0/maxitem.json',
     itemsUrl = 'https://hacker-news.firebaseio.com/v0/item/';
 
-var maxItem = 1416066032,
-    lastSavedItem = 1416066032;
+var maxItem, lastSavedItem;
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({
     extended: true
 }));
 
-getLastSavedItem();
-
 setTimeout(function() {
-    getMaxItem()
+	getLastSavedItem()
+    	.then(getMaxItem)
         .then(getNewItemIDs)
         .then(getContent)
-        // .tnen(saveToFileSystem)
         .fail(function(error) {
             console.log("Failed");
             console.log(error);
-        }).done(function() {
+        })
+        .done(function() {
             console.log('done');
         });
-}, 60 * 100);
+ }, 60 * 1000);
 
 function getLastSavedItem() {
+	var defered = Q.defer();
+
     fs.readFile('articles.json', 'utf8', function (err, data) {
         if (err) {
-            console.log(err);
+            return defered.reject(error);
         }
+
         var objData = JSON.parse(data);
         var idArray = [];
 
-        for (var property in objData) {
-            if (objData.hasOwnProperty(property)) {
-                idArray.push(property);
-            }
-        }
-
+    	Object.getOwnPropertyNames(objData).forEach(function (property) {
+            idArray.push(property);	
+    	});
+        
         lastSavedItem = idArray[idArray.length-1];
-        return lastSavedItem;
+        console.log('get last saved item');
+        console.log(lastSavedItem);
+        
+        // Advise: return (maxItem - n) here to get only last n articles
+        defered.resolve(lastSavedItem);
+
     });
+    return defered.promise;
 };
 
-function getMaxItem() {
+function getMaxItem(lastSaved) {
     var defered = Q.defer();
+    console.log('get max item');
+    console.log(lastSaved);
 
     request.get(maxItemUrl, function(error, response, body) {
         if (!error && response.statusCode === 200) {
             maxItem = JSON.parse(body);
-            defered.resolve(maxItem);
+            defered.resolve([maxItem, lastSaved]);
         } else {
             defered.reject(error);
         }
@@ -70,19 +77,26 @@ function getMaxItem() {
     return defered.promise;
 };
 
-function getNewItemIDs(maxItem) {
+function getNewItemIDs(ids) {
     var defered = Q.defer();
     var newItemIDs = [];
+    var maxItem = Number(ids[0]);
+    var lastSavedItem = Number(ids[1]);
 
+    console.log('get new items id-s function');
+    console.log(maxItem);
+    console.log(lastSavedItem);
+    
     if (maxItem > lastSavedItem) {
         for (var i = lastSavedItem + 1; i <= maxItem; i += 1) {
             newItemIDs.push(i);
             console.log('New item with ID: ' + i);
         }
+
         lastSavedItem = maxItem;
+        defered.resolve(newItemIDs);
     }
 
-    defered.resolve(newItemIDs);
     return defered.promise;
 };
 
@@ -91,7 +105,7 @@ function getContent(itemIDs) {
 
     itemIDs.forEach(function(itemID){
         var requestUrl = itemsUrl + itemID + '.json';
-
+        console.log(requestUrl);
         request.get(requestUrl, function(error, response, body) {
             if (!error && response.statusCode === 200) {
                 var item = JSON.parse(body);
