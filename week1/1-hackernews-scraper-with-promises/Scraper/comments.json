@@ -22125,5 +22125,2041 @@
   "text": "I was thinking of resubscribing.  What server&#x2F;faction are you guys?",
   "time": 1416673713,
   "type": "comment"
+ },
+ "8645876": {
+  "by": "jcr",
+  "id": 8645876,
+  "parent": 8645755,
+  "text": "There were web browsers before NCSA Mosaic.  I a lot of people get the\nhistory wrong due to essentially marketing claims.<p><a href=\"http://en.wikipedia.org/wiki/Web_browser\" rel=\"nofollow\">http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Web_browser</a><p>&gt;&#x27;&#x27;<i>The first web browser was invented in 1990 by Tim Berners-Lee. It\nwas called WorldWideWeb and was later renamed Nexus.</i>&#x27;&#x27;<p>&gt;&#x27;&#x27;<i>In 1993, browser software was further innovated by Marc Andreessen\n&gt;with the release of Mosaic, &quot;the world&#x27;s first popular browser&quot;</i>&#x27;&#x27;<p>Note the word &quot;popular&quot; in the claim. It was mostly true due to Mosaic\nbeing popular, but it was also intentionally misleading.",
+  "time": 1416673783,
+  "type": "comment"
+ },
+ "8645877": {
+  "by": "heliodor",
+  "id": 8645877,
+  "parent": 8643946,
+  "text": "Yes, raises and bonuses are there for some&#x2F;most jobs, but people don&#x27;t make their daily shopping decisions based on their 5-year career plans.<p>I can imagine hourly workers&#x2F;consultants thinking to themselves, &quot;Hey, this is a nice piece of software, let me pay the $x it costs for it and I&#x27;ll stay at work another hour tonight.&quot;<p>I can&#x27;t imagine salaried employees thinking, &quot;Hey, let me buy A, B, C, D, E, and more, be in a budget deficit for the remainder of the year and hope for a raise!&quot;",
+  "time": 1416673784,
+  "type": "comment"
+ },
+ "8645878": {
+  "by": "crb",
+  "id": 8645878,
+  "kids": [
+   8646034
+  ],
+  "parent": 8645791,
+  "text": "Can you elaborate re. Google?  Google App Engine is more comparable to Heroku, so as a &quot;longtime AWS user&quot; you might be more comfortable with Google Compute Engine.",
+  "time": 1416673817,
+  "type": "comment"
+ },
+ "8645879": {
+  "by": "ghshephard",
+  "id": 8645879,
+  "parent": 8644469,
+  "text": "Somewhere in the middle - the capital costs are $103&#x2F;kWh - So, if you want to store 1 MWatt for 1 hour (Large Solar &#x2F; Wind plant with variable sun&#x2F;wind, and fixed size upstream transmission), it will cost you $103,000 fixed costs.  OpEx is a function of maintenance, operation, life time, and duty-cycle of the plant.",
+  "time": 1416673866,
+  "type": "comment"
+ },
+ "8645880": {
+  "by": "Redoubts",
+  "id": 8645880,
+  "parent": 8645430,
+  "text": "Tabs look like a light grey arrow in any editor I care to use.",
+  "time": 1416673906,
+  "type": "comment"
+ },
+ "8645881": {
+  "by": "yellow_and_gray",
+  "id": 8645881,
+  "kids": [
+   8645948,
+   8645944,
+   8645927,
+   8646003,
+   8645933,
+   8645922
+  ],
+  "parent": 8645781,
+  "text": "What stopped me from using FreeBSD a year ago was lack of automatic tab completion on the shell.<p>I would like to try FreeBSD again. Does anyone know if this works now?<p>edit: clarified the reason I ask is because I want to know.",
+  "time": 1416673953,
+  "type": "comment"
+ },
+ "8645882": {
+  "by": "phamilton",
+  "id": 8645882,
+  "parent": 8645669,
+  "text": "It&#x27;s supposed to be the opposite if natural. When you accelerate, you naturally lean back. You wouldn&#x27;t want intentional acceleration to cause additional acceleration. You would want to keep it in check and only accelerate when the riser demonstrates they are sufficiently in control of their weight balance.",
+  "time": 1416673981,
+  "type": "comment"
+ },
+ "8645883": {
+  "by": "mathattack",
+  "id": 8645883,
+  "parent": 8644175,
+  "text": "When I was at BigCo, they officially had 2 paths - one involved people leadership, the other technical leadership.  The reality was technical leadership stopped a level below director, and only 2 or 3 even managed to make it that far.  After 3.5 years there, it had a formative impact of pushing me away from both the company and technology.  I recovered on both, but it&#x27;s something one should take seriously on taking a job.  I&#x27;m not sure that creating &quot;Mega-consultants&quot; works either, as it takes the emphasis away from delivery ownership.<p>That said, here are a few ideas in rank order from easy&#x2F;feasible to crazy&#x2F;radical:<p>1)  Technical leaders of a certain level can not be overruled on technical decisions by non-technical leaders in the department.<p>2)  Encourage the best to share their work outside the firm.<p>3)  Smart people like to be with smart people.  Pay up for a culture or cohort of superstars, not an individual superstar.<p>4)  Provide time and monetary budget for architecture and technical debt that is owned and allocated by the best in the organization.<p>5)  Allow technical stars to have the ability to change assignments at their will with a given notice period.  (Yes it may cause problems, but the free market is always giving them offers)<p>6)  Enable managers to raise technical pay without concern for bands.  For example, the VP should be able to say, &quot;I can hire 4 engineers for 100K each, or I can hire someone in the open market for 200K.  Instead I will pay my internal superstar 220K since she will do it the best, even though it&#x27;s way out of bands of someone with her seniority and level.&quot;",
+  "time": 1416674003,
+  "type": "comment"
+ },
+ "8645884": {
+  "by": "nsmartt",
+  "id": 8645884,
+  "parent": 8645504,
+  "text": "Can now be found here: <a href=\"http://quantum-os.github.io/blog/2014/11/introduction-and-initial-plans/\" rel=\"nofollow\">http:&#x2F;&#x2F;quantum-os.github.io&#x2F;blog&#x2F;2014&#x2F;11&#x2F;introduction-and-in...</a>",
+  "time": 1416674004,
+  "type": "comment"
+ },
+ "8645886": {
+  "by": "toast0",
+  "id": 8645886,
+  "parent": 8645840,
+  "text": "UA strings are increasingly atrocious, but they&#x27;re still very useful for targeting platforms and reducing the amount of content sent. Eg, if an iPhone browser comes to my site, the FAQ shouldn&#x27;t show s40 content by default. And when an s40 user comes, the download section shouldn&#x27;t link to iTunes (and their browser probably doesn&#x27;t support JavaScript in a meaningful way)<p>It&#x27;s also helpful to put a splash page up when a specific browser release breaks your site, and users need to down or upgrade. (users who tweak their UA may be wrong targeted in this case, but whatever)",
+  "time": 1416674032,
+  "type": "comment"
+ },
+ "8645887": {
+  "by": "minot",
+  "id": 8645887,
+  "parent": 8645871,
+  "text": "Infringement, as far as I know is a civil matter. Who is going to sue when everyone is doing it?",
+  "time": 1416674063,
+  "type": "comment"
+ },
+ "8645888": {
+  "deleted": true,
+  "id": 8645888,
+  "parent": 8645743,
+  "time": 1416674087,
+  "type": "comment"
+ },
+ "8645889": {
+  "by": "jonsen",
+  "id": 8645889,
+  "parent": 8645825,
+  "text": "I read 2. as about moving the storage unit itself. Charge the unit at on place then move the unit and generate power at another place.",
+  "time": 1416674090,
+  "type": "comment"
+ },
+ "8645890": {
+  "by": "freehunter",
+  "id": 8645890,
+  "parent": 8645871,
+  "text": "Is it any more of a trademark infringement than &#x27;IBM PC Compatible&#x27;?",
+  "time": 1416674099,
+  "type": "comment"
+ },
+ "8645891": {
+  "by": "mc32",
+  "id": 8645891,
+  "parent": 8645858,
+  "text": "I&#x27;d be interested if this were also the case in other countries with high plains populations like Tibet, Nepal, Bolivia, Switzerland, etc.  Some places have had stable populations for a long period of time, other populations (and individuals) may be newer, relatively speaking --that might be something to investigate as well, if it hasn&#x27;t.",
+  "time": 1416674106,
+  "type": "comment"
+ },
+ "8645892": {
+  "by": "digi_owl",
+  "id": 8645892,
+  "parent": 8645646,
+  "text": "Funny how LWN.net seems to be the one place where he is willing to stick his neck into discussions he don&#x27;t control.",
+  "time": 1416674123,
+  "type": "comment"
+ },
+ "8645893": {
+  "by": "Dylan16807",
+  "id": 8645893,
+  "parent": 8645871,
+  "text": "Will anyone be tricked?  No.  So not infringement.",
+  "time": 1416674146,
+  "type": "comment"
+ },
+ "8645895": {
+  "by": "jdhawk",
+  "id": 8645895,
+  "kids": [
+   8646064,
+   8646045
+  ],
+  "parent": 8645872,
+  "text": "Mostly because I can get a 12-15mile range foldable scooter for $500.<p><a href=\"http://www.amazon.com/Super-1000watt-Electric-Scooter-button/dp/B001T8E6KM/ref=sr_1_8?s=action-sports&amp;ie=UTF8&amp;qid=1416674161&amp;sr=1-8&amp;keywords=electric+moped\" rel=\"nofollow\">http:&#x2F;&#x2F;www.amazon.com&#x2F;Super-1000watt-Electric-Scooter-button...</a>",
+  "time": 1416674234,
+  "type": "comment"
+ },
+ "8645896": {
+  "by": "Joeri",
+  "id": 8645896,
+  "parent": 8644803,
+  "text": "Sales need something to sell. Jobs are paid based on the perception of how difficult it is to find someone to do it. CEO&#x27;s are paid ridiculous amounts because the perception is almost no one can do the job. Janitors are paid little because the perception is almost anyone can do the job. The result of this is that many buildings are cleaned poorly, so nxt time you see a dirty bathroom, don&#x27;t blame the janitor, blame the person hiring the janitor. The supply of good janitors is much more restricted than it appears, but that&#x27;s because the person hiring typically can&#x27;t see the value in paying more.<p>For programmers it&#x27;s the same. Good programmers can make or break a business by building software which sells itself, or by building software with 10 times less effort, turning loss into profit, but many people hiring the programmers don&#x27;t see it that way, so many programming jobs underpay, and many people paid to program have no business being anywhere near a keyboard.",
+  "time": 1416674237,
+  "type": "comment"
+ },
+ "8645897": {
+  "by": "shetter",
+  "id": 8645897,
+  "parent": 8645650,
+  "text": "From what I&#x27;ve seen of Material it&#x27;s also a lot about classifying information visually and that&#x27;s definitely something where desktop OS interfaces can be improved. Nobody likes looking at a jumbled mess of information spread on a flat plane without any general cue as to where you&#x27;re supposed to look first.",
+  "time": 1416674249,
+  "type": "comment"
+ },
+ "8645898": {
+  "by": "geebee",
+  "id": 8645898,
+  "parent": 8645078,
+  "text": "An easily commoditized skill can still generate a tremendous amount of value.  However, the worker is unlikely to capture most of that value.  In fact, if a worker captures <i>all</i> of the value, there would be no benefit to the employer.<p>The point of the post is that we aren&#x27;t in a labor <i>bubble</i>, because the amount of value created by a programmer is much higher than the programmer&#x27;s salary.  For instance, suppose that a contractor installing marble countertops on luxury houses out in the desert gets paid 100k a year.  It turns out that the value of those countertops is below 100k a year.  This could be used to suggest that the jobs themselves will disappear (or salaries must drop dramatically), as the value they generate isn&#x27;t sufficient to justify that pay.<p>Now suppose installing those countertops generate 200k a year in value, but that it is relatively easy.  That would suggest that salaries could drop even though there is a surplus of value in the existing salary structure.  However, it wouldn&#x27;t suggest that salaries need to drop because value generated isn&#x27;t sufficient to justify the pay level.<p>I think that&#x27;s the point here - that the amount of value generated is so great that programmer salaries could remain high.  It doesn&#x27;t necessarily mean then <i>will</i>, just that we aren&#x27;t in a salary bubble where salaries are higher than value generated.",
+  "time": 1416674260,
+  "type": "comment"
+ },
+ "8645900": {
+  "by": "davismwfl",
+  "id": 8645900,
+  "parent": 8645809,
+  "text": "You might just ask an attorney to look it over.  Seriously it would likely be a good $150-300 investment.  I know in Florida where I am, non-competes are very frowned upon in the legal system if they are too broad, overly prohibitive or for more than 2 years (in general). The key is an employer cannot prevent you from working in your field of expertise, and they cannot prevent you from using your knowledge to help others, except that they can hold you accountable not to disclose or utilize company specific knowledge.  That is sometimes hard to define, but usually is the secret sauce that makes something unique. Also, this changes the higher up in the company management you go too, execs are treated different than say a developer would be.<p>I had a company want me to sign a non-compete that said I wouldn&#x27;t take any job where I would work with GPS, geographical systems, or location aware systems for a period of 4 years anywhere in the United States (this was a Florida Company).  This was a firm involved with financial software for the lending industry.  I just told them that 1, it is way to broad and I can&#x27;t sign it, and 2, btw it isn&#x27;t going to pass muster here in Florida because it is too prohibitive and way too broad not to mention too long.  I had a good relationship with the company (and owner) so I felt comfortable telling them what I felt from having been involved in non-compete structure with my last company.  What I did agree to is saying for a period of 12 months leaving their job I would not help any other financial software services firm develop a geographical based algorithm.  I think in the end we settled on 18 months, but it worked out.<p>Not being an attorney, I did go ask an attorney and paid for an hour of guidance and I did the negotiation to keep it non-confrontational.  In fact, they never knew I talked to an attorney.  Best couple hundred bucks I spent as I made good money on that contract.",
+  "time": 1416674316,
+  "type": "comment"
+ },
+ "8645901": {
+  "by": "justincormack",
+  "id": 8645901,
+  "parent": 8645861,
+  "text": "Gentoo is probably the most similar, as it has enough to bootstrap the system in the base (stage3), which is not surprising as it was modelled on BSD ports to a large extent. Although the BSDs will also include a debugger too. Linuxes generally got pretty hard to bootstrap reliably though, nad had binary packages earlier, which was where things diverged in base systems.<p>NetBSD takes bootstrapping most seriously - you can cross build it on any system with a vaguely functional C compiler, and it will bootstrap completely.",
+  "time": 1416674323,
+  "type": "comment"
+ },
+ "8645902": {
+  "by": "digi_owl",
+  "id": 8645902,
+  "parent": 8645772,
+  "text": "Explicit, declarative? Sounds nothing like what i have seen so far.",
+  "time": 1416674324,
+  "type": "comment"
+ },
+ "8645905": {
+  "by": "untog",
+  "id": 8645905,
+  "parent": 8645840,
+  "text": "Agreed. I&#x27;d love to use feature detection for everything, but I just can&#x27;t - particularly on mobile. For instance, the iPhone has a weird caching bug with audio files - there&#x27;s no feature detection for it, my only option is to sniff what browser we&#x27;re on and change behaviour. Edge cases like this aren&#x27;t going to disappear any time soon.",
+  "time": 1416674439,
+  "type": "comment"
+ },
+ "8645906": {
+  "by": "arnvald",
+  "id": 8645906,
+  "kids": [
+   8645958
+  ],
+  "parent": 8645668,
+  "text": "Apart from Koichi, there&#x27;s one more person - Nobu - who is working on CRuby full-time. Nobu&#x27;s the guy with most commits to CRuby. Matz now does not work on CRuby, only on MRuby and the language specification.<p>It&#x27;s also worth noticing that another implementation, JRuby is supported by Redhat. IIRC 2 people work on it full-time: Charles Nutter (Headius) and Thomas Enebo",
+  "time": 1416674478,
+  "type": "comment"
+ },
+ "8645907": {
+  "by": "chestnut-tree",
+  "id": 8645907,
+  "parent": 8645699,
+  "text": "<i>&quot;That&#x27;s also why Ubuntu is so reviled in some Linux circles...&quot;</i><p>I sometimes wonder if good visual and interaction design can succeed in the open source model. In software development, tasks can be parcelled out in a modular way to many developers. But this model doesn&#x27;t work well for visual and interaction design. If you want all the parts of an Operating System or piece of software to feel consistent and cohesive, you need a more focused approach. And that means handing design tasks to a designated design team and entrusting them to make the UX decisions. But with open source projects, we all want a say in the UX (me included); thus the endless (and often bitter) discussions about how a piece of software should behave.<p>The model of open source code has influenced and inspired countless companies. But who can point to examples of visual and interaction design from open source software that has had a similar effect? I see the influence going much more the other way i.e. open source software often follows ideas or conventions from commercial companies. I&#x27;d love to see this change. But how?",
+  "time": 1416674502,
+  "type": "comment"
+ },
+ "8645908": {
+  "by": "digi_owl",
+  "id": 8645908,
+  "parent": 8645682,
+  "text": "Best i can tell, they don&#x27;t play well with GUI config tools...",
+  "time": 1416674504,
+  "type": "comment"
+ },
+ "8645909": {
+  "by": "vertex-four",
+  "id": 8645909,
+  "parent": 8645682,
+  "text": "&gt; plain old unix-style config files<p>Like what? &#x2F;etc&#x2F;X11&#x2F;xorg.conf is a different format from &#x2F;etc&#x2F;openldap&#x2F;ldap.conf is a different format from &#x2F;etc&#x2F;crontab is a different format from &#x2F;etc&#x2F;nsswitch.conf.<p>Unifying configuration files under a single common format would allow for less complexity in configuration management tools - you could just create a data structure and serialise it to a file, rather than dealing with text-based templates with countless edge cases.",
+  "time": 1416674546,
+  "type": "comment"
+ },
+ "8645910": {
+  "by": "mhoad",
+  "id": 8645910,
+  "parent": 8644966,
+  "text": "I&#x27;d like to be able to hand the project off at some point and fear that much beyond a basic hosting setup will really limit their options in the future due to too much perceived complexity.",
+  "time": 1416674572,
+  "type": "comment"
+ },
+ "8645911": {
+  "by": "patman81",
+  "id": 8645911,
+  "kids": [
+   8645923
+  ],
+  "parent": 8643248,
+  "text": "I hope Hamilton&#x27;s talk from this years AWS reinvent conference will be released as video. His slides are online (<a href=\"http://mvdirona.com/jrh/work/\" rel=\"nofollow\">http:&#x2F;&#x2F;mvdirona.com&#x2F;jrh&#x2F;work&#x2F;</a>), and many other talks have already been realeased (<a href=\"https://reinvent.awsevents.com/sessions.html\" rel=\"nofollow\">https:&#x2F;&#x2F;reinvent.awsevents.com&#x2F;sessions.html</a>), but Hamilton&#x27;s talk seems missing.",
+  "time": 1416674623,
+  "type": "comment"
+ },
+ "8645912": {
+  "by": "jimktrains2",
+  "id": 8645912,
+  "parent": 8645792,
+  "text": "There isn&#x27;t anything wrong with the systemd concept.<p>However, what many of the people I&#x27;ve discussed this have an issue with are:<p>* Becoming the default init in stable even though it&#x27;s fairly new (and untested)<p>* Strong break from how common tasks are done (e.g. logging)<p>* Applications are very tied together and cannot easily be replaced or left out.<p>* NIH syndrome (e.g. their DNS resolver that just had a major caching issue)",
+  "time": 1416674625,
+  "type": "comment"
+ },
+ "8645913": {
+  "by": "userbinator",
+  "id": 8645913,
+  "kids": [
+   8646027
+  ],
+  "parent": 8645840,
+  "text": "Absolutely. I use a filtering proxy which among other things enables modifying request headers, and I&#x27;ve experimented with a ton of different UA headers over the years; and it&#x27;s astounding how many sites will fail in mysterious ways if your UA doesn&#x27;t match one of the ones they&#x27;re expecting (perhaps this has decreased a bit now with all the diversity in browsers.)<p>In particular, I&#x27;ve noticed that having absolutely no UA header produces the most horrible results: &quot;500 Internal Server Error&quot;s, &quot;we think you are a bot so you have been denied access&quot; (403s are common), and even IP bans.<p>UA strings were intended only as a form of branding&#x2F;advisory, but I think they&#x27;re now being used in an unfairly discriminatory way. Denying access because of a &quot;foreign&quot; UA is almost like racial profiling.",
+  "time": 1416674627,
+  "type": "comment"
+ },
+ "8645914": {
+  "by": "jcr",
+  "id": 8645914,
+  "parent": 8645809,
+  "text": "The best and smartest thing to do is talk to <i>your</i> lawyer (not theirs).<p>Laws regarding the validity of &quot;Non-Compete Agreements&quot; varies state by\nstate, so if you don&#x27;t talk to your friendly neighborhood local lawyer\n(with a specialty in employment law), then you&#x27;ll most likely be\nfollowing bad advice.",
+  "time": 1416674642,
+  "type": "comment"
+ },
+ "8645916": {
+  "by": "peatmoss",
+  "id": 8645916,
+  "parent": 8645564,
+  "text": "Ugh. Do we (the users, denizens, developers, whatever) really need to resort to personal attacks against members of our own community? I don&#x27;t really have a dog in the systemd fight, but I sure do know this kind of thing makes me despair for our collective humanity.",
+  "time": 1416674691,
+  "type": "comment"
+ },
+ "8645917": {
+  "by": "lovelearning",
+  "id": 8645917,
+  "kids": [
+   8645954
+  ],
+  "parent": 8645899,
+  "text": "Could you include some screenshots on the site?",
+  "time": 1416674701,
+  "type": "comment"
+ },
+ "8645918": {
+  "dead": true,
+  "deleted": true,
+  "id": 8645918,
+  "parent": 8645899,
+  "time": 1416674703,
+  "type": "comment"
+ },
+ "8645919": {
+  "by": "ColinWright",
+  "id": 8645919,
+  "kids": [
+   8645952
+  ],
+  "parent": 8645899,
+  "text": "Might I suggest that you write a blog post including a link to your tool, telling us more about it, and then submit a link to that blog post.  It makes it much, much easier for us to find out what you&#x27;re talking about, to see the idea, and you don&#x27;t get the penalty associated with a link-less submission, increasing your chance of getting to the front page.<p>As it stands, I&#x27;ve taken the effort to copy the link and paste it into a new tab, only to be confronted with a sign-up page with no other information at all.<p>So I&#x27;ve left.  If you can&#x27;t take the time to even minimally describe what you&#x27;ve done on the landing page, then I&#x27;m not going to invest time exploring it.",
+  "time": 1416674721,
+  "type": "comment"
+ },
+ "8645920": {
+  "by": "digi_owl",
+  "id": 8645920,
+  "parent": 8640745,
+  "text": "While at the same time giving every indication that consolekit was dead.<p><a href=\"http://erickoegel.wordpress.com/2014/10/20/consolekit2/comment-page-1/#comment-3\" rel=\"nofollow\">http:&#x2F;&#x2F;erickoegel.wordpress.com&#x2F;2014&#x2F;10&#x2F;20&#x2F;consolekit2&#x2F;comme...</a>",
+  "time": 1416674768,
+  "type": "comment"
+ },
+ "8645921": {
+  "by": "digi_owl",
+  "dead": true,
+  "id": 8645921,
+  "parent": 8640745,
+  "text": "While at the same time giving every indication that consolekit was dead.<p><a href=\"http://erickoegel.wordpress.com/2014/10/20/consolekit2/comment-page-1/#comment-3\" rel=\"nofollow\">http:&#x2F;&#x2F;erickoegel.wordpress.com&#x2F;2014&#x2F;10&#x2F;20&#x2F;consolekit2&#x2F;comme...</a>",
+  "time": 1416674778,
+  "type": "comment"
+ },
+ "8645922": {
+  "by": "jacquesm",
+  "id": 8645922,
+  "parent": 8645881,
+  "text": "At a guess you&#x27;re using sh or csh instead of bash?",
+  "time": 1416674800,
+  "type": "comment"
+ },
+ "8645923": {
+  "by": "Twirrim",
+  "id": 8645923,
+  "kids": [
+   8646037
+  ],
+  "parent": 8645911,
+  "text": "It has been, or at least the talk that seems to be what this article is on.<p><a href=\"https://www.youtube.com/watch?v=JIQETrFC_SQ\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=JIQETrFC_SQ</a>",
+  "time": 1416674812,
+  "type": "comment"
+ },
+ "8645924": {
+  "by": "igammarays",
+  "id": 8645924,
+  "kids": [
+   8646047,
+   8645976
+  ],
+  "parent": 8645504,
+  "text": "Am I the only one who doesn&#x27;t get this Material Design everywhere thing? Maybe it&#x27;s why I&#x27;m not a designer, but do we really want all our UI experiences everywhere to look exactly the same (with perhaps color variance only)? I mean I&#x27;m all for having design principles, like the timeless principles of typography, which have near-infinite variance, but with a powerful yet subtle underlying set of guidelines which make it beautiful and legible. Material Design seems to me like Google branding forced all over the place. Boring.",
+  "time": 1416674825,
+  "type": "comment"
+ },
+ "8645925": {
+  "by": "oDot",
+  "id": 8645925,
+  "kids": [
+   8645957
+  ],
+  "parent": 8645443,
+  "text": "I think an interesting question in this context is:<p>If you wanted to create Ubuntu today, would you use GNU&#x2F;Linux or FreeBSD as base?",
+  "time": 1416674838,
+  "type": "comment"
+ },
+ "8645926": {
+  "by": "porker",
+  "id": 8645926,
+  "parent": 8645591,
+  "text": "I really like this. Wish it would be widely adopted in place of YAML.<p>Have you written a spec and promoted it at all?",
+  "time": 1416674840,
+  "type": "comment"
+ },
+ "8645927": {
+  "deleted": true,
+  "id": 8645927,
+  "parent": 8645881,
+  "time": 1416674894,
+  "type": "comment"
+ },
+ "8645928": {
+  "by": "unidan",
+  "dead": true,
+  "id": 8645928,
+  "parent": 8644691,
+  "text": "Redditor here. We are awesome, higher intellect people and we fight for free and open internet. We do have things like <a href=\"http://www.reddit.com/r/picsofdeadkids\" rel=\"nofollow\">http:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;picsofdeadkids</a> but other than that, we are awesome. Come join us.<p><i>tips fedora</i>",
+  "time": 1416674906,
+  "type": "comment"
+ },
+ "8645929": {
+  "by": "gtani",
+  "id": 8645929,
+  "parent": 8645535,
+  "text": "I rode some electric razors and others around a shop in SF in ...2011?  These are down to sub-$150 with pretty positive reviews, and are intuitive to ride (only 40 minutes operating time, but still, at that price point).<p><a href=\"http://www.amazon.com/Razor-E100-Electric-Scooter-Sweet/dp/B002LZ7YAG/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.amazon.com&#x2F;Razor-E100-Electric-Scooter-Sweet&#x2F;dp&#x2F;B...</a><p>Or maybe i&#x27;ll just stick to old school longboarding in the rain",
+  "time": 1416674924,
+  "type": "comment"
+ },
+ "8645931": {
+  "by": "ZoFreX",
+  "id": 8645931,
+  "parent": 8597789,
+  "text": "I know that is a better strategy, but it&#x27;s also a much much harder strategy :) Even a well designed cipher could end up leaking info in practice due to compiler quirks or implementation mistakes.",
+  "time": 1416674938,
+  "type": "comment"
+ },
+ "8645932": {
+  "deleted": true,
+  "id": 8645932,
+  "parent": 8644401,
+  "time": 1416674962,
+  "type": "comment"
+ },
+ "8645933": {
+  "by": "gnuvince",
+  "id": 8645933,
+  "parent": 8645881,
+  "text": "That&#x27;s not a FreeBSD issue, that&#x27;s a shell issue.  Install bash and you&#x27;ll have tab completion.",
+  "time": 1416674963,
+  "type": "comment"
+ },
+ "8645934": {
+  "deleted": true,
+  "id": 8645934,
+  "parent": 8644691,
+  "time": 1416674966,
+  "type": "comment"
+ },
+ "8645935": {
+  "by": "unidaan",
+  "dead": true,
+  "id": 8645935,
+  "parent": 8644691,
+  "text": "Redditor here. We are awesome, higher intellect people and we fight for free and open internet. We do have things like <a href=\"http://www.reddit.com/r/picsofdeadkids\" rel=\"nofollow\">http:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;picsofdeadkids</a> but other than that, we are awesome. Come join us.<p><i>tips fedora</i>",
+  "time": 1416674973,
+  "type": "comment"
+ },
+ "8645938": {
+  "by": "dangrossman",
+  "id": 8645938,
+  "parent": 8645814,
+  "text": "Most developers would find and use a library rather than write their own parser. They pretty reliably extract the browser&#x2F;version&#x2F;platform&#x2F;etc from the hundreds of thousands of UA strings you&#x27;ll see in the wild.<p><a href=\"https://github.com/tobie/ua-parser\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;tobie&#x2F;ua-parser</a><p><a href=\"https://github.com/browscap/browscap\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;browscap&#x2F;browscap</a><p>A user agent parser is built in to the PHP language as well.<p><a href=\"http://php.net/manual/en/function.get-browser.php\" rel=\"nofollow\">http:&#x2F;&#x2F;php.net&#x2F;manual&#x2F;en&#x2F;function.get-browser.php</a>",
+  "time": 1416675009,
+  "type": "comment"
+ },
+ "8645939": {
+  "by": "untog",
+  "id": 8645939,
+  "parent": 8644681,
+  "text": "That&#x27;s not really comparable. My grandfather told me about fighting in World War II, but in no way does that mean I know what it was like to be there.",
+  "time": 1416675021,
+  "type": "comment"
+ },
+ "8645940": {
+  "by": "sz4kerto",
+  "id": 8645940,
+  "parent": 8645504,
+  "text": "Please no. Material design might work well for mobile devices, where you don&#x27;t spend too much time in front of a single screen (by screen I mean app screen, not the physical screen). The screenshots show exactly what the problem is:<p>- really bright colors in the top bars: that&#x27;s exactly what we _don&#x27;t_ want in desktop apps, as the focus is on the (changing) content, not the title bars. Grab this <a href=\"http://quantum-os.github.io/images/desktop_layout_1.png\" rel=\"nofollow\">http:&#x2F;&#x2F;quantum-os.github.io&#x2F;images&#x2F;desktop_layout_1.png</a>, resize it to full screen, and you&#x27;ll see what I mean.<p>- large empty spaces: for me it&#x27;s too much even on touch-based devices, but on the desktop it&#x27;s just utter waste of real estate.<p>I want the desktop to get less and less popular, so then the OS and app makers can start optimizing for people who create stuff (e.g. me), and it could look like <a href=\"http://i.imgur.com/7Tu2i6W.png\" rel=\"nofollow\">http:&#x2F;&#x2F;i.imgur.com&#x2F;7Tu2i6W.png</a> or <a href=\"http://yxbenj.files.wordpress.com/2013/02/vs2012_colortheme_example.png\" rel=\"nofollow\">http:&#x2F;&#x2F;yxbenj.files.wordpress.com&#x2F;2013&#x2F;02&#x2F;vs2012_colortheme_...</a>",
+  "time": 1416675062,
+  "type": "comment"
+ },
+ "8645943": {
+  "by": "jacques_chester",
+  "id": 8645943,
+  "parent": 8645809,
+  "text": "My advice is the advice I give to everyone with a legal question: get a lawyer.<p>Laws vary from place to place, sometimes very widely. Only a lawyer in your jurisdiction is trained, qualified and knowledgeable enough to answer your particular questions.<p>I mean it. Get a lawyer and find out what your position is before you do anything. The only people on the internet who give out legal advice to strangers are <i>not lawyers</i>. Why? Because lawyers on the internet will <i>tell you to go see a lawyer</i>.",
+  "time": 1416675089,
+  "type": "comment"
+ },
+ "8645944": {
+  "by": "jvdh",
+  "id": 8645944,
+  "parent": 8645881,
+  "text": "I have no idea which shell you used, but this has worked for years in both zsh, and also in bash on FreeBSD.<p>With zsh you even get tab completion of ports, packages, and other command specific arguments.",
+  "time": 1416675107,
+  "type": "comment"
+ },
+ "8645945": {
+  "by": "skybrian",
+  "id": 8645945,
+  "parent": 8645394,
+  "text": "This isn&#x27;t a Future. A real Future would allow multiple goroutines to block waiting for the value to arrive. When it arrives, all the goroutines wake up.<p>In Go, each value on a channel goes to a single reader and it&#x27;s rare to need multiple readers. One way to do it might be to return a channel that receives an infinite stream of the same value.",
+  "time": 1416675121,
+  "type": "comment"
+ },
+ "8645946": {
+  "by": "byuu",
+  "id": 8645946,
+  "parent": 8645848,
+  "text": "Correct, I should have clarified that. Since you mentioned server usage, keep in mind that the server software (Apache, PGSQL, PHP, OpenSSL, etc) are ports. Not that they&#x27;re as unstable as desktop software usually is.<p>I have my VPS (production) and a local HDD I use for testing (stage), configured exactly the same way. I&#x27;ll update stage first, and if all looks good, then I&#x27;ll update production.",
+  "time": 1416675129,
+  "type": "comment"
+ },
+ "8645947": {
+  "by": "mkaroumi",
+  "id": 8645947,
+  "kids": [
+   8645949
+  ],
+  "parent": 8645937,
+  "text": "I&#x27;ve talked to these guys, they&#x27;re so nice and humble. (+ great product!)",
+  "time": 1416675172,
+  "type": "comment"
+ },
+ "8645948": {
+  "by": "mattzito",
+  "id": 8645948,
+  "kids": [
+   8645995
+  ],
+  "parent": 8645881,
+  "text": "The default shell in freebsd is probably still sh, which does not have tab completion.  The Linuxes long ago moved to bash, which does.<p>However, in the FreeBSD ports tree, I guarantee you there is a bash package you can install, and then you can just switch your shell to be bash instead of sh.",
+  "time": 1416675179,
+  "type": "comment"
+ },
+ "8645949": {
+  "by": "mkaroumi",
+  "id": 8645949,
+  "kids": [
+   8645962
+  ],
+  "parent": 8645947,
+  "text": "Oh, is it you Olivier?;) &#x2F;&#x2F;Marcus from Shortcut Labs",
+  "time": 1416675213,
+  "type": "comment"
+ },
+ "8645950": {
+  "by": "mcbutterbunz",
+  "id": 8645950,
+  "parent": 8645871,
+  "text": "I hope not. The last thing we need is a new round of lawsuits. Maybe everyone can agree on a set of rules for communicating this data.",
+  "time": 1416675217,
+  "type": "comment"
+ },
+ "8645951": {
+  "by": "gortok",
+  "id": 8645951,
+  "kids": [
+   8645999
+  ],
+  "parent": 8645809,
+  "text": "Don&#x27;t sign it.<p>Period.<p>Feel free to sign a Non Disclosure agreement, but simply do not sign a Non Compete.<p>If you feel like you should sign one, talk with a lawyer first.  Sometimes they&#x27;re broadly written so that it&#x27;s impossible to find work in your field.  You may not see how broadly it&#x27;s actually written until you take it to a Lawyer.<p>If signing a non-compete is not-negotiable (a warning sign about the company), then you should have your lawyer draft a narrow one that protects you and offer it instead.",
+  "time": 1416675238,
+  "type": "comment"
+ },
+ "8645952": {
+  "by": "ngduc",
+  "id": 8645952,
+  "kids": [
+   8645982
+  ],
+  "parent": 8645919,
+  "text": "Thanks for your feedback. That totally makes sense!\nI&#x27;ve added some screenshots so we can all have a quick look:\n<a href=\"http://snag.gy/7tMc9.jpg\" rel=\"nofollow\">http:&#x2F;&#x2F;snag.gy&#x2F;7tMc9.jpg</a>\n<a href=\"http://snag.gy/Wd1Gu.jpg\" rel=\"nofollow\">http:&#x2F;&#x2F;snag.gy&#x2F;Wd1Gu.jpg</a><p>I will add more info on the landing page to explain it. (I&#x27;ve been so focusing on adding features &amp; making it stable :)",
+  "time": 1416675286,
+  "type": "comment"
+ },
+ "8645953": {
+  "by": "userbinator",
+  "id": 8645953,
+  "parent": 8645845,
+  "text": "<i>Is it possible to come up with some method that discloses information about the user agent which can be used for analytical purposes but cannot be used to change the bahaviour of a web page?</i><p>It&#x27;s called &quot;browser fingerprinting&quot;: <a href=\"https://panopticlick.eff.org/\" rel=\"nofollow\">https:&#x2F;&#x2F;panopticlick.eff.org&#x2F;</a>",
+  "time": 1416675293,
+  "type": "comment"
+ },
+ "8645954": {
+  "by": "ngduc",
+  "id": 8645954,
+  "parent": 8645917,
+  "text": "Hi lovelearning, I&#x27;ve added some screenshots so we can all have a quick look. Thanks.\n<a href=\"http://snag.gy/7tMc9.jpg\" rel=\"nofollow\">http:&#x2F;&#x2F;snag.gy&#x2F;7tMc9.jpg</a>\n<a href=\"http://snag.gy/Wd1Gu.jpg\" rel=\"nofollow\">http:&#x2F;&#x2F;snag.gy&#x2F;Wd1Gu.jpg</a>",
+  "time": 1416675308,
+  "type": "comment"
+ },
+ "8645955": {
+  "by": "mbesto",
+  "id": 8645955,
+  "parent": 8645809,
+  "text": "Lawyer.",
+  "time": 1416675315,
+  "type": "comment"
+ },
+ "8645957": {
+  "by": "jvdh",
+  "id": 8645957,
+  "parent": 8645925,
+  "text": "This is not the right question to ask. Ubuntu is aimed at making Linux available to the masses on the desktop.<p>FreeBSD has the aim to create a solid Unix environment. IMO FreeBSD is awesome as a server, and okay-ish for the desktop. PC-BSD makes it easier, but still: you need to know what you&#x27;re doing, but if you do, it&#x27;s pretty solid.",
+  "time": 1416675321,
+  "type": "comment"
+ },
+ "8645958": {
+  "by": "nirvdrum",
+  "id": 8645958,
+  "parent": 8645906,
+  "text": "There&#x27;s a few of us at Oracle working on an alternative backend via JRuby, as well.  Chris Seaton gave a talk on it at RubyConf last week.  He has a series of posts about it that are pretty good:<p><a href=\"http://www.chrisseaton.com/rubytruffle/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.chrisseaton.com&#x2F;rubytruffle&#x2F;</a><p>Obviously, this isn&#x27;t people being directly paid to work on MRI, but there are side benefits like a richer set of rubyspecs and sometimes fixes landing in MRI.",
+  "time": 1416675361,
+  "type": "comment"
+ },
+ "8645959": {
+  "by": "dozzie",
+  "id": 8645959,
+  "parent": 8645899,
+  "text": "OK, the first thing that hit me in the face was signing in with Google or Facebook account. I have neither nor I want any.<p>Next, to just look what the site offers I need to sign in. Not gonna happen, I&#x27;ll rather assume (judging from previous experience with such sites) that it&#x27;s useless until proven otherwise.",
+  "time": 1416675396,
+  "type": "comment"
+ },
+ "8645961": {
+  "by": "gtani",
+  "id": 8645961,
+  "parent": 8644519,
+  "text": "Interesting, i got switched to English language at age 5 or so.  With the article&#x27;s emphasis on tone language as the first, &quot;lost&quot; language, maybe this is related to early musical training[1]:<p><pre><code>    enhanced white matter in the corpus callosum\n</code></pre>\n[1] <a href=\"http://www.concordia.ca/cunews/main/releases/2013/02/12/early-music-lessons-boost-brain-development.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.concordia.ca&#x2F;cunews&#x2F;main&#x2F;releases&#x2F;2013&#x2F;02&#x2F;12&#x2F;earl...</a>",
+  "time": 1416675411,
+  "type": "comment"
+ },
+ "8645962": {
+  "by": "olivier5199",
+  "id": 8645962,
+  "parent": 8645949,
+  "text": "Hey, thanks for the nice comment ;)",
+  "time": 1416675458,
+  "type": "comment"
+ },
+ "8645963": {
+  "by": "pcwalton",
+  "id": 8645963,
+  "parent": 8644311,
+  "text": "&gt; We all know that animating transform and opacity goes smoothly, and everything else goes terribly. Google thinks that&#x27;s a bummer and wants to fix it. However, they warn that the rendering changes required are so fundamental that it may be difficult for other vendors to match. Expect that to play out over a few years.<p>I&#x27;d be interested to know what those changes are. From what I can tell, you want off-main-thread layout because a lot of these properties require layout. But Google rejected off-main-thread layout as &quot;not helpful&quot;. Perhaps they&#x27;re referring to display lists (&quot;Blueprints&quot;), which can indeed be helpful, but Gecko already has them… (Granted, display list building in Gecko is not incremental yet, but that does not require &quot;fundamental&quot; rearchitecting.)",
+  "time": 1416675480,
+  "type": "comment"
+ },
+ "8645964": {
+  "by": "fiatjaf",
+  "id": 8645964,
+  "parent": 8643024,
+  "text": "They will pay the percentages based on the money made, 50% of zero is zero.",
+  "time": 1416675505,
+  "type": "comment"
+ },
+ "8645965": {
+  "by": "joshbaptiste",
+  "id": 8645965,
+  "parent": 8645443,
+  "text": "Start watching <a href=\"http://www.bsdnow.tv\" rel=\"nofollow\">http:&#x2F;&#x2F;www.bsdnow.tv</a> , great show focusing on the *BSD&#x27;s.",
+  "time": 1416675511,
+  "type": "comment"
+ },
+ "8645966": {
+  "by": "jvdh",
+  "id": 8645966,
+  "parent": 8645684,
+  "text": "&gt; release-upgrade can be either perfect or very painful.<p>This seems to be in the nature of the task. Freebsd-update is also often perfect, but if it goes wrong it can be very painful as well.<p>On the other hand, you do have a rollback feature, but then you&#x27;re back to a probably working, outdated system.",
+  "time": 1416675527,
+  "type": "comment"
+ },
+ "8645967": {
+  "by": "alasdair_",
+  "id": 8645967,
+  "parent": 8644432,
+  "text": "I used to play a lot of competitive magic (including on the Pro Tour). Interestingly, although I barely play now (and own zero cards), the combination of playing MTG and playing WoW (in particular the auction house), led to my current startup focused on pricing collectibles of all kinds.<p>Hell, we even track magic cards: <a href=\"http://www.mtgprice.com\" rel=\"nofollow\">http:&#x2F;&#x2F;www.mtgprice.com</a>",
+  "time": 1416675573,
+  "type": "comment"
+ },
+ "8645968": {
+  "by": "joshstrange",
+  "id": 8645968,
+  "parent": 8645607,
+  "text": "I alway like to link to this blog post when UA&#x27;s come up:<p>History of the browser user-agent string - <a href=\"http://webaim.org/blog/user-agent-string-history/\" rel=\"nofollow\">http:&#x2F;&#x2F;webaim.org&#x2F;blog&#x2F;user-agent-string-history&#x2F;</a>",
+  "time": 1416675573,
+  "type": "comment"
+ },
+ "8645969": {
+  "by": "sergiosgc",
+  "id": 8645969,
+  "parent": 8645443,
+  "text": "A side question somewhat related to the theme: What features of ZFS can&#x27;t be achieved with ext4 on top of LVM? I see lots of people longing for full disk encryption, mirroring, snapshots or foreign hard disk consolidation, all of which seem doable with ext4+LVM.",
+  "time": 1416675592,
+  "type": "comment"
+ },
+ "8645970": {
+  "by": "vijucat",
+  "id": 8645970,
+  "parent": 8643123,
+  "text": "I just gave the FIX log example because that&#x27;s what I am familiar with, that&#x27;s all. :-)<p>&gt;  Are firms actively looking for people with these kinds of skills?<p>Generally, I used to use efinancialcareers.com and other industry-specific recruiters to gauge demand. On the flow side &#x2F; sell-side, unless you have elevated into a more quant-focused role, the IT folks often end up dealing with FIX, but I suppose it also depends on which instrument...I was in equities.<p>&gt; Finally, you mentioned I&#x27;m underpaid--what do you recommend I ask for in terms of a raise, and after how many months would it be appropriate? I&#x27;m a few months in and this is my first job ever because I did the master&#x27;s right after my bachelors.<p>Honestly, I don&#x27;t know. I&#x27;m in Hong Kong and I don&#x27;t have a pulse on NYC salaries right now. I somehow thought you had some years of experience, so the salary you mentioned may not even be low if this is your first job?<p>If I was in your situation, I would do a survey among my friends to gauge the appropriate salary. Be careful about recruiters&#x27; opinions, though : it benefits them to make you feel dissatisfied at your present job, so they may exaggerate how much you could get if you jumped jobs. If the gap is too much, I would immediately put in a word in with my manager : &quot;Hey, I was just talking to my friends and I found out that I started off at the lowest salary among the bunch. On the average, the difference is $40k or more. Do you think you can revise my base or bonus at some point in the future?&quot;. It is politically important to put it across as a concern &#x2F; request, not as an aggressive stand. If the gap in salary between you and your batchmates at other places is not that much, you can wait till the year-end &#x2F; half-year review...<p>Plus, there are all the other issues of your employer&#x27;s brand-name, the kind of work you do, how nice your colleagues are to you, how nice of a person is your boss, etc;...All these have tremendous value, too, and employers are keenly aware of their brand-value as well as whether the work you are being allowed to do is coveted, and don&#x27;t hesitate to pay you less than market-rate if either factor comes into play!<p>&gt; Knowing this, would you still recommend I stay in finance?<p>Yes, finance is so large an industry that stereotypes need not apply to you. For example, Jane Street is much more respectful of good coders &#x2F; thinkers has a startup feel to it. You can aspire to join such a small firm rather than JPM, GS, or other axis-of-evil participants. :-) Or you can join a smaller buy-side shop, etc;<p>The top three things I would suggest doing are a) network; need not be aggressive; just do things you like with other people. Go to an R meetup or python meetup, for example. Meetups hosted at other firms&#x27; offices are a great way to check them out and get intel on what the industry is like outside your firm b) identify fields of interest and become good at them; could be tech, could be particular instruments of trading, etc; c) wait. Wait until the field and the players become more clear. Wait until you come across a firm or opportunity that makes you go, &quot;Wow, I&#x27;d like to work there &#x2F; on that!&quot;. Then the energy will come to you naturally. Or maybe you see them all and it becomes really clear that you don&#x27;t even want to be in NY?<p>I think it&#x27;s great that you posted on HN and asked for advice. It&#x27;s great that you acknowledged that you are dissatisfied. The tricky part after seeing a problem is waiting. :-) The natural tendency is to jump to a solution, and often, we just simply pick the thing that looks most different from where we&#x27;re uncomfortable (startups instead of finance; SV instead of NY, etc;). Staying with the discomfort till your feelings crystallize more clearly is probably the most tricky yet important skill for anyone.",
+  "time": 1416675604,
+  "type": "comment"
+ },
+ "8645972": {
+  "by": "sspiff",
+  "id": 8645972,
+  "parent": 8645573,
+  "text": "I recently ordered a Xeon Phi 31S1P. They&#x27;re under $200 at the moment[1]. The biggest problem I have is that you can&#x27;t just plug them into any computer like you would a graphics card. You need a compatible motherboard, and those tend to be in the high price range and 2011 sockets (which means expensive CPU). Most of the time, you won&#x27;t find out if a board is compatible until you plug a card in and try it out.<p>I&#x27;m curious how well the card will work, I&#x27;d love to see something like Erlang on such a thing.<p>[1] <a href=\"https://software.intel.com/en-us/articles/special-promotion-intel-xeon-phi-coprocessor-31s1p\" rel=\"nofollow\">https:&#x2F;&#x2F;software.intel.com&#x2F;en-us&#x2F;articles&#x2F;special-promotion-...</a>",
+  "time": 1416675631,
+  "type": "comment"
+ },
+ "8645973": {
+  "by": "j2kun",
+  "id": 8645973,
+  "parent": 8644649,
+  "text": "Interestingly enough, we still don&#x27;t know a lot about sorting :)",
+  "time": 1416675639,
+  "type": "comment"
+ },
+ "8645974": {
+  "by": "pekk",
+  "id": 8645974,
+  "parent": 8645772,
+  "text": "There are already several alternatives to systemd, starting with the systems that systemd is replacing that have worked well for years.",
+  "time": 1416675668,
+  "type": "comment"
+ },
+ "8645975": {
+  "by": "lotsofmangos",
+  "id": 8645975,
+  "parent": 8645809,
+  "text": "A 4 year non-compete is 10% of your working career. That doesn&#x27;t sound like a good plan unless they are offering you the moon on a stick as compensation.",
+  "time": 1416675684,
+  "type": "comment"
+ },
+ "8645976": {
+  "by": "sampl",
+  "id": 8645976,
+  "parent": 8645924,
+  "text": "I&#x27;m a designer, big MD fan, and I&#x27;m dying to see some decent design in OS desktop land. But I don&#x27;t get it either.<p>Design is all about understanding a problem&#x2F;context and creating a solution to match it. MD is a great answer to a completely different problem than this project is solving.",
+  "time": 1416675691,
+  "type": "comment"
+ },
+ "8645977": {
+  "by": "bobajeff",
+  "id": 8645977,
+  "parent": 8644311,
+  "text": "Web app distribution and discoverability are things not addressed in the current web app manifest standard. Mozilla has a API that allows sites to trigger an install with using a navigator.Apps.install() function but I believe browser vendors are concerned about users being bugged by sites that would missuse it. Many websites would ask to be installed even content only sites.<p>I believe Google wants to move from the curated app store model with reviews and ratings to a search results model algorithmically ranked apps. So making a web apps store or adding web apps to the play store doesn&#x27;t work with their future plans.",
+  "time": 1416675698,
+  "type": "comment"
+ },
+ "8645979": {
+  "by": "mattmanser",
+  "id": 8645979,
+  "kids": [
+   8646062
+  ],
+  "parent": 8645260,
+  "text": "Whoosh, that went over your head.<p>The implication of his post is that aholes, to use jghn&#x27;s term, like you ruin MMO games for everyone else. So the 5% like you, who are impossible to manage, are the ones who cause heavy restrictions on what exactly you can do to grief or PVP.<p>Because it&#x27;s not that you sometimes grief other players, it&#x27;s that you constantly grief other players. And there&#x27;s almost always no consequence, unlike real life where even the most violent societies acting like that there&#x27;d be a good chance you&#x27;d end up hanging from a tree, &quot;game over&quot;, so you wouldn&#x27;t act like that. In an MMO you just respawn.<p>Your fun is to make other people miserable.",
+  "time": 1416675731,
+  "type": "comment"
+ },
+ "8645980": {
+  "by": "julie1",
+  "id": 8645980,
+  "parent": 8645868,
+  "text": "Problem 0: Yes sysinit has problems but systemd brings even more problems (journalctl, PID 1, dependancy Hell ++, undeterministic bootup process)<p>Systemd is a broken silver bullet for handling the decrease in quality of packaging.<p>There are problems with sysinit: the first one is the missing link between devs and syadmins in companies: people known as packagers.<p>For a sysinit to work well shell scripts, permissions, where resources are located, the dependency management has to be done with art and expertise. It is a human job with human which are:<p>1) a very skilled rare resource,\n2) not identified has needed by companies,\n3) company&#x27;s software QA is shitty (it has barely the level it works for me (tm) of quality<p>Talking about debian, which is considered the distribution with the most talented packagers debian has 2 flows in this domain:<p>* too rigid:\nprojects goes for logical units of packaging that are consistent and organization of assets in packages that can ease maintaining. Debian has its guideline that makes them «fix» poorly packaged softwares like lateX, python, ruby: cutting language distro in at least runtime, dev, extra. \nDebian packagers are often debian experts, not upstream software package experts and they first break some stuffs (latex is so poorly packaged on debian it can be considered broken), AND it adds more works<p>* too much features\ntypical linux distro compared to BSD are pacakging fucking more packages in their core resulting in more work; less attentions to the details and conflicts of functionality&#x2F;overlaps.\nThis result in more resource drained from the packagers.\nLike we have 4 shells considered OK for writing shell related stuff, when they have only one: «sh».<p>The problem of linux vs BSD is symbolized by the systemd vs sysinit: linux is an OS of devops that are super devops, poor coders and sysadmins, BSD is an OS of sysadmins and devs that are good sysadmins and devs, but no devops.<p>And we still lack in 2014 of maintainer, sysadmins and coders of quality.<p>Linux&#x2F;Gnome ... FSF projects are not sustainable in these conditions. They think of free software has an infinite resource of benevolence. And they exponentially overblow the works required for maintaining, deploying ... thus they are mathematically doomed to die under their own weight.<p>I see BSD as a calvinist boring protestant community turned towards humility doing what is right and linuces as catholic exhuberant rockstars over spending the good will of developers without thinking of the future.<p>Being lutherian, I still dream of THE right OS that would less terse than BSD.",
+  "time": 1416675741,
+  "type": "comment"
+ },
+ "8645981": {
+  "by": "mattgreenrocks",
+  "id": 8645981,
+  "parent": 8644311,
+  "text": "I&#x27;m not very excited.<p>It seems like industry is perpetually locked in a death-spiral of creating the most &quot;native-like&quot; meta-platform that tries to mimic whatever proprietary platform is currently big. Eventually, another proprietary platform emerges and captures mindshare, and the nerds get angry at the proprietary-ness and start a new meta-platform emerges with the same promises of &quot;eventually it will great.&quot; Due to idealism and politics, the meta-platform attracts a huge amount of smart devs who ultimately are trying to replicate something that people already have.<p>I&#x27;m sorry to sound grumpy, it just seems like everything runs in circles and nobody seems to care or notice. Maybe tech is much better when it&#x27;s applied to tough domains.",
+  "time": 1416675754,
+  "type": "comment"
+ },
+ "8645982": {
+  "by": "ColinWright",
+  "id": 8645982,
+  "parent": 8645952,
+  "text": "You&#x27;re in a position where, in effect, you have to sell it. A posting to HN is like an elevator pitch - get it right and you&#x27;ll get users, high-quality feedback, exposure, advertising, all in one neat little bundle.  You <i>need</i> to work on how you present your project - it can make a huge difference.<p>Gone now to have a look at the screenshots ... kudos for a rapid response, but they really tell me nothing.  I don&#x27;t know what can be stored, how items can be linked or structured, whether it&#x27;s possible to edit, capture from the web, annotate, or anything, really.<p>And I still don&#x27;t want to log in with Facebook or Google, although I appreciate that once you&#x27;ve figured out how to make that possible, it&#x27;s then extra work to add an independent login.",
+  "time": 1416675776,
+  "type": "comment"
+ },
+ "8645983": {
+  "by": "rhizome",
+  "id": 8645983,
+  "parent": 8641435,
+  "text": "&gt;The less public value the leak has, and the more confidential the information is, the more damage it can cause,<p>I&#x27;m not sure what you&#x27;re saying here. If the leak doesn&#x27;t have public value, it won&#x27;t cause damage. &quot;Emil likes yellow socks.&quot; If it <i>does</i> damage the company, then it has public value. It may just be that &quot;the public&quot; devalues, or is starting to devalue, companies composed of dicks.",
+  "time": 1416675797,
+  "type": "comment"
+ },
+ "8645984": {
+  "by": "DCKing",
+  "id": 8645984,
+  "kids": [
+   8646017
+  ],
+  "parent": 8645504,
+  "text": "I&#x27;m just going to leave a comment to contrast the usual negativity.<p>What I like about this is:<p>- The developers are not attempting to reinvent the wheel.<p>- Material Design is well-regarded on mobile devices, and it&#x27;s interesting to see what you can do with its ideas on the desktop.<p>- They clearly pick technologies that are the way forward on the Linux desktop: Wayland and Qt+QML. It&#x27;s great that these things are maturing to the point that we can start leaving behind X and that it&#x27;s clear that Qt has won the toolkit war.<p>- Focused approach of not (yet) supporting different distros, but (like Elementary OS) an attempt to focus on getting it to work well for <i>one</i> system configuration.<p>I hope these guys can put in the time and effort to make something out of this. It seems they are making a couple of good decisions already.",
+  "time": 1416675815,
+  "type": "comment"
+ },
+ "8645985": {
+  "by": "PaulKeeble",
+  "id": 8645985,
+  "parent": 8645172,
+  "text": "Many times I have had programming problems that would have usefully been able to use a lot of cores especially with reasonable IO wait on each of the threads of execution. But in order to really have just been able to use this it needs:<p>1) The cores need to run modern x86 so its a simple matter of just running the binary.\n2) The offloading and concept of heterogeneous cores needs to be added into the operating system. All the cores should be exposed to programs and then putting threads onto accelerators ought to be something a hint can suggest or maybe a special type of parallel thread created. In essence the OS needs to be exposing them like any other core with shared memory and everything else this entails to make it native.<p>The current model that GPUs use is very good for doing matrices of data but it really doesn&#x27;t lend itself to agents or other types of concurrency. Its a bit of a stretch to be writing in a restricted form of C which is pretty low level with openCL or DirectCompute combined with all the API and data passing overhead its a very specific type of program that benefits and it requires rewriting your code completely. The future can&#x27;t possibly be this in the general case and its not really being adopted all that widely, some people are using it of course but most aren&#x27;t.<p>In my opinion lots of low power cores that run the same instruction set as the primary CPU gives us a useful middle ground that is easier to use and optimise for and can be used alongside the primary fast cores of the main CPU. That is the future I am hoping for.",
+  "time": 1416675818,
+  "type": "comment"
+ },
+ "8645986": {
+  "by": "JshWright",
+  "id": 8645986,
+  "parent": 8645277,
+  "text": "You need some LEDs man...",
+  "time": 1416675822,
+  "type": "comment"
+ },
+ "8645987": {
+  "by": "sspiff",
+  "id": 8645987,
+  "parent": 8645687,
+  "text": "It&#x27;s not the case. These are 57 independant cores, much like you&#x27;d see in a quad core CPU, except that they&#x27;re Pentium-vintage feature wise (with the addition of some modern vector instructions and SMT).<p>As far as I can tell, they&#x27;re not binary compatible with existing software and software need recompilation, using Intels compilers.",
+  "time": 1416675862,
+  "type": "comment"
+ },
+ "8645989": {
+  "dead": true,
+  "deleted": true,
+  "id": 8645989,
+  "parent": 8645443,
+  "time": 1416675926,
+  "type": "comment"
+ },
+ "8645990": {
+  "by": "fgbreel",
+  "dead": true,
+  "id": 8645990,
+  "parent": 8645443,
+  "text": "I hear a lot about the greatness of TCP&#x2F;IP implementation on FreeBSD than other Unixes.",
+  "time": 1416675927,
+  "type": "comment"
+ },
+ "8645991": {
+  "by": "codegeek",
+  "id": 8645991,
+  "parent": 8644620,
+  "text": "I recommend <a href=\"http://www.asmallorange.com\" rel=\"nofollow\">http:&#x2F;&#x2F;www.asmallorange.com</a><p>We use them for a dedicated server and their support is awesome. They are also not too big like the godaddys and seem to care about their customers. No affiliations, I just like them a lot.",
+  "time": 1416675929,
+  "type": "comment"
+ },
+ "8645993": {
+  "by": "pmoriarty",
+  "id": 8645993,
+  "parent": 8643428,
+  "text": "Because Google makes its money by spying on its users.<p>It&#x27;s also an advertising company, which means it brainwashes and deceives people in to buying garbage.<p>Both activities are unethical, and I wouldn&#x27;t want anything to do with ether.",
+  "time": 1416675962,
+  "type": "comment"
+ },
+ "8645994": {
+  "by": "sspiff",
+  "id": 8645994,
+  "parent": 8645665,
+  "text": "Not true. The cores run independant threads and processes on an embedded Linux system that&#x27;s running on the card, meaning they&#x27;re much easier to program, and they allow porting of existing software without completely going back to the drawing board.",
+  "time": 1416675973,
+  "type": "comment"
+ },
+ "8645995": {
+  "by": "yellow_and_gray",
+  "id": 8645995,
+  "parent": 8645948,
+  "text": "Thanks. This helps.<p>I didn&#x27;t see tab completion when I was running the installer and I gave up.<p>Thank you for answering my question.",
+  "time": 1416675994,
+  "type": "comment"
+ },
+ "8645996": {
+  "by": "zackmorris",
+  "id": 8645996,
+  "parent": 8644817,
+  "text": "For anyone curious, Carnot efficiency is the maximum efficiency of extracting work from a temperature differential:<p>Carnot efficiency = 1 - Tc&#x2F;Th = (Th - Tc)&#x2F;Th\t&lt;- I find the last form easier to remember<p>Where temperatures are in Kelvin.  So in this case 500 C and -160 C are 773 K and 113 K so:<p>Carnot efficiency = (773 - 113)&#x2F;773 = 85.4%<p>It’s a handy approximation for the most efficiency that could be expected from other cycles.  So for example an internal combustion (Otto cycle) engine running below the temperature of boiling water would have an expected efficiency at room temperature of about 68 F or 20 C or 293 K of:<p>Carnot efficiency = (373 - 293)&#x2F;373 = 21.5%<p>Whereas jet (Brayton cycle) engines may have a temperature differential of 1000 C:<p>Carnot efficiency = (1293 - 293)&#x2F;1293 = 77.3%<p>Things are a bit more complicated than this because with active cooling it’s not just the temperature of the engine’s components, but the temperature of the exhaust gasses, efficiencies of valves, compressors, turbines, etc.  So modern internal combustion engines may reach 25% efficiency and turbines may reach 45% efficiency but I still find the Carnot cycle good for guestimation.<p>So for example, I remember research in the 90s for making ceramic internal combustion engines lubricated with graphite or exhaust that would run at a higher temperature and have an efficiency closer to jet engines.  There were also working Stirling engine cars that would have gotten significantly better mileage because it’s more practical to approach the Carnot limit with the Stirling cycle than the Otto cycle:<p><a href=\"https://www.youtube.com/watch?v=H_Vnxapd5fs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=H_Vnxapd5fs</a><p>The main tradeoff is that there hasn’t been as much research in high compression Stirling engines so they tend to have a higher volume than internal combustion engines at the same power output.  But since Stirling engines have significantly fewer moving parts and use external combustion (meaning they can run on any fuel), I could never quite figure out why they were never mass produced.  Perhaps if they had been, we would have seen industrial sized Stirling engines with Argon as the working fluid decades ago.<p>Then again, before the web and Wikipedia it would have been hard to make these kinds of points at a Thanksgiving dinner table.",
+  "time": 1416676085,
+  "type": "comment"
+ },
+ "8645997": {
+  "by": "TazeTSchnitzel",
+  "id": 8645997,
+  "parent": 8645654,
+  "text": "I wouldn&#x27;t say Facebook funds the development of PHP <i>per se</i>, but they do fund the development of HHVM and they made the initial draft of the language spec.",
+  "time": 1416676119,
+  "type": "comment"
+ },
+ "8645998": {
+  "by": "imanaccount247",
+  "id": 8645998,
+  "parent": 8645750,
+  "text": "&gt;Sorry, I&#x27;m going to have a hard time taking this seriously.<p>That will happen when you don&#x27;t read it.  Allow me to repeat it for you: &#x27;There is no &quot;basic linux installation&quot;&#x27;.  Linux is a kernel.  There is no &quot;basic linux installation&quot;.  I do not know how it could possible be stated any clearer.  Each individual distro is its own OS, which may or may not have a installation labelled &quot;basic&quot;.  Most of those are larger than any BSDs full OS.  This is very simple.<p>&gt;And, frankly, your statement about the &quot;full OS&quot; is meaningless<p>No it is not.  You are awfully hostile for someone who just wants to learn.  BSD operating systems are operating systems.  The full OS means the full OS.  Plain and simple.  The lack of distinction between the OS and third party packages is unique to linux distros, where the OS itself consists almost entirely of third party packages in the first place.  In BSD systems as in most systems, the operating system is everything included in the operating system, and third party software is third party software.<p>&gt;it includes every possible package<p>This is one of the fundamental differences, which is why it seems to odd that you claim to be talking about the differences but you don&#x27;t even know them.<p>&gt;I meant small in terms of packages. The kernel, a shell, and not much else unless you specify it.<p>There is no mainstream linux distro where that is the case.  Only specialized micro distros intended for embedded use and based on busybox provide anything like that.  Debian, ubuntu, fedora, etc all have a few hundred MB more stuff in their minimal installation.<p>&gt;but the point was that I&#x27;m used to specifying exactly what else I want<p>It is unreasonable to expect me to understand that was your point when you said something completely different.  Nonetheless, you do not get that unless you are doing a custom LFS.<p>&gt;The point you ignored or missed is that as a Linux user with no BSD exposure there&#x27;s a basic difference in philosophy<p>No, that&#x27;s the point <i>you</i> missed and instead talked about being minimal.<p>&gt;I&#x27;m not &quot;bringing up&quot; anything in terms of absolute pros and cons<p>Saying &quot;I love thing that is my own misunderstanding&quot; implies that the other option lacks that thing.  That&#x27;s what pros and cons are all about.",
+  "time": 1416676153,
+  "type": "comment"
+ },
+ "8645999": {
+  "by": "nathanb",
+  "id": 8645999,
+  "kids": [
+   8646009,
+   8646035
+  ],
+  "parent": 8645951,
+  "text": "I respectfully disagree with this advice. But I don&#x27;t have any evidence, anecdotal or otherwise, to back up my opinion.<p>Have you (or anyone else here) had direct experience in this area? Anyone had a job offer rescinded because you refused to sign the contract as-is? Anyone successfully tried to negotiate a non-compete?<p>When I went to my first job out of college, I was somewhat disturbed by the somewhat vague NCA that was part of the contract. I felt like its vagueness (it did not define what a &quot;competitor&quot; was) worked in my favor, and its duration was just a year. I talked with the HR person who said &quot;oh, we don&#x27;t really enforce those unless you&#x27;re at the executive level anyway&quot;, and by observation this appears to be true. We even had an executive VP leave to be CEO of a startup which has become a direct competitor, and if there was legal action involved they kept it quiet, since by all accounts he left on good terms.<p>Sorry for the rambling and possibly unhelpful story, but tl;dr is that I feel like &quot;don&#x27;t sign it&quot; is not good advice.",
+  "time": 1416676177,
+  "type": "comment"
+ },
+ "8646000": {
+  "by": "sergiosgc",
+  "id": 8646000,
+  "parent": 8645762,
+  "text": "If you have experience with ubuntu and the non rolling nature of the distro hurts you, then try debian testing. It&#x27;s stable enough for desktop use, similar to ubuntu and has rolling updates. I personally run debian unstable (one up on the bleeding edge ladder), but I tolerate the occasional breakage.",
+  "time": 1416676184,
+  "type": "comment"
+ },
+ "8646001": {
+  "by": "gkop",
+  "id": 8646001,
+  "parent": 8645566,
+  "text": "Koichi says the performance should now be comparable to normal positional arguments.",
+  "time": 1416676224,
+  "type": "comment"
+ },
+ "8646002": {
+  "by": "marcus_holmes",
+  "id": 8646002,
+  "parent": 8645394,
+  "text": "This is terrible. Each result blocks in the first example (e.g. if the first url in the array returns in 3s and the second url returns in 3ms - the routine will wait 3s then deal with both instead of dealing with the 3ms result immediately it returns).\nThe second example blocks until all the results are in. This might be want you want, but if so then you might as well run them serially. The advantage of concurrency is that it can deal with the results as they come in.<p>The correct way to do this is to return results on a chan of (error, response) regardless of how much you &quot;don&#x27;t like it&quot;  for unspecified reasons.",
+  "time": 1416676281,
+  "type": "comment"
+ },
+ "8646003": {
+  "by": "lelf",
+  "id": 8646003,
+  "parent": 8645881,
+  "text": "Always have had. Double tab. (Because by default it’s sh as others mentioned). But “pkg install bash &amp;&amp; chsh” if you want the very bash.",
+  "time": 1416676288,
+  "type": "comment"
+ },
+ "8646004": {
+  "by": "altcognito",
+  "id": 8646004,
+  "parent": 8645809,
+  "text": "You don&#x27;t need a lawyer to know that 4 years is too long and that the terms are unpalatable.",
+  "time": 1416676297,
+  "type": "comment"
+ },
+ "8646005": {
+  "by": "sjackso",
+  "id": 8646005,
+  "parent": 8645443,
+  "text": "Here [0] is a really extensive how-to for running FreeBSD as a desktop OS.  It goes beyond the basics, including information about 3D graphics, printing, emulating Linux binaries, installing Flash, and running Wine.  It&#x27;s useful as a guide for someone starting out with FreeBSD, but it&#x27;s also useful to skim over it in order to get a sense of the distance between the minimalist, base FreeBSD installation and a modern desktop environment.<p>[0]: <a href=\"https://cooltrainer.org/a-freebsd-desktop-howto/\" rel=\"nofollow\">https:&#x2F;&#x2F;cooltrainer.org&#x2F;a-freebsd-desktop-howto&#x2F;</a>",
+  "time": 1416676306,
+  "type": "comment"
+ },
+ "8646006": {
+  "by": "byuu",
+  "id": 8646006,
+  "kids": [
+   8646025
+  ],
+  "parent": 8645749,
+  "text": "&gt; Some people prefer GNU make, some like bsdmake.<p>Is there really such a person that prefers bsdmake over GNU make?? I really don&#x27;t mean this as a troll comment, but bsdmake has about 5% of the functionality of GNU make.<p>It&#x27;s perfectly adequate if you just want to give it a list of files to compile, but it&#x27;s a nightmare to do things like write a recursive directory scanner to auto-generate Qt .moc files, to scan PATH to find the location of Qt on Windows, to parse command-line arguments passed into make, etc. Sure, the GNU Lisp-like syntax is an absolute nightmare, but at least it&#x27;s doable with a widely available build tool.<p>I would be seriously interested in hearing what someone likes more about bsdmake, other than simplicity (you can avoid using complex features in GNU make if you like.)",
+  "time": 1416676328,
+  "type": "comment"
+ },
+ "8646007": {
+  "by": "the_why_of_y",
+  "id": 8646007,
+  "parent": 8641209,
+  "text": "Of course the good people of KDE will take a stand against the evil corporations and would never ever consider using that vile systemd-logind abomination!<p><a href=\"http://blog.martin-graesslin.com/blog/2014/10/libinput-integration-in-kwinwayland/\" rel=\"nofollow\">http:&#x2F;&#x2F;blog.martin-graesslin.com&#x2F;blog&#x2F;2014&#x2F;10&#x2F;libinput-integ...</a>",
+  "time": 1416676329,
+  "type": "comment"
+ },
+ "8646008": {
+  "by": "TillE",
+  "id": 8646008,
+  "parent": 8645607,
+  "text": "I assume this also means the internal version will be 10.0? Although they&#x27;re deprecating that API anyway, and telling you to use a bunch of helper functions instead, so maybe it&#x27;s not too important.",
+  "time": 1416676350,
+  "type": "comment"
+ },
+ "8646009": {
+  "by": "altcognito",
+  "id": 8646009,
+  "parent": 8645999,
+  "text": "If they aren&#x27;t going to enforce it, then you should gleefully say, &quot;Great! No need to sign it then.&quot;",
+  "time": 1416676357,
+  "type": "comment"
+ },
+ "8646010": {
+  "by": "georgecmu",
+  "id": 8646010,
+  "parent": 8645809,
+  "text": "Everyone already suggested getting a lawyer -- follow that advice. Pick a lawyer specializing in non-competes specifically in your area. They will be able to advise you on reasonableness of the proposed terms and what you could likely negotiate them down to.<p>Like everything else -- and you already know that -- non-compete terms are negotiable. Your plan is pretty good. Tell them you don&#x27;t have a problem with the non-compete, but you&#x27;re uncomfortable with how broad the terms are. Ask to reduce the term (ask for 12 months, they&#x27;ll likely agree on 24), geographic area (e.g. your specific metro area instead of all of United States), and specific area of application (e.g. &quot;web development for internal oil&amp;gas applications&quot; instead of &quot;programming&quot;). Worst thing that would happen is that they&#x27;ll tell you to take it or leave it.",
+  "time": 1416676365,
+  "type": "comment"
+ },
+ "8646012": {
+  "by": "bsaul",
+  "id": 8646012,
+  "parent": 8645358,
+  "text": "Cool ! thanks for the info. I&#x27;ll check that.",
+  "time": 1416676422,
+  "type": "comment"
+ },
+ "8646013": {
+  "by": "vlbeta",
+  "id": 8646013,
+  "parent": 8644552,
+  "text": "Looks like there are about 43 software developer jobs in Grand Rapids, MI. Enter a programming language or skill in the search to hone in on the results.<p><a href=\"https://jobfusion.co/grand-rapids-mi/software-developer\" rel=\"nofollow\">https:&#x2F;&#x2F;jobfusion.co&#x2F;grand-rapids-mi&#x2F;software-developer</a>",
+  "time": 1416676448,
+  "type": "comment"
+ },
+ "8646014": {
+  "deleted": true,
+  "id": 8646014,
+  "parent": 8644552,
+  "time": 1416676475,
+  "type": "comment"
+ },
+ "8646015": {
+  "by": "asveikau",
+  "id": 8646015,
+  "parent": 8645606,
+  "text": "We must remember that the BSDs in particular exist in a reality where you can issue a single source control checkout command and you have the whole tree literally to do anything you want with, most of it even with a license amenable to anything.<p>Linux isn&#x27;t quite in this world in such a dramatic way as the BSDs, but it exists very close to it.<p>So &quot;choice&quot; isn&#x27;t some abstract concept that comes later as an afterthought, it&#x27;s kind of the whole point in a very concrete and literal sense, in a way that other systems do not offer.  Naturally you will see people with their workflows based on that, or some indirect form of that.  And these people have working systems, no matter how much people wax philosophical and longingly on forums for &quot;missing&quot; features that are irrelevant to people with already working systems.<p>So from a certain perspective it&#x27;s a bit weird to see something like a slide here say that such a system needs to address 99% of people.  Who says?  It&#x27;s working fine in its niche.<p>I think there is also a very simple difference of opinion and difference in personality types here, in a way that I don&#x27;t often see people acknowledge.  On one side you have people who crave authority, order, centralization.  One component to manage boot and hardware.  One UI toolkit.  Choice is bad, freedom is slavery.  (OK, just joking on that last one.)  Then there are people who just happen to like it the other way.  I&#x27;m <i>glad</i> that some systems don&#x27;t bring up a GUI until I ask for one, and even then, it can be whatever I say it is.  I find it pleasingly simple that the OpenBSD upgrade instructions basically tell you to run tar and patch.  These things are an anathema to those whose personality types are more aligned with, say, OS X, but they work well for me.",
+  "time": 1416676481,
+  "type": "comment"
+ },
+ "8646016": {
+  "by": "NickM",
+  "id": 8646016,
+  "parent": 8645743,
+  "text": "I can only speculate, but perhaps it has to do with the regenerative braking the boards provide. On an e-bike you still have friction brakes, but on one of these boards you need to be able to brake quickly using the electric motors.<p>More powerful motors, while perhaps not strictly necessary, would also provide quicker acceleration. For a product that&#x27;s designed to be fun, this might matter more, vs e-bikes which are mostly designed to be primarily utilitarian.",
+  "time": 1416676491,
+  "type": "comment"
+ },
+ "8646017": {
+  "by": "sz4kerto",
+  "id": 8646017,
+  "parent": 8645984,
+  "text": "&gt; it&#x27;s interesting to see what you can do with its ideas on the desktop.<p>I am one of the negative voices but you&#x27;re right here: it&#x27;s certainly worth a try.",
+  "time": 1416676497,
+  "type": "comment"
+ },
+ "8646018": {
+  "by": "mamcx",
+  "id": 8646018,
+  "parent": 8642555,
+  "text": "Something that confuse me.<p>Looking at <a href=\"https://github.com/asm-helpful/helpful-web\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;asm-helpful&#x2F;helpful-web</a> and other repos, look like all the open source activity must be inside assembly. That presume everyone want to be part of it, and that everyone look for financial gains.<p>Is possible to accept contributions in the normal sense, and only have inside assembly the &quot;core team&quot; or only the members that are part of the financial-side of the project?",
+  "time": 1416676549,
+  "type": "comment"
+ },
+ "8646019": {
+  "by": "Solsmed",
+  "id": 8646019,
+  "parent": 8645809,
+  "text": "For factoidal reference, in Sweden NCA&#x27;s are pretty toothless as the company has to prove to a court that you&#x27;ve directly competed with them after contract termination (i.e. stolen their existing clients).",
+  "time": 1416676601,
+  "type": "comment"
+ },
+ "8646020": {
+  "by": "Fastidious",
+  "id": 8646020,
+  "kids": [
+   8646052
+  ],
+  "parent": 8645719,
+  "text": "<a href=\"https://vultr.com/\" rel=\"nofollow\">https:&#x2F;&#x2F;vultr.com&#x2F;</a> is what I use. No complains.",
+  "time": 1416676668,
+  "type": "comment"
+ },
+ "8646022": {
+  "by": "stephengoodwin",
+  "id": 8646022,
+  "parent": 8645809,
+  "text": "4 years is too long. 12 months is the most I&#x27;ve ever signed. 18 months is the most I&#x27;ve ever heard of (a major tech company).",
+  "time": 1416676714,
+  "type": "comment"
+ },
+ "8646023": {
+  "by": "grigio",
+  "id": 8646023,
+  "parent": 8645443,
+  "text": "no, or your comments will be banned :&#x2F;",
+  "time": 1416676761,
+  "type": "comment"
+ },
+ "8646025": {
+  "by": "justincormack",
+  "id": 8646025,
+  "parent": 8646006,
+  "text": "Well it has enough functionality to compile FreeBSD, which is a pretty complex project, so it has enough functionality for many purposes. But I have to admit to using Gnu-makeisms quite a bit.",
+  "time": 1416676791,
+  "type": "comment"
+ },
+ "8646026": {
+  "by": "teddyh",
+  "id": 8646026,
+  "parent": 8645759,
+  "text": "I actually have a working binary here…<p>User-agent: NCSA_Mosaic&#x2F;2.7b6 (X11;Linux 3.2.0-4-686-pae i686)  libwww&#x2F;2.12 modified",
+  "time": 1416676809,
+  "type": "comment"
+ },
+ "8646027": {
+  "by": "sciurus",
+  "id": 8646027,
+  "parent": 8645913,
+  "text": "I don&#x27;t think your analogy works.<p>Racial profiling is when law enforcement decides to target someone someone based on their ethnicity (an innate characteristic) instead of their behavior.<p>Whether or not an HTTP client sends a user-agent header is a part of its behavior when making a request. Its fair to observe that along with other aspects of the clients behavior when deciding how to handle it.<p>You&#x27;re probably being blocked by sites running WAFs like ModSecurity. There&#x27;s a lot of crap out there, and I don&#x27;t blame people for setting a low threshold for blocking unusual requests. Here&#x27;s the rules which would catch a missing user-agent: <a href=\"https://github.com/SpiderLabs/owasp-modsecurity-crs/blob/master/base_rules/modsecurity_crs_21_protocol_anomalies.conf\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;SpiderLabs&#x2F;owasp-modsecurity-crs&#x2F;blob&#x2F;mas...</a>",
+  "time": 1416676869,
+  "type": "comment"
+ },
+ "8646028": {
+  "by": "slipstream-",
+  "id": 8646028,
+  "parent": 8645607,
+  "text": "This isn&#x27;t just about the UA string.<p>The NT kernel version in the latest builds of Windows 10 has changed from 6.4 to 10.0 (as first revealed by Chinese leaks), and this article basically confirms it.<p>Make of that what you will.",
+  "time": 1416676869,
+  "type": "comment"
+ },
+ "8646029": {
+  "by": "freerk",
+  "id": 8646029,
+  "kids": [
+   8646042
+  ],
+  "parent": 8640756,
+  "text": "Apparently they will use the same certs as implemented on letsencrypt.org, so the free certs will work without error on every client which trusts the &quot;DST Root CA X3&quot; CA. Can we collect a definitive list of clients which include this CA certificate? Similar to the list for StartSSL (<a href=\"https://forum.startcom.org/viewtopic.php?f=15&amp;t=1802\" rel=\"nofollow\">https:&#x2F;&#x2F;forum.startcom.org&#x2F;viewtopic.php?f=15&amp;t=1802</a>).<p>Firefox and Chrome: Mozilla added the certificate in NSS 3.11.9 on 2008-01-31, see <a href=\"http://www-archive.mozilla.org/projects/security/pki/nss/nss-3.11.9/nss-3.11.9-release-notes.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www-archive.mozilla.org&#x2F;projects&#x2F;security&#x2F;pki&#x2F;nss&#x2F;nss...</a> and <a href=\"https://bugzilla.mozilla.org/show_bug.cgi?id=411299\" rel=\"nofollow\">https:&#x2F;&#x2F;bugzilla.mozilla.org&#x2F;show_bug.cgi?id=411299</a> So even the very first Chrome supports it and Firefox starting with 3.0<p>Microsoft: The certificate is trusted by default since at least IE8 (<a href=\"http://www.herongyang.com/PKI/HTTPS-IE-8-Trusted-Root-CA-Certificate-Authorities.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.herongyang.com&#x2F;PKI&#x2F;HTTPS-IE-8-Trusted-Root-CA-Cer...</a>) and Windows automatically updates the certificates, see <a href=\"http://technet.microsoft.com/en-us/library/cc751157.aspx\" rel=\"nofollow\">http:&#x2F;&#x2F;technet.microsoft.com&#x2F;en-us&#x2F;library&#x2F;cc751157.aspx</a><p>Apple: Since iOS 2 (2008-07-11) (<a href=\"http://support.apple.com/en-us/HT2185\" rel=\"nofollow\">http:&#x2F;&#x2F;support.apple.com&#x2F;en-us&#x2F;HT2185</a>) and at least since OS X Mavericks (<a href=\"http://support.apple.com/en-us/HT203120\" rel=\"nofollow\">http:&#x2F;&#x2F;support.apple.com&#x2F;en-us&#x2F;HT203120</a>), but probably way earlier.<p>Java: Yes: <a href=\"https://gist.github.com/saltlakeryan/8479238\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;saltlakeryan&#x2F;8479238</a>",
+  "time": 1416676871,
+  "type": "comment"
+ },
+ "8646030": {
+  "by": "byuu",
+  "id": 8646030,
+  "parent": 8645792,
+  "text": "Opponents of systemd aren&#x27;t opposed to smarter dependency tracking at boot time. We&#x27;re opposed to vendor lock-in (making desktop environments and regular GUI applications dependent upon it), an intentional and strong lack of portability (especially important given the former), pushing software into production servers before it is stable and mature, the backroom politics involved in this displacing other competing technologies (OpenRC, upstart, etc), the move to corruptible binary log files, the assimilation and&#x2F;or replacement of countless other services that already have more mature and stable implementations (consoled, hostnamed, journald, localed, logind, networkd, resolved, shutdownd, timedated, timesyncd, udev, etc), the PID 1 requirement, coupling itself tighter with the kernel (cgroups changes just for it, kdbus, etc), the aggressive and hostile attitudes of the lead developers (Poettering and Sievers in particular), the complete lack of choice being provided from nearly all major distros, Debian dismissing their heritage as a rock-solid, stable, conservative distro, on and on.<p>Further, rc.d really isn&#x27;t anywhere near as bad as SysVinit. See an example of an rc.d script here: <a href=\"https://www.freebsd.org/doc/en/articles/rc-scripting/rcng-hookup.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.freebsd.org&#x2F;doc&#x2F;en&#x2F;articles&#x2F;rc-scripting&#x2F;rcng-ho...</a> (and even with how tiny it is, most of those lines aren&#x27;t necessary for your average script, either.)",
+  "time": 1416676872,
+  "type": "comment"
+ },
+ "8646031": {
+  "by": "peapicker",
+  "id": 8646031,
+  "parent": 8643500,
+  "text": "As one who has lived at 5500ft elevation or higher for all but of few of my 40+ years, this is pretty interesting...<p>I still wouldn&#x27;t trade the Rockies for anything.",
+  "time": 1416676964,
+  "type": "comment"
+ },
+ "8646032": {
+  "by": "Kaivo",
+  "id": 8646032,
+  "parent": 8644855,
+  "text": "The best way to deal with that is to see a new expansion as a new game altogether. What I enjoyed during Vanilla isn&#x27;t the same thing I enjoyed in BC, etc. Right now, with Draenor, I&#x27;m having fun with Garrison which is a kind of Farmville where you can hire NPCs going on mission for you, have NPCs crafting and gathering for you. I never thought that would be the thing I&#x27;d enjoy in the game, and have I read about that pre-release keeping in mind what I enjoyed doing then, I would have questioned Blizzard for including this in the game.",
+  "time": 1416676973,
+  "type": "comment"
+ },
+ "8646033": {
+  "by": "vlbeta",
+  "id": 8646033,
+  "parent": 8645181,
+  "text": "Yeah, that type of job search would be hugely helpful. Some of the other questions that come to mind are:<p>Q. I&#x27;d like to bike to work\n- within 10 minutes - within 20 minutes - i don&#x27;t bike to work<p>Q. I need health insurance\n- the full package - at least medical - not important<p>Q. I&#x27;d like catered meals\n- every day - occasionally - not important<p>We just built out a new job search as well and have been thinking about this quite a bit - <a href=\"https://jobfusion.co\" rel=\"nofollow\">https:&#x2F;&#x2F;jobfusion.co</a>",
+  "time": 1416676973,
+  "type": "comment"
+ },
+ "8646034": {
+  "by": "oxymoron",
+  "id": 8646034,
+  "parent": 8645878,
+  "text": "Well, there&#x27;s Elastic Beanstalk on AWS which is pretty much the same thing.",
+  "time": 1416676984,
+  "type": "comment"
+ },
+ "8646035": {
+  "by": "Dewie",
+  "id": 8646035,
+  "parent": 8645999,
+  "text": "&gt; &quot;oh, we don&#x27;t really enforce those unless you&#x27;re at the executive level anyway&quot;<p>They don&#x27;t trust you to &#x27;stab you in the back&#x27; - sign a written agreement.<p>You feel queasy about how it might limit your career if you have to quit&#x2F;are fired - &quot;Oh just take our word for it that we won&#x27;t actually use it against you&quot;.<p>Yes, totally symmetrical and fair. &#x2F;s",
+  "time": 1416677030,
+  "type": "comment"
+ },
+ "8646036": {
+  "by": "ende",
+  "id": 8646036,
+  "parent": 8640655,
+  "text": "Your comment implies that the national security state is a partisan issue, which does not seem to be the case at all.  Democrats are often some of the worst offenders on this issue (see the current administration), while the Republican side contains both your John McCains and Rand Pauls.  The line that divides advocates of security vs freedom cuts across America in a way that cannot be described by outdated left-right ideological nomenclature.",
+  "time": 1416677081,
+  "type": "comment"
+ },
+ "8646037": {
+  "by": "patman81",
+  "id": 8646037,
+  "parent": 8645923,
+  "text": "Perfect, just what I was looking for!",
+  "time": 1416677110,
+  "type": "comment"
+ },
+ "8646038": {
+  "by": "userbinator",
+  "id": 8646038,
+  "parent": 8645382,
+  "text": "The LaunchPad used to be $4.30 when they first released it, and they were even giving them away for free for a short time. I suppose it&#x27;s popular enough now that they can increase the price.",
+  "time": 1416677128,
+  "type": "comment"
+ },
+ "8646040": {
+  "by": "GabrielF00",
+  "id": 8646040,
+  "parent": 8645738,
+  "text": "Generally, when an organization releases something to the public on the Friday before Thanksgiving, it means they don&#x27;t want it to get attention. That seems to be the case here. The report seems to demonstrate that much of the highly-politicized rhetoric on Benghazi does not match the facts.",
+  "time": 1416677153,
+  "type": "comment"
+ },
+ "8646041": {
+  "by": "judk",
+  "id": 8646041,
+  "parent": 8642674,
+  "text": "This was covered on 99pi and discussed here earlier this year.",
+  "time": 1416677182,
+  "type": "comment"
+ },
+ "8646042": {
+  "by": "iancarroll",
+  "id": 8646042,
+  "parent": 8646029,
+  "text": "Chrome does not use NSS. It uses the underlying OS root store.",
+  "time": 1416677216,
+  "type": "comment"
+ },
+ "8646043": {
+  "by": "ancarda",
+  "id": 8646043,
+  "parent": 8645845,
+  "text": "It&#x27;s useful to know the OS if you want to offer different binaries for each OS. Maybe just &quot;BrowserName&#x2F;Version (OSName&#x2F;Version)&quot; so<p><pre><code>    Firefox&#x2F;35 (Mac OS X&#x2F;10.10.1)</code></pre>",
+  "time": 1416677219,
+  "type": "comment"
+ },
+ "8646044": {
+  "by": "azakai",
+  "id": 8646044,
+  "parent": 8644658,
+  "text": "Well, when you click &quot;get hangouts&quot; the options are &quot;Android, iOS or Computers&quot;. So anyone that wants to run it on anything but a smartphone gets told that it can only run on Chrome. I don&#x27;t see it mention anything about an app as opposed to running in a browser.<p>Perhaps this is just a confusing UI, but if so, it would be very easy to fix. If that&#x27;s the case, I&#x27;m puzzled why it hasn&#x27;t been fixed.",
+  "time": 1416677223,
+  "type": "comment"
+ },
+ "8646045": {
+  "by": "conductr",
+  "id": 8646045,
+  "parent": 8645895,
+  "text": "I&#x27;d gladly pay a little extra to get the size and weight of the board vs this 75 lb scooter; that despite folding does not seem practical at all.<p>Also, there&#x27;s obviously a cool factor built in the price. This board is the tesla to your Nissan Leaf.",
+  "time": 1416677269,
+  "type": "comment"
+ },
+ "8646046": {
+  "by": "jghn",
+  "id": 8646046,
+  "parent": 8645873,
+  "text": "I enjoyed playing Kurita when I first started (right around the time they got their own server), and yes it was def the most RP heavy. I eventually stopped playing there because my char was female and there was some dude who clearly didn&#x27;t understand char != real life and kept bugging me. C&#x27;est la vie!<p>To my knowledge I was the 2nd Thomas Marik and stuck around almost to the end.<p>It was really too bad that game never <i>really</i> got off the ground, but it was way too ambitious.",
+  "time": 1416677299,
+  "type": "comment"
+ },
+ "8646047": {
+  "by": "calinet6",
+  "id": 8646047,
+  "parent": 8645924,
+  "text": "UX designer here. It&#x27;s way overhyped. The concepts behind it are great (using good motion design, giving proper feedback, showing clear affordances for actions, and lots of other good stuff), but that does not mean that everything has to look like Google&#x27;s material template to work.<p>For everyone: take the UX cues from Material, sure, but please make it your own. The clone army is getting very, very old.",
+  "time": 1416677304,
+  "type": "comment"
+ },
+ "8646049": {
+  "by": "qubyte",
+  "id": 8646049,
+  "parent": 8645683,
+  "text": "You should probably test your site in Firefox. It looks like a disaster.",
+  "time": 1416677333,
+  "type": "comment"
+ },
+ "8646050": {
+  "by": "icebraining",
+  "id": 8646050,
+  "parent": 8645762,
+  "text": "<i>There&#x27;s no &quot;because I want git 1.8 so I have to upgrade to Ubuntu 14.04&quot;, in FreeBSD you can install the latest version of git on all supported OS versions.</i><p>Isn&#x27;t that because ports are used compiled from source? You can do the same on Ubuntu with apt-get build-dep &amp;&amp; apt-get source -b, which will install the build dependencies, download the source and compile it.",
+  "time": 1416677357,
+  "type": "comment"
+ },
+ "8646051": {
+  "by": "freehunter",
+  "id": 8646051,
+  "parent": 8645567,
+  "text": "But that&#x27;s not really a fact, is it? It&#x27;s a hypothesis from one scientist. There&#x27;s enough sensationalism in science reporting already. Putting a complex idea into one sentence that is wrong isn&#x27;t any better than a teaser.<p><a href=\"http://xkcd.com/882/\" rel=\"nofollow\">http:&#x2F;&#x2F;xkcd.com&#x2F;882&#x2F;</a><p><a href=\"http://www.smbc-comics.com/index.php?db=comics&amp;id=1623\" rel=\"nofollow\">http:&#x2F;&#x2F;www.smbc-comics.com&#x2F;index.php?db=comics&amp;id=1623</a>",
+  "time": 1416677370,
+  "type": "comment"
+ },
+ "8646052": {
+  "by": "byuu",
+  "id": 8646052,
+  "parent": 8646020,
+  "text": "You do have to fax them a copy of your driver&#x27;s license and credit card in order for them to open up outbound SMTP, though.",
+  "time": 1416677373,
+  "type": "comment"
+ },
+ "8646053": {
+  "by": "Kaivo",
+  "id": 8646053,
+  "parent": 8644712,
+  "text": "I wouldn&#x27;t mind having company over. I&#x27;m on Medivh Alliance side and my character name is the same as my HN name.<p>Edit: I&#x27;m only playing casually.",
+  "time": 1416677383,
+  "type": "comment"
+ },
+ "8646054": {
+  "by": "jghn",
+  "id": 8646054,
+  "parent": 8645097,
+  "text": "My character used a real system of right and wrong and not the overly simplistic system (pre and post noto system) to judge things. So if you were stealing from people, etc - then yes.<p>I didn&#x27;t really care about looting in general (my char viewed it as simple scavenging), unless you were doing it to my friends.<p>In practical terms, generally griefers, PKs and NPKs were my enemies.",
+  "time": 1416677403,
+  "type": "comment"
+ },
+ "8646056": {
+  "by": "sciurus",
+  "id": 8646056,
+  "parent": 8645821,
+  "text": "What are the Digital Ocean equivalents to EC2 resources like AutoScaling Groups and Elastic Load Balancers?",
+  "time": 1416677430,
+  "type": "comment"
+ },
+ "8646057": {
+  "by": "jlongster",
+  "id": 8646057,
+  "parent": 8645847,
+  "text": "I haven&#x27;t looked closely at the original post, but there are a few semantics that are useful for promises that current channels don&#x27;t have (I&#x27;m more familiar with core.async than go). Clojure is working on promise channels: <a href=\"https://t.co/Z3TQbQMnRb\" rel=\"nofollow\">https:&#x2F;&#x2F;t.co&#x2F;Z3TQbQMnRb</a>",
+  "time": 1416677439,
+  "type": "comment"
+ },
+ "8646058": {
+  "by": "judk",
+  "id": 8646058,
+  "parent": 8643130,
+  "text": "That&#x27;s the source document for these articles",
+  "time": 1416677442,
+  "type": "comment"
+ },
+ "8646059": {
+  "by": "jpgvm",
+  "id": 8646059,
+  "parent": 8645732,
+  "text": "Most of the AWS support for FreeBSD was done by Colin Percival, whom many hold in high regard.<p>Given that fact and the fact that Tarsnap runs on AWS I think it&#x27;s safe to assume it&#x27;s pretty stable.",
+  "time": 1416677452,
+  "type": "comment"
+ },
+ "8646061": {
+  "by": "JohnBooty",
+  "id": 8646061,
+  "parent": 8626554,
+  "text": "This is awesome and I&#x27;m really looking forward to the fruits of the Ruby team&#x27;s much-appreciated hard work.",
+  "time": 1416677504,
+  "type": "comment"
+ },
+ "8646062": {
+  "by": "jghn",
+  "id": 8646062,
+  "parent": 8645979,
+  "text": "I actually <i>did</i> know true RPing, quality people bandit PKs. They did actually exist. As it turned out, myself &amp; my people would often ally with them (RPing that was a challenge, but ...) against the jerks on the server (LS)<p>Unfortunately the number of people who <i>said</i> that&#x27;s what they were doing and were really just buttheads far outnumbered the real ones.",
+  "time": 1416677509,
+  "type": "comment"
+ },
+ "8646064": {
+  "by": "pkaye",
+  "id": 8646064,
+  "parent": 8645895,
+  "text": "They should call it a &quot;Scooty Puff Jr&quot;.",
+  "time": 1416677512,
+  "type": "comment"
+ },
+ "8646065": {
+  "by": "stevenrace",
+  "id": 8646065,
+  "parent": 8645743,
+  "text": "Because it&#x27;s fun.<p>To be fair, 250W on an ebike is &#x27;not fun&#x27; or anywhere close to the legal limits in the US (750-1000W).<p>The happy spot seems to be 2500-5000W for most hub driven ebikes.  I turned my bike down to 1000W this afternoon and couldn&#x27;t imagine running anything less.<p>Endless-sphere is the place to go if you&#x27;re interested in eskateboards&#x2F;ebikes with a bent towards DIY&#x2F;highpower.",
+  "time": 1416677534,
+  "type": "comment"
+ },
+ "8646066": {
+  "by": "WiseWeasel",
+  "id": 8646066,
+  "parent": 8645502,
+  "text": "How do you control for the depressive effect of living for extended periods in a hypobaric chamber? Seems like studying people living at different altitudes would be easier, cheaper and less tainted by experimental environment factors.",
+  "time": 1416677567,
+  "type": "comment"
+ },
+ "8646067": {
+  "by": "drsim",
+  "id": 8646067,
+  "parent": 8645867,
+  "text": "I&#x27;ve been through a few CRMs and haven&#x27;t stuck with any of them.<p>Currently I&#x27;m using Streak for Gmail and am loving it. Having the CRM right in my inbox makes complete sense. I haven&#x27;t tried it across the team yet, but that&#x27;s a scenario they seem to have figured out too.",
+  "time": 1416677581,
+  "type": "comment"
+ },
+ "8646068": {
+  "by": "krylon",
+  "id": 8646068,
+  "parent": 8645644,
+  "text": "&gt; 4) extremely good documentation for an open source project (<a href=\"https://www.freebsd.org/doc/handbook/\" rel=\"nofollow\">https:&#x2F;&#x2F;www.freebsd.org&#x2F;doc&#x2F;handbook&#x2F;</a>)<p>So true. In my day job, I am a Windows admin, and I continue to be surprised that FreeBSD (the other BSD systems, too) comes with such good documentation while Microsoft is not ashamed to charge its customers thousands of bucks for software that comes without a <i></i><i></i>ing manual...",
+  "time": 1416677590,
+  "type": "comment"
+ },
+ "8646069": {
+  "by": "jghn",
+  "id": 8646069,
+  "parent": 8645260,
+  "text": "The one problem with that is that most people want to be wolves, not sheep. Or if they want to be a sheep, obviously they&#x27;d prefer there not to be wolves. The problem in UO was that there were far too many wolves in relation to the number of sheep and things got out of hand.<p>I&#x27;m not going to do the math but I&#x27;d wager that on a typical server in the late 90s the proper amount would have been <i>1</i> small group of PKs, but instead that was the primary occupation out there.",
+  "time": 1416677620,
+  "type": "comment"
+ },
+ "8646070": {
+  "by": "oDot",
+  "id": 8646070,
+  "parent": 8645957,
+  "text": "I started wondering about this when I heard Sony uses the FreeBSD kernel.  If for a console, why not for the desktop?",
+  "time": 1416677659,
+  "type": "comment"
+ },
+ "8646071": {
+  "by": "Random_BSD_Geek",
+  "id": 8646071,
+  "parent": 8645443,
+  "text": "Long time reader, first time poster.<p>I&#x27;ve run FreeBSD on laptops, desktops and servers since 2.2.7. Laptops are not its strong suit. It works great for me as a desktop, but I&#x27;ve been tinkering with X desktop configurations for a long time, and don&#x27;t mind doing some work to have a desktop that functions precisely the way I want it to. Also, it is not my only desktop. (&#x2F;usr&#x2F;ports&#x2F;sysutils&#x2F;synergy FTW!)<p>Servers and network appliances are where FreeBSD really shines. The ports tree can be updated independent from the base OS and the base OS can be updated independent of ports. No upgrading to a new OS just to get a security fix for your web server.<p>ZFS is brilliant. ~7 years of FreeBSD&#x2F;ZFS and no issues.<p>PF makes every other firewall I&#x27;ve run (including every commercial option) look silly. PF is like the Python of firewalls: optimized for readability. Add in CARP and PFsync for easy fault tolerance.<p>The project is managed by a democratically elected core group. Like a real democracy, sometimes this means change happens slowly. But the deliberate approach to change is part of what makes FreeBSD great. It&#x27;s stable, predictable, and reliable. It functions as a well-engineered, well-documented whole.<p>FreeBSD&#x27;s biggest fault is how little attention it draws to itself. It is quietly brilliant. It just works. It doesn&#x27;t try to do everything. It&#x27;s just good, reliable infrastructure.",
+  "time": 1416677678,
+  "type": "comment"
+ },
+ "8646072": {
+  "by": "SixSigma",
+  "id": 8646072,
+  "parent": 8645822,
+  "text": "hmm, I can&#x27;t remember about spaces and you would need them for txt records. I cand find anything in the documentation, i&#x27;d have to do some tests",
+  "time": 1416677690,
+  "type": "comment"
+ },
+ "8646073": {
+  "by": "judk",
+  "id": 8646073,
+  "parent": 8644585,
+  "text": "Them you don&#x27;t just <i>start</i> free falling :-)",
+  "time": 1416677698,
+  "type": "comment"
+ },
+ "8646074": {
+  "by": "whiddershins",
+  "id": 8646074,
+  "parent": 8645809,
+  "text": "In my experience, that amazing deal where you could never do better, usually isn&#x27;t quite as unique as you think it is. There are always exceptions.<p>So of course talk to a lawyer, and of course be willing to negotiate, if minor negotiations kill the offer, there&#x27;s probably a bigger problem.<p>But also just think through the most likely scenario, and then the worst case scenario. Could they hire you, and fire you 1 day later and you wouldn&#x27;t be able to work for 4 years? There&#x27;s a (I think Yiddish) expression: plan for the worst, because the best will take care of itself.",
+  "time": 1416677710,
+  "type": "comment"
+ },
+ "8646075": {
+  "by": "rspeer",
+  "id": 8646075,
+  "parent": 8645757,
+  "text": "Historical languages would not leave any traces on the brain, because languages evolve at a <i>much</i> faster rate than biology. We believe that language is a phenomenon that is 60,000 to 100,000 years old, which is an evolutionary blink of an eye.<p>This is perhaps a problem with the theory of &quot;universal grammar&quot;, which says that language itself is an evolved instinct in the brain. When was the mass extinction of humans without universal grammar? Shouldn&#x27;t we be assuming that the brain processes we use for language evolved in the slow, haphazard way that everything else evolved, and asking what else we use this instinct for besides language?<p>Those questions I&#x27;m asking are in fact hugely controversial in linguistics, because UG has been an established theory of linguistics for decades, despite that when you take it too literally it makes no evolutionary sense, and weaker forms of it don&#x27;t make enough testable predictions.<p>On the other hand, I believe Murray Gell-Mann is beyond controversial in linguistics, as in no linguists who take themselves seriously take Gell-Mann seriously. There&#x27;s no evidence to tell us whether there was one &quot;Proto-Human&quot; language or many, and there certainly is no data to support Gell-Mann&#x27;s conjectures about specific properties of Proto-Human.<p>It feels a bit wrong to conclude this with &quot;argumentam ad cartoonist&quot;, but here&#x27;s SMBC lampooning Gell-Mann: <a href=\"http://languagelog.ldc.upenn.edu/nll/?p=3856\" rel=\"nofollow\">http:&#x2F;&#x2F;languagelog.ldc.upenn.edu&#x2F;nll&#x2F;?p=3856</a>",
+  "time": 1416677750,
+  "type": "comment"
+ },
+ "8646076": {
+  "by": "joelhaasnoot",
+  "id": 8646076,
+  "parent": 8645867,
+  "text": "This might work for you: <a href=\"https://civicrm.org/\" rel=\"nofollow\">https:&#x2F;&#x2F;civicrm.org&#x2F;</a><p>Have heard of several non-profits that are using this - also has an active community.",
+  "time": 1416677753,
+  "type": "comment"
+ },
+ "8646077": {
+  "by": "snarfy",
+  "id": 8646077,
+  "parent": 8641313,
+  "text": "I read about it in this book:<p><a href=\"http://en.wikipedia.org/wiki/Predictably_Irrational\" rel=\"nofollow\">http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Predictably_Irrational</a>",
+  "time": 1416677772,
+  "type": "comment"
+ },
+ "8646078": {
+  "by": "acdha",
+  "id": 8646078,
+  "parent": 8645759,
+  "text": "Here&#x27;s what the current Mosaic-CK (<a href=\"http://www.floodgap.com/retrotech/machten/mosaic/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.floodgap.com&#x2F;retrotech&#x2F;machten&#x2F;mosaic&#x2F;</a>) uses:<p>NCSA_Mosaic&#x2F;2.7ck9 (X11;Darwin 14.0.0 x86_64) libwww&#x2F;2.12 modified<p>Homebrew users should be able it install it on OS X easily:<p>brew install mistydemeo&#x2F;formulae&#x2F;mosaic-ck<p>(<a href=\"https://github.com/mistydemeo/homebrew-formulae/blob/master/mosaic-ck.rb\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;mistydemeo&#x2F;homebrew-formulae&#x2F;blob&#x2F;master&#x2F;...</a>)",
+  "time": 1416677797,
+  "type": "comment"
+ },
+ "8646079": {
+  "by": "matthewmacleod",
+  "id": 8646079,
+  "parent": 8645791,
+  "text": "I&#x27;m finding this testimonial a bit difficult to believe. App Engine is very obviously a different product from the whole AWS stable, and that&#x27;s something that you should be aware of if you&#x27;re in a position to be comparing them.<p>AWS is a high-quality, extensive offering, but it&#x27;s not suitable for every situation. The &#x27;sheer amount of services&#x27; are in some cases lacklustre reimplementations of services you could run yourself on EC2, for example.<p>What this boiled down to is &quot;I wanted to compare things to AWS, so I had a half-assed look at something that really isn&#x27;t a competitor then immediately stopped looking.&quot; That&#x27;s not really convincing.",
+  "time": 1416677805,
+  "type": "comment"
+ },
+ "8646080": {
+  "by": "DenisM",
+  "id": 8646080,
+  "parent": 8645787,
+  "text": "Solowheel?",
+  "time": 1416677826,
+  "type": "comment"
+ },
+ "8646081": {
+  "by": "skdoo",
+  "id": 8646081,
+  "parent": 8645321,
+  "text": "This law was written in the 70s for gas-powered skateboards.  We and others are working to change this, possibly as soon as the upcoming legislative session.",
+  "time": 1416677847,
+  "type": "comment"
+ },
+ "8646082": {
+  "by": "jghn",
+  "id": 8646082,
+  "parent": 8645104,
+  "text": "Exactly. But see my post above about predator&#x2F;prey ratios.<p>And this gets to the <i>other</i> point, I&#x27;d argue that if a <i>player</i> (not character) only finds a game fun if there are &#x27;victims&#x27; to exploit that they are in fact the problem. IMO a true fan of such things would enjoy the &#x27;hardcore players who enjoy this brutal setting&#x27;, but we&#x27;ve seen time and time again that these games fail because the majority of people who say they want these games really just want to be at the top of the food chain.<p>Random side note: The &#x27;care bear&#x27; term erupted on the CoB board. The LS roleplayers tended to be <i>very</i> PvP heavy. The Chessie roleplayers were generally PvP averse. We called them care bears and they called us the biker gang. This lead to things like them making throwaway chars on LS to give us a &quot;care bear invasion&quot; at Silks, us making chars over there for impromptu events (some involving Koster himself), etc.",
+  "time": 1416677855,
+  "type": "comment"
+ },
+ "8646083": {
+  "by": "alttab",
+  "id": 8646083,
+  "parent": 8644990,
+  "text": "Mentors and leaders.",
+  "time": 1416677867,
+  "type": "comment"
+ },
+ "8646084": {
+  "by": "kev009",
+  "id": 8646084,
+  "parent": 8645733,
+  "text": "I expect this would be a big deal for the appliance manufacturers (think Juniper, NetApp, Isilon) that need to support long life cycles .  I&#x27;d also expect those type of companies to pony up for long term support (and they do, at least internally, with staff developers and trees)<p>But in an ops context, why not simply install compat&lt;version&gt; packages?  Or worst case, run the obsolete apps in a &lt;version&gt; jail?  With containers, I think we&#x27;re rapidly approaching a point where the software that touches the hardware can evolve faster than the libraries&#x2F;support around applications, and this quite frankly is awesome!",
+  "time": 1416677887,
+  "type": "comment"
+ },
+ "8646085": {
+  "by": "judk",
+  "id": 8646085,
+  "parent": 8644591,
+  "text": "Yes, this is thoroughly discussed in the article and its sources.",
+  "time": 1416677898,
+  "type": "comment"
+ },
+ "8646087": {
+  "by": "defen",
+  "id": 8646087,
+  "parent": 8645321,
+  "text": "I see people riding them all the time in San Francisco...seems to be about as illegal as recreational pot smoking.",
+  "time": 1416677950,
+  "type": "comment"
+ },
+ "8646088": {
+  "by": "jghn",
+  "id": 8646088,
+  "parent": 8644628,
+  "text": "Agreed, plus this also forgets games like M59.<p>I would, however, say that UO was the first mainstream MMO and the game which brought the genre into people&#x27;s minds.<p>I always felt that the largest problem of UO was that it was too successful. IMO if the target audience had been the primary player pool it&#x27;d have been a lot better. I remember in the months before the beta release I started seeing it hyped to FPS type players as a place where you could go kill people and I knew it wasn&#x27;t going to be quite what they intended.",
+  "time": 1416677979,
+  "type": "comment"
+ },
+ "8646089": {
+  "by": "afro88",
+  "id": 8646089,
+  "parent": 8645940,
+  "text": "Totally disagree on the only mobile point. I&#x27;ve been using Google Inbox as my main mail client for about 2 weeks now and it&#x27;s great. Doesn&#x27;t get sore on the eyes and my workflow with it is really quick (as in, it doesn&#x27;t rely on touch to work). Yes I know it&#x27;s a web app, but it may as well be a standalone application.<p>I do agree on not using material colours for app title bars. But that&#x27;s my only real issue. I personally think material design looks great, and this example screenshot looks much cleaner and aesthetically pleasing already than the current linux offerings",
+  "time": 1416677992,
+  "type": "comment"
+ },
+ "8646090": {
+  "by": "Kiro",
+  "id": 8646090,
+  "parent": 8645713,
+  "text": "Not sure if you&#x27;re aware but all browsers do this.<p><a href=\"http://www.useragentstring.com/pages/Browserlist/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.useragentstring.com&#x2F;pages&#x2F;Browserlist&#x2F;</a>",
+  "time": 1416677995,
+  "type": "comment"
+ },
+ "8646091": {
+  "by": "debacle",
+  "id": 8646091,
+  "parent": 8645443,
+  "text": "I love the BSD ecosystem, but until FreeBSD is as easy to use and as maintained as Debian, I can&#x27;t see myself switching over. Debian is just far to convenient, not because it is better, but because it probably has 100 fold the maintainers that FreeBSD does.",
+  "time": 1416677997,
+  "type": "comment"
+ },
+ "8646094": {
+  "by": "tripzilch",
+  "id": 8646094,
+  "parent": 8634995,
+  "text": "I doubt the GP was thinking of this, but there exist some interesting side-channel information attacks using the electricity grid.<p>(disclaimer: I am not very knowledgeable about electricity&#x2F;electronics, so forgive me if I&#x27;m a bit hand-wavy or wrong about the details)<p>The actual electricity output from a wall-socket fluctuates continuously by a tiny bit over time. I suppose this goes for both the exact magnitude of power output (is that voltage or amperes?) and the exact frequency being ever-so-slightly above or below the expected 50Hz. These fluctuations can be measured (or fingerprinted) by carefully measuring the output of electrical appliances, such as the crackles and pops in audio recordings or brightness of light bulbs, and in fact many other things.<p>The other important fact in this trick is that apparently these fluctuations are all the same over the entire grid (or subsections of it, I guess, depending on network layout). They are also pretty much random. This means that if you keep a log of these fluctuations over time, you can timestamp recordings of pretty much anything with extreme accuracy, by matching up the patterns of crackles or power fluctuations in the recordings to your logs.<p>This would then allow one to detect fake call logs, video&#x2F;audio cuts and splices, stuff like that.<p>It&#x27;s not a gigantic privacy risk (therefore probably not what the GP was thinking of), at least not from the applications I can think of the top of my head. I do love side-channel attacks like these, though. They&#x27;re always so clever and out-of-the-box :)",
+  "time": 1416678025,
+  "type": "comment"
+ },
+ "8646095": {
+  "by": "jasonthevillain",
+  "id": 8646095,
+  "parent": 8645924,
+  "text": "You&#x27;re not. And &quot;make all the apps look the same except for some color&quot; is a misinterpretation, but it&#x27;s how a lot of the early practitioners seem to be interpreting it.<p>The idea, as I understand it, is material is a base metaphor that&#x27;s basically flat goo paper. It can be arranged, layered, and has some intrinsic animation behavior.<p>But the designer should think of material in the same way print designers think of text columns, or pullquotes, or the page. These are all things someone invented. They&#x27;re useful, but they&#x27;re not compelling. You still need to do something else on top of it.<p>The biggest problem I see with the flat goo paper is it&#x27;s being treated like its intrinsically playful. But that&#x27;s not appropriate for all UI&#x27;s. Some apps should be stark and clean. Some should be dark. To me, if you&#x27;re going to create a base UI language, it needs to be flexible enough to adapt to less playful brands.",
+  "time": 1416678068,
+  "type": "comment"
+ },
+ "8646096": {
+  "by": "_paulc",
+  "id": 8646096,
+  "parent": 8645881,
+  "text": "If you are using &#x2F;bin&#x2F;sh<p>set -o emacs",
+  "time": 1416678077,
+  "type": "comment"
+ },
+ "8646097": {
+  "by": "dannyded",
+  "id": 8646097,
+  "parent": 8645867,
+  "text": "Maybe you should try odoo.com?",
+  "time": 1416678077,
+  "type": "comment"
+ },
+ "8646098": {
+  "by": "jghn",
+  "id": 8646098,
+  "parent": 8644990,
+  "text": "Yes. Although in my case when I was talking about my &#x27;best managers&#x27;, they were also the people who were brilliant and were really good at the tech side too. These people all just had a natural ability to navigate through the political BS while still being extremely competent software folks.",
+  "time": 1416678098,
+  "type": "comment"
+ },
+ "8646099": {
+  "by": "simoncion",
+  "id": 8646099,
+  "parent": 8645340,
+  "text": "As anyone who&#x27;s used a language at least as modern as C will tell you, it&#x27;s awfully nice when a runtime system will help you clean up when your task terminates.<p>My beef with the article that the GGP links to is that GDM now requires such a system, but refuses to admit that<p>1) There currently exists only one such runtime system that provides the behavior that GDM relies on.<p>2) There is absolutely no guarantee that the GDM folks won&#x27;t come to rely on more systemd implementation detail in the future. Indeed, given the way Gnome development seems to happen, it&#x27;s almost a certainty that GDM will depend on more and more systemd implementation detail in an entirely ad-hoc manner as time goes on.",
+  "time": 1416678105,
+  "type": "comment"
+ },
+ "8646100": {
+  "by": "alexis",
+  "id": 8646100,
+  "parent": 8645797,
+  "text": "What evidence makes you say that I&#x27;m not against mob justice?<p>I trust you saw this?\n<a href=\"http://www.redditblog.com/2013/04/reflections-on-recent-boston-crisis.html\" rel=\"nofollow\">http:&#x2F;&#x2F;www.redditblog.com&#x2F;2013&#x2F;04&#x2F;reflections-on-recent-bost...</a>",
+  "time": 1416678190,
+  "type": "comment"
+ },
+ "8646101": {
+  "by": "alttab",
+  "id": 8646101,
+  "parent": 8644645,
+  "text": "Im with you dude. I began programming when I was 10 and have been doing it my entire life. Once I began working in organizations instead of on my own projects I was fascinated as to how the code I wrote was only a piece of it. I moved into management and I haven&#x27;t really looked back. I still get to code, but its when I want to.",
+  "time": 1416678201,
+  "type": "comment"
+ },
+ "8646102": {
+  "by": "tripzilch",
+  "id": 8646102,
+  "parent": 8640612,
+  "text": "Did you mean <a href=\"http://www.reddit.com/r/ofcoursethatsathing/\" rel=\"nofollow\">http:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;ofcoursethatsathing&#x2F;</a> ? (if it was something else, I&#x27;d like to know ;) )<p>(some of the topics in that subreddit are NSFW, although they are clearly marked as such)",
+  "time": 1416678266,
+  "type": "comment"
+ },
+ "8646103": {
+  "by": "mathattack",
+  "id": 8646103,
+  "parent": 8645809,
+  "text": "One comment...  If the non-compete is unreasonable (as this one is) it is likely unenforceable.  It&#x27;s worth digging a bit on the reputation of the company.  If the company is known for going after people who leave, it&#x27;s worth not joining independent of the time period.  If they don&#x27;t go after people, then don&#x27;t worry.",
+  "time": 1416678306,
+  "type": "comment"
+ },
+ "8646104": {
+  "by": "triggerworlds",
+  "id": 8646104,
+  "parent": 8644620,
+  "text": "Check out Zoho Mail for an alternative to Google Apps email interface [1]. Has worked pretty well for me when handling several non-proit email platforms. It isn&#x27;t as pretty of an interface as Gmail or google, but I have found it to be reliable and cost-inexpensive.<p>[1] <a href=\"https://www.zoho.com/mail/\" rel=\"nofollow\">https:&#x2F;&#x2F;www.zoho.com&#x2F;mail&#x2F;</a>",
+  "time": 1416678322,
+  "type": "comment"
+ },
+ "8646105": {
+  "by": "gvr",
+  "id": 8646105,
+  "parent": 8645206,
+  "text": "I wonder if Boosted Boards has tried putting the propulsion system on a regular skate deck instead of a longboard. Looking at the powered truck design it seems it should be doable. It seems the market would be bigger since most skaters don&#x27;t ride longboards.",
+  "time": 1416678329,
+  "type": "comment"
+ },
+ "8646106": {
+  "by": "snarfy",
+  "id": 8646106,
+  "parent": 8645809,
+  "text": "#1 Get real legal advice.  That said...<p>Everything I&#x27;ve read says they are not enforceable.  They cannot keep you from working and any company that tries to enforce them <i>cough cough amazon</i> loses more than it&#x27;s worth as all the top talent is dissuaded from ever working there.",
+  "time": 1416678335,
+  "type": "comment"
+ },
+ "8646107": {
+  "by": "skdoo",
+  "id": 8646107,
+  "parent": 8645743,
+  "text": "The power multiple between a Boosted board and others&#x27; technology is the same as between a Tesla Model S and a Nissan Leaf.  Both cars can go at highway speeds.  The extra power of a Boosted board is important for practical reasons, like hill-climbing and braking, and for fun.",
+  "time": 1416678349,
+  "type": "comment"
+ },
+ "8646108": {
+  "by": "Retra",
+  "id": 8646108,
+  "parent": 8645020,
+  "text": "You could get electricity back with something as simple as a stirling engine, but there is no point to doing that, as you aren&#x27;t storing enough to take yourself off the grid anyhow.",
+  "time": 1416678356,
+  "type": "comment"
+ },
+ "8646111": {
+  "by": "tripzilch",
+  "id": 8646111,
+  "parent": 8635451,
+  "text": "&gt; Hey, I don&#x27;t understand what the problem is.<p>I don&#x27;t assume there is a problem implied, it&#x27;s just a cool example of the endless variety of weird stuff on the Internet. And the rampant post-modernism of the 21st century, I guess :)",
+  "time": 1416678468,
+  "type": "comment"
+ },
+ "8646112": {
+  "by": "X-Istence",
+  "id": 8646112,
+  "parent": 8645969,
+  "text": "Full end to end checksumming. ZFS can find and correct errors on the fly, and can ensure data integrity.<p>Even on a single disk ZFS can notify the user what files have been damaged and should be restored from backup.<p>That is the most important thing for me, I want to make sure that my data is safe.",
+  "time": 1416678541,
+  "type": "comment"
+ },
+ "8646113": {
+  "by": "judk",
+  "id": 8646113,
+  "parent": 8642741,
+  "text": "Well they sell kindles for it and they know most people will get bored of classic literature with aging dialect.",
+  "time": 1416678580,
+  "type": "comment"
+ },
+ "8646114": {
+  "by": "slantyyz",
+  "id": 8646114,
+  "parent": 8645940,
+  "text": "&gt;&gt; Please no.<p>Well, to me, this is what I love about Linux - there are different flavors for different sensibilities.<p>This particular flavor isn&#x27;t for you, but it clearly scratched an itch for someone.",
+  "time": 1416678595,
+  "type": "comment"
+ },
+ "8646115": {
+  "by": "mikeash",
+  "id": 8646115,
+  "parent": 8645809,
+  "text": "I personally wouldn&#x27;t sign a non-compete unless it gave me my full salary for the entire period I couldn&#x27;t work. If that causes the deal to fall through then so be it. A 22.8% pay raise isn&#x27;t worth four years of forced unemployment. In my opinion it&#x27;s not worth <i>any</i>.",
+  "time": 1416678596,
+  "type": "comment"
+ },
+ "8646116": {
+  "by": "Viedit",
+  "id": 8646116,
+  "parent": 8645412,
+  "text": "Interested Ruby On Rails devs can also mail herbert@viedit.com or Skype me: herberttenhave",
+  "time": 1416678627,
+  "type": "comment"
+ },
+ "8646117": {
+  "by": "tacostakohashi",
+  "id": 8646117,
+  "parent": 8645840,
+  "text": "So, all the people that agree on the new &quot;standard string&quot; update their browsers to send that that, and find themselves unable to use all the websites that are still checking for some variant of &quot;Mozilla&#x2F;...&quot; because their administrators haven&#x27;t updated them yet (i.e., the entire internet). Nice idea.",
+  "time": 1416678681,
+  "type": "comment"
+ },
+ "8646118": {
+  "by": "ngduc",
+  "id": 8646118,
+  "parent": 8645982,
+  "text": "Hi CollinWright,\nI really appreciate your insightful and quick response. That helped a lot. I&#x27;ve added a modal to the landing page to show some screenshots as you suggested. Thanks.",
+  "time": 1416678705,
+  "type": "comment"
+ },
+ "8646119": {
+  "by": "X-Istence",
+  "id": 8646119,
+  "parent": 8645719,
+  "text": "<a href=\"http://atlantic.net/\" rel=\"nofollow\">http:&#x2F;&#x2F;atlantic.net&#x2F;</a> has a 99 cent FreeBSD VPS available.<p><a href=\"http://ovh.com/\" rel=\"nofollow\">http:&#x2F;&#x2F;ovh.com&#x2F;</a> has dedicated servers available with FreeBSD.",
+  "time": 1416678730,
+  "type": "comment"
+ },
+ "8646121": {
+  "by": "higherpurpose",
+  "id": 8646121,
+  "parent": 8645985,
+  "text": "AMD&#x2F;ARM&#x27;s HSA doesn&#x27;t need OpenCL (although it will support OpenCL 2.0 which is much more optimized for heterogeneous computing). I guess you&#x27;re talking about the <i>current</i> state of GPU computing. The next-generation, that will be based on HSA, should be much better. You can even use Java or other languages to write for it.",
+  "time": 1416678784,
+  "type": "comment"
+ },
+ "8646122": {
+  "by": "spash",
+  "id": 8646122,
+  "parent": 8645948,
+  "text": "Few minor corrections as several posts in this thread suggest outright installing bash just to achieve tab completion in FreeBSD.<p>The default root shell on FreeBSD is csh (tcsh) [1] and has been that way for at least 21 years (at least if I read the revision history [2] correctly, my own memories only go back about some 15 years).<p>As per Wikipedia article, tcsh natively supports tab completion since about 1983 [3] (which I can confirm always worked without an issue as far as my memories go, so again, give or take 15 years).<p>Permanently switching any user shell to tcsh (if it happens to be sh) is pretty much a single `chsh` command away, so as far as strictly tab completion goes, manual installation of bash is not required at all.<p>The required steps (step) to setup tcsh for tab completion can be found i.e. in this 2004 FAQ [4]:<p>Tip#7: List possible completions<p>I often see Bash users complain that Tcsh does not give a list of completions with the tab key. This is not true. Not only can Tcsh list complentions, but it can do it in color. Just add this to your ~&#x2F;.tcshrc<p>set autolist set color set colorcat<p>[1] <a href=\"https://www.freebsd.org/doc/en/articles/linux-users/shells.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.freebsd.org&#x2F;doc&#x2F;en&#x2F;articles&#x2F;linux-users&#x2F;shells.h...</a><p>[2] <a href=\"https://svnweb.freebsd.org/base/head/etc/master.passwd\" rel=\"nofollow\">https:&#x2F;&#x2F;svnweb.freebsd.org&#x2F;base&#x2F;head&#x2F;etc&#x2F;master.passwd</a><p>[3] <a href=\"https://en.wikipedia.org/wiki/Tcsh\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Tcsh</a><p>[4] <a href=\"http://www.tcsh.org/TipsAndTricks\" rel=\"nofollow\">http:&#x2F;&#x2F;www.tcsh.org&#x2F;TipsAndTricks</a>",
+  "time": 1416678794,
+  "type": "comment"
+ },
+ "8646125": {
+  "by": "freerk",
+  "id": 8646125,
+  "parent": 8646042,
+  "text": "Sure, fixed it. Thanks!",
+  "time": 1416678820,
+  "type": "comment"
+ },
+ "8646127": {
+  "by": "solistice",
+  "id": 8646127,
+  "parent": 8644753,
+  "text": "I think you&#x27;re overlooking that whys and whens are still knowledge leading to understanding of a concept, and they tend to come before the hows. You want to understand why you&#x27;re using the algorithm  before you begin working on how to implement the algorithm. As an extreme example, consider us teaching the Quicksort and the Bogosort as pure implementation but without explanation on usage. Granted, this is unlikely to ever happen, but it serves to illustrate that this kind of knowledge is part of the understanding of any algorithm, or even further, any concept.<p>Now the context you&#x27;re referring to regarding your &quot;implementing ols&quot; example seems to be largely assorted trivia to be honest. They don&#x27;t know the answer, they&#x27;re filling in  something, and have done so through highschool and then college because something might get mercy marks. I&#x27;d like to disagree on giving that the moniker meta-knowledge, it&#x27;s losely tied factoids at best.<p>I completely agree that deep understanding of concepts is incredibly important, but i think it&#x27;s unlikely we&#x27;ll see large scale change in that attitude. The way I see incentive structures for students, making that shift unconsciously is disincentivised, since moving from a cramming schedule to a more thourough approach puts you even further behind temporarily which hurts your grades. The fact that any kind of disaster or holdup could push you into the former style of learning is what I think causes the entire thing to tilt.<p>Whilst there are a couple more points I&#x27;d love to adress, I kinda want to question your assertion that this is a current generation thing. That is an awfully easy assertion to make, can usually be said about the asserters generation as well and all generations before that. Unless there&#x27;s more concrete data to back that part up, i think it does the present generation plenty of injustice.",
+  "time": 1416678944,
+  "type": "comment"
+ },
+ "8646128": {
+  "by": "nsamuell",
+  "id": 8646128,
+  "parent": 8644642,
+  "text": "Bufferbloat is definitely a thing. Most home routers are terrible sources of bufferbloat by default (HTTP browsing crawls to a halt the second torrenting starts ramping up). Thankfully, most home routers have some amount of QoS which can help a _ton_.",
+  "time": 1416678952,
+  "type": "comment"
+ },
+ "8646129": {
+  "by": "ricardobeat",
+  "id": 8646129,
+  "kids": [
+   8646144
+  ],
+  "parent": 8645678,
+  "text": "Your first reason is a bit condescending. KDE Plasma, Unity, Elementary, etc. all have clear design guidelines, and are all made by professional designers. They are not any less professional because you disagree with their choices &#x2F; reasoning, and it&#x27;s not clear that what makes Material Design work on mobile will translate well to the desktop at all.",
+  "time": 1416678964,
+  "type": "comment"
+ },
+ "8646130": {
+  "by": "anonymfus",
+  "id": 8646130,
+  "parent": 8646028,
+  "text": "Before mods renamed title to &quot;User-agent string changes&quot; it was &quot;...Windows NT value in the UA string will change from 6.4 to 10.0...&quot;",
+  "time": 1416679034,
+  "type": "comment"
+ },
+ "8646132": {
+  "by": "michaelmcmillan",
+  "id": 8646132,
+  "parent": 8645275,
+  "text": "Actually, that&#x27;s not how tests work. Writing a test after the code has been produced should not be considered a real test. Let me quote Robert C. Martin on this.<p><pre><code>    If we lose the production code, we end up with a better designed system that stays clean because it has tests. If we lose the tests, then the production code rots and the team slows down in a never ending spiral of lost productivity.\n\n    So we can conclude that if it became a choice between the tests or the production code, we&#x27;d rather preserve the tests. And this means that the tests are a more important component of the system than the production code is. Because the tests are the specs.\n</code></pre>\n<a href=\"http://blog.8thlight.com/uncle-bob/2013/09/23/Test-first.html\" rel=\"nofollow\">http:&#x2F;&#x2F;blog.8thlight.com&#x2F;uncle-bob&#x2F;2013&#x2F;09&#x2F;23&#x2F;Test-first.htm...</a>",
+  "time": 1416679077,
+  "type": "comment"
+ },
+ "8646133": {
+  "by": "skdoo",
+  "id": 8646133,
+  "parent": 8645416,
+  "text": "The power and top speed upgrade exceeds the original specifications, and we have quadrupled the warranty coverage.  This would be similar to your car getting more acceleration, more braking, a higher top speed, and a longer warranty, all remotely and for free.<p>Firmware update capability should be the norm, and to our knowledge we are the first and only board that can do this.",
+  "time": 1416679122,
+  "type": "comment"
+ },
+ "8646134": {
+  "by": "lkesteloot",
+  "id": 8646134,
+  "parent": 8645984,
+  "text": "&gt; to contrast the usual negativity<p>Thank you.",
+  "time": 1416679194,
+  "type": "comment"
+ },
+ "8646135": {
+  "by": "lifeforms",
+  "id": 8646135,
+  "parent": 8645443,
+  "text": "I have introduced FreeBSD at a number of companies, and I&#x27;m a big fan of it, but also like Debian and Ubuntu a lot. Here are some things I like about FreeBSD:<p>* Since it&#x27;s all developed in a smaller community, and FreeBSD hackers&#x2F;users tend to be pretty opinionated about many things, most subsystems have a consistent feel and are very unsurprising. This makes that you can often guess and be right. It also means you don&#x27;t get to have some hyped trends. (I have the same feeling about the Go language and community by the way.)<p>* This might be subjective but I feel that many administration tasks are very transparent, orthogonal and simple. Many system configuration, like enabling of services, network configuration, can be changed by a simple setting in a &#x2F;etc&#x2F;rc.conf shellvariables file with defaults in &#x2F;etc&#x2F;defaults&#x2F;rc.conf. Stuff ends up in understandable text config files. Comments and options tend to be simple and don&#x27;t require --lots-of-long-options --which-i-cant-ever-remember which GNU utils seem to really love :(<p>* The base system is being developed in a conservative way. We never reinstall servers for a major upgrade, we just upgrade running systems forever. We have some boxes that come from FreeBSD 6.0 (2005) and were gradually bumped up without reinstalling. There is little switching around of subsystems, so you don&#x27;t often have to learn replacements (like ipfwadm&#x2F;ipchains&#x2F;iptables). The OS is just a vehicle to me, please don&#x27;t complicate my life needlessly!<p>* The storage options are pretty nice. ZFS is now a common buzzword so I won&#x27;t go into it, also Linux is now getting a good replacement in btrfs. But I also like FreeBSD&#x27;s GEOM, which has a lot of &#x27;building blocks&#x27; that you can stack on eachother. For instance, you can use gmirror to create a RAID1 mirror, then use geli to create an encrypted volume on top of that.<p>* The ports&#x2F;packages collection is a rolling release and generally has very new versions of apps from OpenJDK to Node to PHP etc. In my mind, it&#x27;s best to keep your app stack continuously fresh, compared with lagging and doing large upgrades every few years. That way you get security updates from the app authors constantly, instead of from maintainers who backport it. I actually prefer this, since upgrading apps creates tangible value for our developers and customers, but it&#x27;s a tradeoff. If you want to be hands-off, set-and-forget, no-budget-for-maintenance, then you might be better off with an Ubuntu LTS or RHEL strategy of locking apps into old versions with backported fixes. But damn, I cringe whenever I see a box with PHP 5.3...<p>* If you compile ports yourself, the port maintainers often create configurable options so you can build stuff with your own preferences. This is very useful for instance if you need ffmpeg with some specific codecs. It can be a real drag on Linux to get it just right. Creating your own binary package repository with your favorite custom options is super easy.<p>* We distribute that stuff like crazy (e.g. on appliances), and it&#x27;s nice to be able to do that without having too much fear about the GPL(v3).<p>That said, there&#x27;s some positive points about Linux (mostly Ubuntu&#x2F;Debian here):<p>* Desktop support is undoubtedly better on Linux right now. FreeBSD desktops seem a bit like Linux desktops were in the &#x27;00s: manual twiddling, lots of tweaking, having to really watch what video and wireless hardware you get. PC-BSD should be better in this regard, but I haven&#x27;t tried BSD on the desktop for years now. But I&#x27;m tempted to give it another try.<p>* I think AppArmor is a really cool way to constrain applications without going the whole container way, for which FreeBSD doesn&#x27;t have an equivalent right now.<p>* While I&#x27;m skeptical about systemd&#x27;s overreaching goals, I do agree that it is time to centralize service and event management. It&#x27;s not a critical issue to me however, I&#x27;m not too bothered by the old inits for instance. So hopefully FreeBSD doesn&#x27;t have to have a big controversy and pick the &#x27;good parts&#x27;.<p>* Obviously Linux has a lot of momentum right now, so using it might be less of a long term risk in terms of support, hiring, etc.",
+  "time": 1416679204,
+  "type": "comment"
+ },
+ "8646136": {
+  "by": "ngduc",
+  "id": 8646136,
+  "parent": 8645959,
+  "text": "Thanks for your feedback dozzie. I need to figure out a way to present the site features in a minimal way which make it doesn&#x27;t sound like a commercial site. A minimal UI is the key for this site to have a distraction free experience.",
+  "time": 1416679205,
+  "type": "comment"
+ },
+ "8646137": {
+  "by": "dandrews",
+  "id": 8646137,
+  "parent": 8645719,
+  "text": "Also see johncompanies.com - stable systems, excellent and fast technical support.",
+  "time": 1416679281,
+  "type": "comment"
+ },
+ "8646138": {
+  "by": "solistice",
+  "id": 8646138,
+  "parent": 8646098,
+  "text": "Looks like those people were truly &quot;full stack&quot;. From the tech layer to the interdepartmental layer.",
+  "time": 1416679303,
+  "type": "comment"
+ },
+ "8646141": {
+  "by": "slantyyz",
+  "id": 8646141,
+  "parent": 8645627,
+  "text": "&gt;&gt; What does Material even offer to a Desktop OS?<p>I don&#x27;t think we&#x27;ll really know until these devs provide a working version of their OS.<p>I do think what this OS is trying to do makes for an interesting experiment -- even if it turns out to be a failure.",
+  "time": 1416679377,
+  "type": "comment"
+ },
+ "8646142": {
+  "by": "ReidZB",
+  "id": 8646142,
+  "parent": 8645839,
+  "text": "I&#x27;ve used Arch for years now---on the same install. The only thing that has been unstable about my system is the function of my USB A&#x2F;D converter (microphone). Other than that, there has never been an upgrade where something broke. Now, sure, it is wise to check the Arch homepage before you upgrade, just in case some action needs to be taken: that&#x27;s something that you don&#x27;t really have to do with, e.g., Debian. But if you do that, as I&#x27;ve done, you probably will never have major problems upgrading.<p>In fact, I actually dread Ubuntu updates far more ... I&#x27;ve had them break various and sundry things about my (previously-working) system. In my experience, at least, Ubuntu is far less stable than Arch. With that said, though, I haven&#x27;t used Ubuntu since 12.04 and 10.04 before that, so I don&#x27;t know how it fares anymore.",
+  "time": 1416679381,
+  "type": "comment"
+ },
+ "8646143": {
+  "by": "pyvpx",
+  "id": 8646143,
+  "parent": 8645570,
+  "text": "bespoke network equipment and associated software stacks are what everything in the datacenter, and hopefully in the office&#x2F;home, will be running in the next five years.",
+  "time": 1416679413,
+  "type": "comment"
+ },
+ "8646144": {
+  "by": "DCKing",
+  "id": 8646144,
+  "parent": 8646129,
+  "text": "My comment was not intended as a comparison of this to other desktops, or to imply one. FWIW, I think Gnome 3 and KDE 5 are beautiful.",
+  "time": 1416679450,
+  "type": "comment"
+ },
+ "8646145": {
+  "by": "Dylan16807",
+  "id": 8646145,
+  "parent": 8644506,
+  "text": "A negative remark about someone&#x27;s relevant experience is not ad hominem.",
+  "time": 1416679457,
+  "type": "comment"
+ },
+ "8646146": {
+  "by": "jghn",
+  "id": 8646146,
+  "parent": 8645097,
+  "text": "I&#x27;ll also say that my favorite tactic was often labeled a griefer tactic although I&#x27;ll still vehemently disagree with that assessment.<p>In the first couple of months I had a lot of advantages. I&#x27;d already been playing for months so was familiar w&#x2F; the ins and outs of the game - this led to me being one of the first GM mages on the server (when magery was the only way to really fight). I had a fast connection and single digit pings when most people were just starting to get 28.8 modems - I was often accused of cheating as I&#x27;d appear to warp around people&#x27;s screens (from my perspective I could easily overtake people who were riding horses when I was on foot). While I wasn&#x27;t particularly good at PvP from a player skill perspective, I had enough advantages that I could count on 2 hands the number of people I actually feared.<p>At the time <i>many</i> new players would find themselves dastardly due to clicking on the wrong thing once or twice - they didn&#x27;t even mean to do anything wrong and half the time it was due to lag. So what I&#x27;d do is dress up in newb gear, hang outside the dungeon near Britain and pretend to be very lagged. At the time you couldn&#x27;t see people&#x27;s skill levels (stuff like this is why they put that in) so you&#x27;d just see my character name, that I was dastardly, I appeared to be a n00b and I could barely move.<p>So then these brave souls would attack me, often in a pack - not because they actually thought I was a bad person but because they a) could and b) I was an easy target who couldn&#x27;t fight back. I&#x27;m sure you can see where this is going, after I&#x27;d wipe the floor with their whole crew they&#x27;d come back and call me a cheater and a horrible human being. Sorry, I wasn&#x27;t the one attacking a defenseless n00b.<p>And yes, one could argue this from an RP perspective that in fact my char <i>was</i> a criminal and they were meting out justice but approximately 0.1% of people actually were doing that despite what they&#x27;d claim, the rest were just being turds.",
+  "time": 1416679475,
+  "type": "comment"
+ },
+ "8646147": {
+  "by": "zenciadam",
+  "id": 8646147,
+  "parent": 8645504,
+  "text": "What&#x27;s its ultimate tensile strength of the OS?",
+  "time": 1416679557,
+  "type": "comment"
+ },
+ "8646148": {
+  "by": "eggbrain",
+  "id": 8646148,
+  "parent": 8645849,
+  "text": "I completely agree. This was a struggle for me -- I wanted to show off features on the homepage, but adding a Gif slideshow added a crap ton of load to the page.<p>I wanted to create a video, but my video editing skills are pretty poor and I wanted the experience to be great (even my gifs have a few bugs in them if you look closely). I&#x27;ll work on this for sure.",
+  "time": 1416679561,
+  "type": "comment"
+ },
+ "8646149": {
+  "by": "skdoo",
+  "id": 8646149,
+  "parent": 8645929,
+  "text": "These scooters are designed for a different use case - toys for kids.  The power, reliability, and design reflect that.<p>If you longboard, you would LOVE the Boosted board.",
+  "time": 1416679580,
+  "type": "comment"
+ },
+ "8646150": {
+  "by": "thinkmoore",
+  "id": 8646150,
+  "parent": 8645940,
+  "text": "What window manager&#x2F;etc is <a href=\"http://i.imgur.com/7Tu2i6W.png\" rel=\"nofollow\">http:&#x2F;&#x2F;i.imgur.com&#x2F;7Tu2i6W.png</a>?",
+  "time": 1416679619,
+  "type": "comment"
+ },
+ "8646151": {
+  "by": "Spearchucker",
+  "id": 8646151,
+  "parent": 8645504,
+  "text": "I like this. I don&#x27;t like it because I like Material or even Linux. I like it because I want to build a compelling user interface for my own app. The two best reference UI&#x27;s I&#x27;ve seen (and yes, this is subjective) are Office and Visual Studio. Nothing else out there that&#x27;s even vaguely mainstream and on a desktop pushes boundaries like those two. And yet I like neither of them. My own design (<a href=\"https://www.wittenburg.co.uk/Entry.aspx?id=bc4a9a14-cdd5-4c08-a3a6-9d6f9c7f1656\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wittenburg.co.uk&#x2F;Entry.aspx?id=bc4a9a14-cdd5-4c0...</a>) reflects the best I can do (I&#x27;m not creative, not an expert at UI or UX).<p>And that is why I appreciate both the effort it took to put together, and a new perspective that someone was generous enough to share with me.",
+  "time": 1416679665,
+  "type": "comment"
+ },
+ "8646153": {
+  "by": "skdoo",
+  "id": 8646153,
+  "parent": 8645206,
+  "text": "One of the founders here.  If anyone would like to try one, please email us at community@boostedboards.com!",
+  "time": 1416679682,
+  "type": "comment"
+ },
+ "8646154": {
+  "by": "_delirium",
+  "id": 8646154,
+  "parent": 8645471,
+  "text": "At this point there are at least three fairly major &quot;post-sysV&quot; integrated launch&#x2F;supervision&#x2F;config systems that I would guess the FreeBSD devs will take away some lessons from: Linux&#x27;s systemd, Solaris&#x27;s SMF, and OSX&#x27;s launchd. There was even a project to port launchd to FreeBSD at some point.",
+  "time": 1416679686,
+  "type": "comment"
+ },
+ "8646155": {
+  "by": "graublau",
+  "id": 8646155,
+  "parent": 8645627,
+  "text": "&gt; What does Material even offer to a Desktop OS?<p>A unified design language for a desktop OS is desperately needed in the Linux community.",
+  "time": 1416679714,
+  "type": "comment"
+ },
+ "8646156": {
+  "by": "sgt",
+  "id": 8646156,
+  "parent": 8645443,
+  "text": "We do quite a bit of Java development and particularly with regards to Java EE 7.  In the past I&#x27;ve had bad experiences in terms of a stable Java environment on production servers on FreeBSD.<p>It appears that OpenJDK is the best option on FreeBSD right now - but is it something one can trust as much as Oracle&#x27;s Java on Linux?<p>These are mission critical servers, so I would hesitate to take chances.  To put it in perspective, even the latest Java 8 has a serious bug (on Linux) that we&#x27;ve recently reported to Oracle, so we&#x27;d like to be as risk averse as possible.",
+  "time": 1416679727,
+  "type": "comment"
+ },
+ "8646157": {
+  "by": "avighnay",
+  "id": 8646157,
+  "parent": 8645251,
+  "text": "Based on the name, wonder if the gel is an extract from an ancient medicinal oil from the plant Vetiver (Tamil)? The medicinal properties of this plant are well known since ancient times and are chronicled in ayurvedic practice and ballads of India.<p><a href=\"http://en.wikipedia.org/wiki/Chrysopogon_zizanioides\" rel=\"nofollow\">http:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Chrysopogon_zizanioides</a>\n<a href=\"http://ayurvedicoils.com/tag/vetiver-oil-in-ayurveda\" rel=\"nofollow\">http:&#x2F;&#x2F;ayurvedicoils.com&#x2F;tag&#x2F;vetiver-oil-in-ayurveda</a>",
+  "time": 1416679755,
+  "type": "comment"
+ },
+ "8646158": {
+  "by": "eggbrain",
+  "id": 8646158,
+  "parent": 8645820,
+  "text": "Sorry about this, my guess is it&#x27;s the slideshow on the homepage -- there&#x27;s about 30MB of gifs in that slideshow (terrible, I know), and it should be &quot;lazily loading&quot; them in, but it looks like there  might be a bug with either the slider code or the way I&#x27;m doing it because it keeps taking up more memory the longer you have the homepage open. It&#x27;s on my bug list.",
+  "time": 1416679775,
+  "type": "comment"
  }
 }

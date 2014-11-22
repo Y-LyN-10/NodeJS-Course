@@ -25,19 +25,20 @@ app.use(bodyParser.urlencoded({
 loop(seconds);
 
 function loop(seconds){
-    console.log('waiting for the timeout');
+    console.log('Waitng for the timeout');
+
     setTimeout(function() {
     	getLastSavedItem()
-        	.then(getMaxItem)
+        	.then(getNewMaxItem)
             .then(getNewItemIDs)
-            .then(getContent)
+            .then(getData)
             .then(saveItemsToFS)
             .fail(function(error) {
                 console.log("Failed");
                 console.log(error);
             })
-            .done(function() {
-                console.log('done');
+            .done(function(msg) {
+                console.log(msg);
                 loop(seconds);
             });
      }, seconds);
@@ -45,9 +46,9 @@ function loop(seconds){
 
 function getLastSavedItem() {
 	var defered = Q.defer();
-    var items = ['articles', 'comments'];
+    var filesToRead = ['articles', 'comments'];
 
-    items.forEach(function(fileName, index) {
+    filesToRead.forEach(function(fileName, index) {
         var maxFoundItem;
         fs.readFile(fileName + JSON_EXT, 'utf8', function(err, data) {
             if (err) { return defered.reject(error); }
@@ -60,7 +61,7 @@ function getLastSavedItem() {
             
             lastSavedItem = lastSavedItem > maxFoundItem ? lastSavedItem : maxFoundItem;
 
-            if (index === items.length - 1) {
+            if (index === filesToRead.length - 1) {
                 console.log('Last saved item is: ' + lastSavedItem);
 
                 // Advise: return (maxItem - n) here to get only last n articles
@@ -73,7 +74,7 @@ function getLastSavedItem() {
     return defered.promise;
 }
 
-function getMaxItem() {
+function getNewMaxItem() {
     var defered = Q.defer();
 
     request.get(MAX_ITEM_URL, function(error, response, body) {
@@ -108,7 +109,7 @@ function getNewItemIDs(maxItem) {
     return defered.promise;
 };
 
-function getContent(itemIDs) {
+function getData(itemIDs) {
     var defered = Q.defer();
     var newData = {};
 
@@ -134,41 +135,44 @@ function getContent(itemIDs) {
 
 function saveItemsToFS(data) {
     var defered = Q.defer();
+    var numberOfItems = Object.keys(data).length;
+    var stupidCounter = 0;
 
     for (var key in data) {
         var item = data[key];
 
         if(item.type === 'story'){
-        articles[key] = item;
-        
-        var saveData = JSON.stringify(articles, os.EOL, ' ');
-        fs.writeFile('./articles.json', saveData, 'utf8', function (err) {
-            if (err) {
-                return defered.reject(error);
-            }
-        });
+            articles[key] = item;
+            
+            var saveData = JSON.stringify(articles, os.EOL, ' ');
+            fs.writeFile('./articles.json', saveData, 'utf8', function (err) {
+                if (err) { return defered.reject(error); }
 
-        console.log('Saved to file system article with ID: ' + key +' | Title: ' + item.title);
-                
+                console.log('Saved to file system article with ID: ' + key +' | Title: ' + item.title);
+            });
+
         } else if(item.type === 'comment'){
             comments[key] = item;
+
             var saveData = JSON.stringify(comments, os.EOL, ' ');
-            
             fs.writeFile('./comments.json', saveData, 'utf8', function (err) {
-                if (err) {
-                    return defered.reject(error);
-                }
+                if (err) { return defered.reject(error); }
+                console.log('saved comment with ID: ' + key);
             });
             
-            console.log('saved comment with ID: ' + key);
         } else {
             console.log('unrecognized item: ');
             console.log(item);
         }
+
+        stupidCounter++;
+        if(stupidCounter === numberOfItems-1){
+            lastSavedItem = key;
+            defered.resolve('All new items are saved.');
+        }
+
     }
     
-    lastSavedItem = key;
-    defered.resolve('All new items are saved.');
     return defered.promise;
 }
 

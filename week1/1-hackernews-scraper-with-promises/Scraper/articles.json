@@ -1184,5 +1184,348 @@
   "title": "Why is free food such a big deal to well-paid Silicon Valley tech employees?",
   "type": "story",
   "url": "http://www.quora.com/Why-is-free-food-such-a-big-deal-to-well-paid-Silicon-Valley-tech-employees?share=1"
+ },
+ "8645875": {
+  "by": "petrel",
+  "id": 8645875,
+  "score": 1,
+  "time": 1416673776,
+  "title": "Intel's 3D NAND has 32 layers and 256Gb per die",
+  "type": "story",
+  "url": "http://techreport.com/news/27397/intel-3d-nand-has-32-layers-and-256gb-per-die"
+ },
+ "8645885": {
+  "by": "jcr",
+  "id": 8645885,
+  "score": 2,
+  "text": "",
+  "time": 1416674030,
+  "title": "Statistical Reference Datasets (StRD)",
+  "type": "story",
+  "url": "http://www.itl.nist.gov/div898/strd/"
+ },
+ "8645894": {
+  "deleted": true,
+  "id": 8645894,
+  "time": 1416674212,
+  "type": "story"
+ },
+ "8645899": {
+  "by": "ngduc",
+  "id": 8645899,
+  "kids": [
+   8645919,
+   8645959,
+   8645917,
+   8645918
+  ],
+  "score": 3,
+  "text": "Hi HN,\nAs a developer, I have to keep doing research every day to catch up with the flow.\nNew tools are coming every week. My notes grow uncontrollable like a wild forest.<p>That&#x27;s why I have been working on a tool to help us organize information, research notes in an easy-to-use layout. Please check it out and drop me some feedbacks if it&#x27;s useful to you:<p>http:&#x2F;&#x2F;ipim.com<p>I used to be a big fan of KeyNote (http:&#x2F;&#x2F;www.tranglos.com&#x2F;free&#x2F;keynote.html) &amp; used it a lot in the past. It inspired me to create ipim. More features are coming since I&#x27;m also using it heavily as my daily tool.<p>I hope you find it useful! Thanks HN,\nDylan N.",
+  "time": 1416674276,
+  "title": "Ask HN: How about a tool to organize information?",
+  "type": "story",
+  "url": ""
+ },
+ "8645903": {
+  "deleted": true,
+  "id": 8645903,
+  "time": 1416674405,
+  "type": "story"
+ },
+ "8645904": {
+  "by": "iodigitalsec",
+  "id": 8645904,
+  "score": 2,
+  "text": "",
+  "time": 1416674422,
+  "title": "DNS Black List/RBL Checking in Python",
+  "type": "story",
+  "url": "http://www.iodigitalsec.com/dns-black-list-rbl-checking-in-python/"
+ },
+ "8645915": {
+  "deleted": true,
+  "id": 8645915,
+  "time": 1416674648,
+  "type": "story"
+ },
+ "8645930": {
+  "by": "superfx",
+  "id": 8645930,
+  "score": 2,
+  "text": "",
+  "time": 1416674937,
+  "title": "When trees fall: Programming, machine learning, and artificial intelligence",
+  "type": "story",
+  "url": "http://blog.wtf.sg"
+ },
+ "8645936": {
+  "by": "miamiaali",
+  "dead": true,
+  "id": 8645936,
+  "score": 1,
+  "text": "",
+  "time": 1416674989,
+  "title": "Astronomers Find Cluster of Quasars Aligned Perfectly Across Billion Light Years",
+  "type": "story",
+  "url": "http://www.cosmosup.com/astronomers-find-cluster-of-quasars-aligned-perfectly-across-billion-light-years"
+ },
+ "8645937": {
+  "by": "olivier5199",
+  "id": 8645937,
+  "kids": [
+   8645947
+  ],
+  "score": 5,
+  "text": "",
+  "time": 1416675007,
+  "title": "Prizm, the perfect music on your speakers. No phone, no laptop",
+  "type": "story",
+  "url": "http://techcrunch.com/2014/11/21/prizm-automatically-plays-music-you-like-to-transform-your-living-room-into-your-favorite-coffee-shop/"
+ },
+ "8645941": {
+  "by": "lezlow",
+  "dead": true,
+  "id": 8645941,
+  "score": 1,
+  "time": 1416675068,
+  "title": "ILLUMINATI LOSING GRIP OF SATURN TIME",
+  "type": "story",
+  "url": "https://www.youtube.com/watch?v=4KwrJxrVqrI"
+ },
+ "8645942": {
+  "by": "mkaroumi",
+  "dead": true,
+  "id": 8645942,
+  "score": 1,
+  "text": "",
+  "time": 1416675071,
+  "title": "WhatsApp Adds End-to-End Encryption",
+  "type": "story",
+  "url": "http://thehackernews.com/2014/11/whatsapp-messenger-app-adds-end-to-end.html"
+ },
+ "8645956": {
+  "by": "dpweb",
+  "dead": true,
+  "id": 8645956,
+  "score": 1,
+  "time": 1416675316,
+  "title": "Transforming JSON objects",
+  "type": "story",
+  "url": "https://github.com/dpweb/transform"
+ },
+ "8645960": {
+  "by": "thusu",
+  "id": 8645960,
+  "score": 1,
+  "text": "",
+  "time": 1416675398,
+  "title": "Samsung Innovation Challenge winner Geasy: 2-touch SMS read and reply",
+  "type": "story",
+  "url": "http://geasy.io/"
+ },
+ "8645971": {
+  "by": "ingve",
+  "id": 8645971,
+  "score": 1,
+  "text": "",
+  "time": 1416675618,
+  "title": "The Superficial Look at C++11 with some nips to Java",
+  "type": "story",
+  "url": "http://www.ykode.com/2014/11/21/cpp11-java-superficial-syntax.html"
+ },
+ "8645978": {
+  "deleted": true,
+  "id": 8645978,
+  "time": 1416675716,
+  "type": "story"
+ },
+ "8645988": {
+  "by": "Pagwizer",
+  "dead": true,
+  "id": 8645988,
+  "score": 1,
+  "text": "",
+  "time": 1416675894,
+  "title": "Pagewiz Templates competition – $14,000 worth of prizes are up for grabs",
+  "type": "story",
+  "url": "http://go.pagewiz.com/emw/"
+ },
+ "8645992": {
+  "by": "danso",
+  "id": 8645992,
+  "score": 1,
+  "text": "",
+  "time": 1416675932,
+  "title": "The case against comments",
+  "type": "story",
+  "url": "http://www.washingtonpost.com/blogs/the-switch/wp/2014/11/21/the-case-against-comments/"
+ },
+ "8646011": {
+  "by": "jbrooksuk",
+  "id": 8646011,
+  "score": 1,
+  "text": "",
+  "time": 1416676403,
+  "title": "What's next for Cachet? The open source status page",
+  "type": "story",
+  "url": "http://james-brooks.uk/whats-next-for-cachet/"
+ },
+ "8646021": {
+  "by": "philip1209",
+  "id": 8646021,
+  "score": 1,
+  "time": 1416676681,
+  "title": "Physics of Beer Tapping",
+  "type": "story",
+  "url": "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.113.214501?utm_source=email&utm_medium=email&utm_campaign=prl-alert"
+ },
+ "8646024": {
+  "by": "stirno",
+  "id": 8646024,
+  "score": 2,
+  "text": "",
+  "time": 1416676776,
+  "title": "A Letter to our consumers – The Next Chapter",
+  "type": "story",
+  "url": "https://aereo.com/?bankruptcy"
+ },
+ "8646039": {
+  "by": "cpach",
+  "id": 8646039,
+  "score": 1,
+  "text": "",
+  "time": 1416677131,
+  "title": "New list: freebsd-cloud at freebsd.org",
+  "type": "story",
+  "url": "https://lists.freebsd.org/pipermail/freebsd-cloud/2014-November/000000.html"
+ },
+ "8646048": {
+  "by": "octavdruta",
+  "id": 8646048,
+  "score": 1,
+  "text": "",
+  "time": 1416677304,
+  "title": "How Groupon's Engineers Use Ember.js",
+  "type": "story",
+  "url": "http://www.talentbuddy.co/blog/building-with-ember-js-at-groupon/"
+ },
+ "8646055": {
+  "by": "jpsilvashy1",
+  "id": 8646055,
+  "score": 1,
+  "text": "",
+  "time": 1416677426,
+  "title": "Shuddle is hiring Ruby engineers",
+  "type": "story",
+  "url": "http://careers.stackoverflow.com/jobs/74417/ruby-engineer-shuddle"
+ },
+ "8646060": {
+  "by": "jdanylko",
+  "id": 8646060,
+  "score": 1,
+  "text": "",
+  "time": 1416677480,
+  "title": "ASP.NET MVC HtmlHelpers: Clean Up Your Views with HtmlHelpers",
+  "type": "story",
+  "url": "http://www.danylkoweb.com/Blog/aspnet-mvc-htmlhelpers-clean-up-your-views-with-htmlhelpers-KK"
+ },
+ "8646063": {
+  "by": "JumpCrisscross",
+  "id": 8646063,
+  "score": 1,
+  "text": "",
+  "time": 1416677511,
+  "title": "China launches for the second time in 24 hours",
+  "type": "story",
+  "url": "http://spaceflightnow.com/2014/11/21/china-launches-for-the-second-time-in-24-hours/"
+ },
+ "8646093": {
+  "by": "pmoriarty",
+  "id": 8646093,
+  "score": 1,
+  "text": "",
+  "time": 1416678025,
+  "title": "Scheme SRFI-1 (1998)",
+  "type": "story",
+  "url": "http://srfi.schemers.org/srfi-1/srfi-1.html"
+ },
+ "8646120": {
+  "by": "denismars",
+  "id": 8646120,
+  "score": 1,
+  "text": "",
+  "time": 1416678733,
+  "title": "CERN frees LHC Data",
+  "type": "story",
+  "url": "http://www.symmetrymagazine.org/article/november-2014/cern-frees-lhc-data"
+ },
+ "8646123": {
+  "by": "roquin",
+  "id": 8646123,
+  "score": 1,
+  "text": "I have been programmed in Obj-C and Swift for a while and really liked Automatic Reference Counting. It use less memory and provide more deterministic behavior than the best garbage collected languages we have now. Why we don&#x27;t see more language using ARC rather than GC?",
+  "time": 1416678809,
+  "title": "Ask HN: Why ARC is not adopted by other languages than Apple's?",
+  "type": "story",
+  "url": ""
+ },
+ "8646124": {
+  "by": "ot",
+  "id": 8646124,
+  "score": 1,
+  "time": 1416678809,
+  "title": "ConvNetJS CIFAR-10 demo",
+  "type": "story",
+  "url": "http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html"
+ },
+ "8646126": {
+  "by": "11thEarlOfMar",
+  "id": 8646126,
+  "score": 1,
+  "text": "",
+  "time": 1416678864,
+  "title": "Lending Club Experiment",
+  "type": "story",
+  "url": "http://www.mrmoneymustache.com/the-lending-club-experiment/"
+ },
+ "8646131": {
+  "by": "strategy",
+  "id": 8646131,
+  "score": 1,
+  "text": "",
+  "time": 1416679070,
+  "title": "Lattice Multiplication – An Easy Way to Multiply Numbers or Polynomials",
+  "type": "story",
+  "url": "http://www.youtube.com/watch?v=8A8LTptgpGU"
+ },
+ "8646139": {
+  "by": "lightblade",
+  "id": 8646139,
+  "score": 1,
+  "text": "",
+  "time": 1416679327,
+  "title": "“Robocop” security",
+  "type": "story",
+  "url": "http://rt.com/usa/207395-robocop-security-silicon-valley/"
+ },
+ "8646140": {
+  "by": "nicolagreco",
+  "id": 8646140,
+  "score": 1,
+  "text": "",
+  "time": 1416679329,
+  "title": "Show HN: Press spacebar to interact with a website",
+  "type": "story",
+  "url": "https://github.com/nicola/spacebar"
+ },
+ "8646152": {
+  "by": "louwrentius",
+  "id": 8646152,
+  "score": 1,
+  "text": "",
+  "time": 1416679672,
+  "title": "Systemd Forward Secure Sealing of System Logs Makes Little Sense",
+  "type": "story",
+  "url": "http://louwrentius.com/systemd-forward-secure-sealing-of-system-logs-makes-little-sense.html"
  }
 }
