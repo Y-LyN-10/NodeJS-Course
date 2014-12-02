@@ -1,12 +1,13 @@
 'use strict';
 
+require('./config/mongoose')();
+
 var express = require('express'),
     app = express(),
     bodyParser = require('body-parser'),
     session = require('express-session'),
     passport = require('./config/auth'),
     port = parseInt(process.env.PORT, 10) || 3000;
-    require('./config/mongoose')();
 
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
