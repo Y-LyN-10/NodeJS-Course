@@ -1,0 +1,9 @@
+{
+  "name": "JSON-To-Mongo",
+  "version": "1.0.0",
+  "description": "My first MongoDB project",
+  "main": "app.js",
+  "dependencies": {
+    "mongodb": "~2.0"
+  }
+}
