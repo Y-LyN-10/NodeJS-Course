@@ -2,7 +2,7 @@ var mongoose = require('mongoose'),
     Snippet = require('../models/Snippet');
 
 module.exports = function () {
-    mongoose.connect('mongodb://localhost/users');
+    mongoose.connect('mongodb://localhost/snippetsdb');
     var db = mongoose.connection;
 
     db.once('open', function(err) {
