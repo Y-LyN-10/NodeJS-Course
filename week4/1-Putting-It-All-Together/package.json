@@ -1,0 +1,14 @@
+{
+  "name": "Code-Snippet-System",
+  "version": "1.0.0",
+  "description": "A simple code-snippet system -  RESTful Express API which CRUDs code snippets.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Y-Lyn-10",
+  "license": "MIT",
+  "dependencies": {
+    "jade": "^1.8.1"
+  }
+}
