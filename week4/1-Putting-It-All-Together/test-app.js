@@ -66,4 +66,4 @@ describe('GET /snippets', function () {
             });
         });
     });
-});g
+});
