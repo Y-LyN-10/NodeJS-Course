@@ -4,13 +4,17 @@
   "description": "A simple code-snippet system -  RESTful Express API which CRUDs code snippets.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test-app.js",
+    "start": "nodemon app.js"
   },
   "author": "Y-Lyn-10",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.10.0",
+    "chai": "^1.10.0",
     "express": "^4.10.4",
-    "mongoose": "^3.8.20"
+    "mocha": "^2.0.1",
+    "mongoose": "^3.8.20",
+    "supertest": "^0.15.0"
   }
 }
